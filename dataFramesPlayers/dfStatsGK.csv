@@ -1,0 +1,167 @@
+index,player,total_goals_against,penalty_goals_against,penalty_saves,non_penalty_goals_against,penalty_onTarget_attempts,penalty_saves_percentage%,shot_onTarget_saved,save%,save_both_hands,save_chest,save_head,save_left_foot,save_left_hand,right_foot,save_right_hand,team,MP,competition
+0,Alberto García Cabrera,13,1,2,12,3,66.66666666666666,25,67.56756756756756,21,0,0,1,0,2,1,Sporting Gijón,6,Spain - La Liga
+1,Alphonse Areola,25,1,1,24,2,50.0,82,77.35849056603774,57,1,0,6,3,4,11,Villarreal,32,Spain - La Liga
+2,Andrés Eduardo Fernández Moreno,64,4,0,60,4,0.0,100,62.5,64,1,1,6,7,6,15,Granada,37,Spain - La Liga
+3,Antonio Adán Garrido,49,0,0,49,0,0.0,125,71.83908045977012,81,4,1,8,8,8,15,Real Betis,36,Spain - La Liga
+4,Antonio Rodríguez Martínez,12,2,1,10,3,33.33333333333333,24,70.58823529411765,17,0,0,0,1,3,3,Rayo Vallecano,10,Spain - La Liga
+5,António Alberto Bastos Pimparel,8,1,0,7,1,0.0,13,65.0,11,0,0,0,1,1,0,Sevilla,4,Spain - La Liga
+6,Asier Riesgo Unamuno,53,3,1,50,4,25.0,79,61.240310077519375,54,0,1,6,5,3,10,Eibar,34,Spain - La Liga
+7,Claudio Andrés Bravo Muñoz,20,1,0,19,1,0.0,83,81.37254901960785,66,3,1,2,6,2,3,Barcelona,32,Spain - La Liga
+8,Cristiano Biraghi,1,0,0,1,0,0.0,0,0.0,0,0,0,0,0,0,0,Granada,32,Spain - La Liga
+9,Daniel Giménez Hernández,2,0,0,2,0,0.0,5,71.42857142857143,4,0,0,0,0,1,0,Real Betis,3,Spain - La Liga
+10,Diego Alves Carreira,20,1,0,19,1,0.0,45,70.3125,27,1,1,1,4,3,8,Valencia,13,Spain - La Liga
+11,Diego Mariño Villar,40,3,0,37,3,0.0,77,67.54385964912281,46,3,2,3,7,6,10,Levante UD,23,Spain - La Liga
+12,Francisco Casilla Cortés,6,0,0,6,0,0.0,13,68.42105263157895,10,0,0,1,1,0,1,Real Madrid,4,Spain - La Liga
+13,Francisco Guillermo Ochoa Magaña,10,0,0,10,0,0.0,29,74.35897435897436,21,1,0,0,5,1,1,Málaga,11,Spain - La Liga
+14,Germán Darío Lux,37,3,1,34,4,25.0,75,68.80733944954129,50,1,0,3,5,5,11,RC Deportivo La Coruña,29,Spain - La Liga
+15,Gerónimo Rulli,42,3,1,39,4,25.0,105,72.91666666666666,65,2,0,5,7,6,20,Real Sociedad,36,Spain - La Liga
+16,Giedrius Arlauskis,11,1,0,10,1,0.0,7,41.17647058823529,7,0,0,0,0,0,0,Espanyol,3,Spain - La Liga
+17,Gorka Iraizoz Moreno,35,4,1,31,5,20.0,91,74.59016393442623,60,3,0,3,10,3,12,Athletic Club,37,Spain - La Liga
+18,Iago Herrerín Buisán,8,2,0,6,2,0.0,2,25.0,1,0,0,1,0,0,0,Athletic Club,2,Spain - La Liga
+19,Idriss Carlos Kameni,22,1,1,21,2,50.0,73,77.6595744680851,52,3,0,3,2,6,7,Málaga,28,Spain - La Liga
+20,Iván Cuéllar Sacristán,48,5,1,43,6,16.666666666666664,112,72.25806451612902,89,0,0,4,10,3,6,Sporting Gijón,32,Spain - La Liga
+21,Jan Oblak,18,1,0,17,1,0.0,84,83.16831683168317,70,0,0,2,4,3,5,Atlético Madrid,38,Spain - La Liga
+22,Jaume Doménech Sánchez,18,0,2,18,2,100.0,61,77.21518987341773,49,0,0,1,5,1,5,Valencia,17,Spain - La Liga
+23,Javier Varas Herrera,39,1,0,38,1,0.0,97,71.85185185185186,62,5,0,9,7,4,10,Las Palmas,31,Spain - La Liga
+24,Jesús Fernández Collado,2,0,0,2,0,0.0,4,66.66666666666666,2,1,0,0,0,0,1,Granada,1,Spain - La Liga
+25,Juan Carlos Martín Corral,35,3,1,32,4,25.0,64,66.66666666666666,48,1,0,2,4,2,7,Rayo Vallecano,21,Spain - La Liga
+26,Keylor Navas Gamboa,28,1,3,27,4,75.0,91,77.11864406779661,55,3,0,5,4,6,18,Real Madrid,34,Spain - La Liga
+27,Manuel Fernández Muñíz,17,0,0,17,0,0.0,16,48.484848484848484,14,1,0,0,0,0,1,RC Deportivo La Coruña,9,Spain - La Liga
+28,Marc-André ter Stegen,7,0,0,7,0,0.0,13,65.0,12,0,0,0,1,0,0,Barcelona,7,Spain - La Liga
+29,Mariano Damián Barbosa,4,0,0,4,0,0.0,6,60.0,3,1,0,0,1,0,1,Villarreal,2,Spain - La Liga
+30,Mathew Ryan,9,1,0,8,1,0.0,22,73.33333333333333,19,1,0,0,0,1,1,Valencia,8,Spain - La Liga
+31,Oier Olazábal Paredes,5,2,0,3,2,0.0,4,57.14285714285714,4,0,0,0,0,0,0,Real Sociedad,3,Spain - La Liga
+32,Pau López Sabata,61,5,0,56,5,0.0,102,64.55696202531645,74,1,1,5,7,4,10,Espanyol,36,Spain - La Liga
+33,Raúl Lizoáin Cruz,13,2,0,11,2,0.0,35,76.08695652173914,28,2,0,1,1,1,2,Las Palmas,8,Spain - La Liga
+34,Rubén Blanco Veiga,12,0,0,12,0,0.0,19,61.29032258064516,15,0,1,0,0,1,2,Celta Vigo,8,Spain - La Liga
+35,Rubén Iván Martínez Andrade,27,2,1,25,3,33.33333333333333,40,61.53846153846154,24,3,1,3,6,1,2,Levante UD,15,Spain - La Liga
+36,Sergio Asenjo Andrés,5,1,0,4,1,0.0,12,75.0,11,0,0,0,0,0,1,Villarreal,4,Spain - La Liga
+37,Sergio Rico González,40,1,0,39,1,0.0,107,73.28767123287672,86,4,1,3,4,4,5,Sevilla,34,Spain - La Liga
+38,Sergio Álvarez Conde,45,3,1,42,4,25.0,86,67.1875,64,0,0,5,10,4,3,Celta Vigo,31,Spain - La Liga
+39,Stipe Pletikosa,6,0,0,6,0,0.0,5,45.45454545454545,1,0,0,2,1,1,0,RC Deportivo La Coruña,2,Spain - La Liga
+40,Vicente Guaita Panadero,66,8,2,58,10,20.0,122,67.77777777777779,80,9,0,3,14,5,11,Getafe,38,Spain - La Liga
+41,Xabier Iruretagoiena Aranzamendi,7,0,0,7,0,0.0,13,65.0,10,0,0,0,1,0,2,Eibar,4,Spain - La Liga
+42,Yoel Rodríguez Oterino,24,2,0,22,2,0.0,27,55.10204081632652,17,0,0,3,2,0,5,Rayo Vallecano,10,Spain - La Liga
+0,Alexander Manninger,3,0,0,3,0,0.0,2,40.0,0,0,0,0,0,1,1,Augsburg,2,Germany - 1. Bundesliga
+1,Andreas Hirzel,2,1,0,1,1,0.0,1,50.0,1,0,0,0,0,0,0,Hamburger SV,1,Germany - 1. Bundesliga
+2,Bernd Leno,37,5,1,32,6,16.666666666666664,96,75.0,60,1,0,4,5,11,15,Bayer Leverkusen,33,Germany - 1. Bundesliga
+3,Christian Mathenia,48,3,1,45,4,25.0,101,69.17808219178082,68,3,0,5,7,8,10,Darmstadt 98,33,Germany - 1. Bundesliga
+4,Dario Kresic,1,0,0,1,0,0.0,1,50.0,1,0,0,0,0,0,0,Bayer Leverkusen,1,Germany - 1. Bundesliga
+5,David Yelldell,1,1,0,0,1,0.0,1,100.0,0,0,0,0,0,0,1,Bayer Leverkusen,1,Germany - 1. Bundesliga
+6,Diego Orlando Benaglio,39,1,0,38,1,0.0,59,60.824742268041234,39,4,0,7,1,5,3,Wolfsburg,21,Germany - 1. Bundesliga
+7,Felix Wiedwald,62,6,0,56,6,0.0,109,66.06060606060606,70,3,0,5,5,13,13,Werder Bremen,34,Germany - 1. Bundesliga
+8,Jaroslav Drobný,10,0,1,10,1,100.0,34,77.27272727272727,24,0,1,0,3,1,5,Hamburger SV,10,Germany - 1. Bundesliga
+9,Jens Grahl,3,0,0,3,0,0.0,5,62.5,4,0,0,0,0,0,1,Hoffenheim,1,Germany - 1. Bundesliga
+10,Koen Casteels,10,0,1,10,1,100.0,38,79.16666666666666,27,1,0,3,2,1,4,Wolfsburg,13,Germany - 1. Bundesliga
+11,Loris Karius,41,3,2,38,5,40.0,115,75.16339869281046,88,7,0,1,5,1,13,FSV Mainz 05,34,Germany - 1. Bundesliga
+12,Lukáš Hrádecký,52,3,1,49,4,25.0,120,71.00591715976331,71,6,0,8,13,9,13,Eintracht Frankfurt,34,Germany - 1. Bundesliga
+13,Manuel Neuer,15,1,0,14,1,0.0,60,81.08108108108108,46,2,0,3,2,2,5,Bayern Munich,34,Germany - 1. Bundesliga
+14,Marwin Hitz,48,5,1,43,6,16.666666666666664,124,74.25149700598801,92,2,0,2,13,1,14,Augsburg,33,Germany - 1. Bundesliga
+15,Mitchell James Langerak,6,0,0,6,0,0.0,12,66.66666666666666,4,1,0,1,5,0,1,VfB Stuttgart,2,Germany - 1. Bundesliga
+16,Odisseas Vlachodimos,7,1,0,6,1,0.0,5,45.45454545454545,5,0,0,0,0,0,0,VfB Stuttgart,3,Germany - 1. Bundesliga
+17,Oliver Baumann,48,2,0,46,2,0.0,146,76.04166666666666,106,2,2,7,12,2,15,Hoffenheim,33,Germany - 1. Bundesliga
+18,Przemysław Tytoń,55,3,1,52,4,25.0,114,68.67469879518072,76,3,0,4,5,10,16,VfB Stuttgart,30,Germany - 1. Bundesliga
+19,Ralf Fährmann,47,2,1,45,3,33.33333333333333,110,70.96774193548387,70,3,3,3,10,5,16,Schalke 04,34,Germany - 1. Bundesliga
+20,Ramazan Özcan,29,2,0,27,2,0.0,59,68.6046511627907,36,3,0,4,10,1,5,Ingolstadt,28,Germany - 1. Bundesliga
+21,René Adler,31,3,0,28,3,0.0,81,74.31192660550458,49,1,2,6,13,3,7,Hamburger SV,24,Germany - 1. Bundesliga
+22,Roman Bürki,33,4,0,29,4,0.0,70,70.70707070707071,53,0,0,4,5,2,6,Borussia Dortmund,33,Germany - 1. Bundesliga
+23,Ron-Robert Zieler,61,7,0,54,7,0.0,143,72.58883248730965,103,2,0,7,14,6,11,Hannover 96,34,Germany - 1. Bundesliga
+24,Rune Almenning Jarstein,35,4,0,31,4,0.0,86,73.50427350427351,64,2,0,2,4,3,11,Hertha Berlin,29,Germany - 1. Bundesliga
+25,Sven Ulreich,1,0,0,1,0,0.0,2,66.66666666666666,1,0,0,0,0,0,1,Bayern Munich,1,Germany - 1. Bundesliga
+26,Thomas Kessler,2,0,0,2,0,0.0,3,60.0,2,0,0,0,0,0,1,FC Köln,1,Germany - 1. Bundesliga
+27,Thomas Kraft,7,0,0,7,0,0.0,14,66.66666666666666,12,1,0,0,0,1,0,Hertha Berlin,6,Germany - 1. Bundesliga
+28,Timo Horn,40,3,1,37,4,25.0,115,75.6578947368421,81,1,0,3,17,7,6,FC Köln,33,Germany - 1. Bundesliga
+29,Tom Mickel,1,0,0,1,0,0.0,6,85.71428571428571,4,1,0,0,0,0,1,Hamburger SV,1,Germany - 1. Bundesliga
+30,Yann Sommer,47,7,0,40,7,0.0,97,70.8029197080292,76,2,1,4,3,2,9,Borussia Mönchengladbach,32,Germany - 1. Bundesliga
+31,Ørjan Håskjold Nyland,13,1,1,12,2,50.0,14,53.84615384615385,9,0,0,0,1,1,3,Ingolstadt,6,Germany - 1. Bundesliga
+32,Łukasz Załuska,2,0,0,2,0,0.0,1,33.33333333333333,0,0,0,0,0,0,1,Darmstadt 98,1,Germany - 1. Bundesliga
+0,Albano Benjamín Bizzarri,41,2,2,39,4,50.0,118,75.15923566878982,86,2,0,4,8,2,16,Chievo,35,Italy - Serie A
+1,Alberto Brignoli,5,1,0,4,1,0.0,7,63.63636363636363,5,0,0,1,1,0,0,Sampdoria,1,Italy - Serie A
+2,Alberto Pelagotti,5,1,0,4,1,0.0,26,86.66666666666667,20,1,0,1,1,0,3,Empoli,6,Italy - Serie A
+3,Andrea Consigli,37,2,2,35,4,50.0,101,74.26470588235294,78,0,0,3,5,8,7,Sassuolo,37,Italy - Serie A
+4,Andrea Seculin,2,0,0,2,0,0.0,13,86.66666666666667,10,0,0,0,0,2,1,Chievo,3,Italy - Serie A
+5,Angelo Esmael da Costa Júnior,4,1,0,3,1,0.0,12,80.0,10,0,0,0,1,0,1,Bologna,5,Italy - Serie A
+6,Anton Ciprian Tătărușanu,39,0,0,39,0,0.0,67,63.20754716981132,52,2,0,5,4,1,3,Fiorentina,37,Italy - Serie A
+7,Antonio Mirante,41,7,1,34,8,12.5,95,73.64341085271317,66,2,0,1,9,8,9,Bologna,33,Italy - Serie A
+8,Boris Radunović,1,0,0,1,0,0.0,1,50.0,0,1,0,0,0,0,0,Atalanta,1,Italy - Serie A
+9,Daniele Padelli,48,7,0,41,7,0.0,89,68.46153846153847,63,0,0,5,13,3,5,Torino,35,Italy - Serie A
+10,Davide Bassi,3,1,0,2,1,0.0,3,60.0,3,0,0,0,0,0,0,Atalanta,1,Italy - Serie A
+11,Diego López Rodríguez,13,1,0,12,1,0.0,16,57.14285714285714,9,1,0,1,3,1,1,AC Milan,8,Italy - Serie A
+12,Emiliano Viviano,54,5,4,49,9,44.44444444444444,136,73.51351351351352,103,0,0,7,6,5,15,Sampdoria,37,Italy - Serie A
+13,Etrit Berisha,13,1,1,12,2,50.0,28,70.0,22,3,0,0,1,0,2,Lazio,11,Italy - Serie A
+14,Eugenio Lamanna,17,1,0,16,1,0.0,39,70.9090909090909,31,0,0,0,2,1,5,Genoa,13,Italy - Serie A
+15,Fabrizio Alastra,6,0,0,6,0,0.0,4,40.0,1,0,0,0,0,1,2,Palermo,2,Italy - Serie A
+16,Federico Marchetti,37,3,2,34,5,40.0,75,68.80733944954129,58,0,0,1,5,4,7,Lazio,29,Italy - Serie A
+17,Francesco Bardi,3,1,1,2,2,50.0,9,81.81818181818183,7,0,0,0,0,0,2,Frosinone,2,Italy - Serie A
+18,Francesco Benussi,3,0,0,3,0,0.0,8,72.72727272727273,5,0,0,1,1,0,1,Carpi,4,Italy - Serie A
+19,Gabriel Vasconelos Ferreira,3,1,1,2,2,50.0,3,60.0,3,0,0,0,0,0,0,Napoli,1,Italy - Serie A
+20,Gianluca Pegolo,2,1,0,1,1,0.0,4,80.0,4,0,0,0,0,0,0,Sassuolo,2,Italy - Serie A
+21,Gianluigi Buffon,16,2,1,14,3,33.33333333333333,71,83.52941176470588,52,1,0,3,3,5,7,Juventus,35,Italy - Serie A
+22,Gianluigi Donnarumma,29,3,0,26,3,0.0,81,75.70093457943925,58,1,0,4,7,2,9,AC Milan,30,Italy - Serie A
+23,José Manuel Reina Páez,29,3,0,26,3,0.0,52,66.66666666666666,37,0,0,2,2,4,7,Napoli,37,Italy - Serie A
+24,Juan Pablo Carrizo,4,0,0,4,0,0.0,3,42.857142857142854,2,0,0,1,0,0,0,Inter Milan,2,Italy - Serie A
+25,Luca Lezzerini,3,1,0,2,1,0.0,4,66.66666666666666,3,0,0,1,0,0,0,Fiorentina,2,Italy - Serie A
+26,Marco Sportiello,42,4,3,38,7,42.857142857142854,105,73.42657342657343,84,1,0,2,6,5,7,Atalanta,36,Italy - Serie A
+27,Massimo Zenildo Zappino,14,2,0,12,2,0.0,19,61.29032258064516,11,0,0,1,4,1,2,Frosinone,4,Italy - Serie A
+28,Mattia Perin,28,0,1,28,1,100.0,83,74.77477477477478,67,0,0,2,7,2,5,Genoa,25,Italy - Serie A
+29,Maurizio Pugliesi,1,0,0,1,0,0.0,4,80.0,3,0,0,1,0,0,0,Empoli,1,Italy - Serie A
+30,Morgan De Sanctis,6,1,1,5,2,50.0,10,66.66666666666666,6,0,0,2,0,1,1,AS Roma,4,Italy - Serie A
+31,Nicola Leali,58,4,1,54,5,20.0,121,69.14285714285714,88,2,0,6,10,4,11,Frosinone,33,Italy - Serie A
+32,Norberto Murara Neto,3,1,0,2,1,0.0,3,60.0,3,0,0,0,0,0,0,Juventus,3,Italy - Serie A
+33,Orestis Karnezis,59,7,1,52,8,12.5,109,67.70186335403726,79,1,0,3,11,3,12,Udinese,38,Italy - Serie A
+34,Pierluigi Gollini,43,5,0,38,5,0.0,68,64.15094339622641,45,1,0,6,4,9,3,Hellas Verona,26,Italy - Serie A
+35,Rafael de Andrade Bittencourt Pinheiro,18,1,0,17,1,0.0,42,71.1864406779661,33,2,0,0,1,3,3,Hellas Verona,12,Italy - Serie A
+36,Salvador Ichazo Fernández,4,0,0,4,0,0.0,6,60.0,5,0,0,0,1,0,0,Torino,3,Italy - Serie A
+37,Samir Handanovič,33,5,1,28,6,16.666666666666664,111,79.85611510791367,67,1,1,12,9,6,15,Inter Milan,36,Italy - Serie A
+38,Simone Colombi,2,1,0,1,1,0.0,7,87.5,6,0,0,0,1,0,0,Carpi,2,Italy - Serie A
+39,Stefano Sorrentino,55,6,0,49,6,0.0,121,71.17647058823529,73,1,0,4,10,12,21,Palermo,35,Italy - Serie A
+40,Vid Belec,41,3,1,38,4,25.0,89,70.07874015748031,72,1,0,1,4,1,10,Carpi,30,Italy - Serie A
+41,Wojciech Szczęsny,32,5,0,27,5,0.0,100,78.74015748031496,77,6,0,3,3,1,10,AS Roma,34,Italy - Serie A
+42,Łukasz Skorupski,42,1,0,41,1,0.0,86,67.71653543307087,66,2,0,2,5,5,6,Empoli,31,Italy - Serie A
+43,Željko Brkić,12,2,0,10,2,0.0,13,56.52173913043478,8,1,0,0,2,2,0,Carpi,4,Italy - Serie A
+0,Adam Federici,15,1,0,14,1,0.0,13,48.148148148148145,8,0,0,1,3,0,1,AFC Bournemouth,6,England - Premier League
+1,Adrián San Miguel del Castillo,37,5,2,32,7,28.57142857142857,98,75.38461538461539,61,4,1,6,6,8,12,West Ham United,32,England - Premier League
+2,Alex McCarthy,7,1,0,6,1,0.0,33,84.61538461538461,23,3,0,1,0,2,4,Crystal Palace,7,England - Premier League
+3,Artur Boruc,51,3,1,48,4,25.0,71,59.66386554621849,47,3,0,4,10,2,5,AFC Bournemouth,32,England - Premier League
+4,Asmir Begović,24,2,0,22,2,0.0,59,72.8395061728395,43,2,0,4,5,1,4,Chelsea,17,England - Premier League
+5,Ben Foster,16,1,0,15,1,0.0,46,75.40983606557377,33,3,1,1,3,3,2,West Bromwich Albion,15,England - Premier League
+6,Bradley Guzan,55,2,0,53,2,0.0,86,61.87050359712231,57,4,1,1,10,4,9,Aston Villa,28,England - Premier League
+7,Costel Fane Pantilimon,32,4,0,28,4,0.0,71,71.71717171717171,55,0,0,1,3,7,5,Sunderland,17,England - Premier League
+8,Danny Ward,4,0,0,4,0,0.0,11,73.33333333333333,6,0,0,0,1,2,2,Liverpool,2,England - Premier League
+9,Darren Randolph,12,1,0,11,1,0.0,13,54.166666666666664,9,0,0,0,0,1,3,West Ham United,6,England - Premier League
+10,David Ospina Ramírez,5,0,0,5,0,0.0,17,77.27272727272727,13,0,0,0,1,0,3,Arsenal,4,England - Premier League
+11,David de Gea Quintana,31,2,0,29,2,0.0,82,73.87387387387388,44,1,0,6,2,12,17,Manchester United,34,England - Premier League
+12,Declan Rudd,22,4,0,18,4,0.0,31,63.26530612244898,19,2,0,3,4,1,2,Norwich City,11,England - Premier League
+13,Fraser Forster,17,0,0,17,0,0.0,54,76.05633802816901,37,1,0,3,3,5,5,Southampton,18,England - Premier League
+14,Giedrius Arlauskis,1,0,0,1,0,0.0,0,0.0,0,0,0,0,0,0,0,Watford,1,England - Premier League
+15,Glyn Oliver Myhill,29,4,0,25,4,0.0,65,72.22222222222221,50,0,0,3,3,3,6,West Bromwich Albion,23,England - Premier League
+16,Heurelho da Silva Gomes,47,4,3,43,7,42.857142857142854,123,74.09638554216868,81,3,0,4,14,3,18,Watford,38,England - Premier League
+17,Hugo Lloris,32,2,0,30,2,0.0,86,74.13793103448276,67,2,0,2,8,1,6,Tottenham Hotspur,37,England - Premier League
+18,Jack Butland,37,3,0,34,3,0.0,98,74.24242424242425,69,4,0,4,5,7,9,Stoke City,31,England - Premier League
+19,Jakob Haugaard,11,1,0,10,1,0.0,12,54.54545454545454,12,0,0,0,0,0,0,Stoke City,5,England - Premier League
+20,Joe Hart,34,1,0,33,1,0.0,73,68.86792452830188,42,4,0,3,9,7,8,Manchester City,35,England - Premier League
+21,Joel Robles Blázquez,19,1,0,18,1,0.0,47,72.3076923076923,34,0,0,4,4,5,0,Everton,13,England - Premier League
+22,John Ruddy,44,5,0,39,5,0.0,69,63.888888888888886,45,2,0,2,5,5,10,Norwich City,27,England - Premier League
+23,Jordan Pickford,6,2,0,4,2,0.0,11,73.33333333333333,7,1,0,0,3,0,0,Sunderland,2,England - Premier League
+24,Julián Speroni,5,1,0,4,1,0.0,10,71.42857142857143,6,1,0,1,1,0,1,Crystal Palace,2,England - Premier League
+25,Karl Darlow,11,0,1,11,1,100.0,22,66.66666666666666,16,0,0,1,1,1,3,Newcastle United,9,England - Premier League
+26,Kasper Schmeichel,36,4,0,32,4,0.0,100,75.75757575757575,74,1,1,5,5,4,10,Leicester City,38,England - Premier League
+27,Kelvin Davis,2,0,0,2,0,0.0,5,71.42857142857143,3,0,0,0,0,0,2,Southampton,1,England - Premier League
+28,Kristoffer Nordfeldt,1,0,0,1,0,0.0,4,80.0,2,0,0,2,0,0,0,Swansea City,1,England - Premier League
+29,Maarten Stekelenburg,19,1,0,18,1,0.0,33,64.70588235294117,29,1,0,1,0,2,0,Southampton,17,England - Premier League
+30,Mark Bunn,17,1,1,16,2,50.0,22,57.89473684210527,16,0,0,0,2,1,3,Aston Villa,10,England - Premier League
+31,Paulo Dino Gazzaniga,3,0,0,3,0,0.0,8,72.72727272727273,6,0,0,0,0,0,2,Southampton,2,England - Premier League
+32,Petr Čech,28,1,0,27,1,0.0,100,78.74015748031496,82,0,0,5,2,3,8,Arsenal,34,England - Premier League
+33,Rob Elliot,36,4,0,32,4,0.0,57,64.04494382022472,31,1,1,5,4,3,12,Newcastle United,21,England - Premier League
+34,Ryan Allsop,1,0,0,1,0,0.0,0,0.0,0,0,0,0,0,0,0,AFC Bournemouth,1,England - Premier League
+35,Sergio Germán Romero,2,0,0,2,0,0.0,9,81.81818181818183,6,0,0,0,0,1,2,Manchester United,4,England - Premier League
+36,Shay Given,7,1,0,6,1,0.0,7,53.84615384615385,5,0,0,1,0,1,0,Stoke City,3,England - Premier League
+37,Simon Mignolet,41,2,1,39,3,33.33333333333333,69,63.888888888888886,50,0,0,3,4,2,10,Liverpool,34,England - Premier League
+38,Thibaut Courtois,27,1,1,26,2,50.0,65,71.42857142857143,50,2,0,1,4,5,3,Chelsea,23,England - Premier League
+39,Tim Howard,35,4,0,31,4,0.0,87,73.72881355932203,55,1,1,7,5,10,8,Everton,25,England - Premier League
+40,Timothy Michael Krul,16,0,0,16,0,0.0,35,68.62745098039215,24,0,0,2,3,2,4,Newcastle United,8,England - Premier League
+41,Vito Mannone,23,1,0,22,1,0.0,73,76.84210526315789,51,1,1,3,4,1,12,Sunderland,19,England - Premier League
+42,Wayne Hennessey,35,2,0,33,2,0.0,81,71.05263157894737,64,2,0,3,2,4,6,Crystal Palace,29,England - Premier League
+43,Wilfredo Daniel Caballero,5,0,0,5,0,0.0,14,73.68421052631578,9,1,0,0,0,1,3,Manchester City,4,England - Premier League
+44,Ádám Bogdán,4,0,0,4,0,0.0,2,33.33333333333333,1,0,0,0,0,0,1,Liverpool,2,England - Premier League
+45,Łukasz Fabiański,46,2,0,44,2,0.0,121,73.33333333333333,94,2,1,3,4,5,12,Swansea City,37,England - Premier League

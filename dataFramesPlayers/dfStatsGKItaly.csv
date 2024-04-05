@@ -1,0 +1,45 @@
+index,player,total_goals_against,penalty_goals_against,penalty_saves,non_penalty_goals_against,penalty_onTarget_attempts,penalty_saves_percentage%,shot_onTarget_saved,save%,save_both_hands,save_chest,save_head,save_left_foot,save_left_hand,right_foot,save_right_hand,team,MP,competition
+0,Albano Benjamín Bizzarri,41,2,2,39,4,50.0,118,75.15923566878982,86,2,0,4,8,2,16,Chievo,35,Italy - Serie A
+1,Alberto Brignoli,5,1,0,4,1,0.0,7,63.63636363636363,5,0,0,1,1,0,0,Sampdoria,1,Italy - Serie A
+2,Alberto Pelagotti,5,1,0,4,1,0.0,26,86.66666666666667,20,1,0,1,1,0,3,Empoli,6,Italy - Serie A
+3,Andrea Consigli,37,2,2,35,4,50.0,101,74.26470588235294,78,0,0,3,5,8,7,Sassuolo,37,Italy - Serie A
+4,Andrea Seculin,2,0,0,2,0,0.0,13,86.66666666666667,10,0,0,0,0,2,1,Chievo,3,Italy - Serie A
+5,Angelo Esmael da Costa Júnior,4,1,0,3,1,0.0,12,80.0,10,0,0,0,1,0,1,Bologna,5,Italy - Serie A
+6,Anton Ciprian Tătărușanu,39,0,0,39,0,0.0,67,63.20754716981132,52,2,0,5,4,1,3,Fiorentina,37,Italy - Serie A
+7,Antonio Mirante,41,7,1,34,8,12.5,95,73.64341085271317,66,2,0,1,9,8,9,Bologna,33,Italy - Serie A
+8,Boris Radunović,1,0,0,1,0,0.0,1,50.0,0,1,0,0,0,0,0,Atalanta,1,Italy - Serie A
+9,Daniele Padelli,48,7,0,41,7,0.0,89,68.46153846153847,63,0,0,5,13,3,5,Torino,35,Italy - Serie A
+10,Davide Bassi,3,1,0,2,1,0.0,3,60.0,3,0,0,0,0,0,0,Atalanta,1,Italy - Serie A
+11,Diego López Rodríguez,13,1,0,12,1,0.0,16,57.14285714285714,9,1,0,1,3,1,1,AC Milan,8,Italy - Serie A
+12,Emiliano Viviano,54,5,4,49,9,44.44444444444444,136,73.51351351351352,103,0,0,7,6,5,15,Sampdoria,37,Italy - Serie A
+13,Etrit Berisha,13,1,1,12,2,50.0,28,70.0,22,3,0,0,1,0,2,Lazio,11,Italy - Serie A
+14,Eugenio Lamanna,17,1,0,16,1,0.0,39,70.9090909090909,31,0,0,0,2,1,5,Genoa,13,Italy - Serie A
+15,Fabrizio Alastra,6,0,0,6,0,0.0,4,40.0,1,0,0,0,0,1,2,Palermo,2,Italy - Serie A
+16,Federico Marchetti,37,3,2,34,5,40.0,75,68.80733944954129,58,0,0,1,5,4,7,Lazio,29,Italy - Serie A
+17,Francesco Bardi,3,1,1,2,2,50.0,9,81.81818181818183,7,0,0,0,0,0,2,Frosinone,2,Italy - Serie A
+18,Francesco Benussi,3,0,0,3,0,0.0,8,72.72727272727273,5,0,0,1,1,0,1,Carpi,4,Italy - Serie A
+19,Gabriel Vasconelos Ferreira,3,1,1,2,2,50.0,3,60.0,3,0,0,0,0,0,0,Napoli,1,Italy - Serie A
+20,Gianluca Pegolo,2,1,0,1,1,0.0,4,80.0,4,0,0,0,0,0,0,Sassuolo,2,Italy - Serie A
+21,Gianluigi Buffon,16,2,1,14,3,33.33333333333333,71,83.52941176470588,52,1,0,3,3,5,7,Juventus,35,Italy - Serie A
+22,Gianluigi Donnarumma,29,3,0,26,3,0.0,81,75.70093457943925,58,1,0,4,7,2,9,AC Milan,30,Italy - Serie A
+23,José Manuel Reina Páez,29,3,0,26,3,0.0,52,66.66666666666666,37,0,0,2,2,4,7,Napoli,37,Italy - Serie A
+24,Juan Pablo Carrizo,4,0,0,4,0,0.0,3,42.857142857142854,2,0,0,1,0,0,0,Inter Milan,2,Italy - Serie A
+25,Luca Lezzerini,3,1,0,2,1,0.0,4,66.66666666666666,3,0,0,1,0,0,0,Fiorentina,2,Italy - Serie A
+26,Marco Sportiello,42,4,3,38,7,42.857142857142854,105,73.42657342657343,84,1,0,2,6,5,7,Atalanta,36,Italy - Serie A
+27,Massimo Zenildo Zappino,14,2,0,12,2,0.0,19,61.29032258064516,11,0,0,1,4,1,2,Frosinone,4,Italy - Serie A
+28,Mattia Perin,28,0,1,28,1,100.0,83,74.77477477477478,67,0,0,2,7,2,5,Genoa,25,Italy - Serie A
+29,Maurizio Pugliesi,1,0,0,1,0,0.0,4,80.0,3,0,0,1,0,0,0,Empoli,1,Italy - Serie A
+30,Morgan De Sanctis,6,1,1,5,2,50.0,10,66.66666666666666,6,0,0,2,0,1,1,AS Roma,4,Italy - Serie A
+31,Nicola Leali,58,4,1,54,5,20.0,121,69.14285714285714,88,2,0,6,10,4,11,Frosinone,33,Italy - Serie A
+32,Norberto Murara Neto,3,1,0,2,1,0.0,3,60.0,3,0,0,0,0,0,0,Juventus,3,Italy - Serie A
+33,Orestis Karnezis,59,7,1,52,8,12.5,109,67.70186335403726,79,1,0,3,11,3,12,Udinese,38,Italy - Serie A
+34,Pierluigi Gollini,43,5,0,38,5,0.0,68,64.15094339622641,45,1,0,6,4,9,3,Hellas Verona,26,Italy - Serie A
+35,Rafael de Andrade Bittencourt Pinheiro,18,1,0,17,1,0.0,42,71.1864406779661,33,2,0,0,1,3,3,Hellas Verona,12,Italy - Serie A
+36,Salvador Ichazo Fernández,4,0,0,4,0,0.0,6,60.0,5,0,0,0,1,0,0,Torino,3,Italy - Serie A
+37,Samir Handanovič,33,5,1,28,6,16.666666666666664,111,79.85611510791367,67,1,1,12,9,6,15,Inter Milan,36,Italy - Serie A
+38,Simone Colombi,2,1,0,1,1,0.0,7,87.5,6,0,0,0,1,0,0,Carpi,2,Italy - Serie A
+39,Stefano Sorrentino,55,6,0,49,6,0.0,121,71.17647058823529,73,1,0,4,10,12,21,Palermo,35,Italy - Serie A
+40,Vid Belec,41,3,1,38,4,25.0,89,70.07874015748031,72,1,0,1,4,1,10,Carpi,30,Italy - Serie A
+41,Wojciech Szczęsny,32,5,0,27,5,0.0,100,78.74015748031496,77,6,0,3,3,1,10,AS Roma,34,Italy - Serie A
+42,Łukasz Skorupski,42,1,0,41,1,0.0,86,67.71653543307087,66,2,0,2,5,5,6,Empoli,31,Italy - Serie A
+43,Željko Brkić,12,2,0,10,2,0.0,13,56.52173913043478,8,1,0,0,2,2,0,Carpi,4,Italy - Serie A

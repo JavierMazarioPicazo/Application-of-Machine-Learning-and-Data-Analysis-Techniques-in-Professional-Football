@@ -1,0 +1,451 @@
+index,player,recoveries,duels,duels_won,fouls_committed,shot_blocked,clearances,pressure,interceptions,team,MP,competition
+0,Aaron Hunt,103,79,19,32,42,9,359,7,Hamburger SV,23,Germany - 1. Bundesliga
+1,Adam Hloušek,8,17,5,7,11,30,52,3,VfB Stuttgart,7,Germany - 1. Bundesliga
+2,Adelino André Vieira Freitas,130,88,31,16,53,29,296,29,Wolfsburg,26,Germany - 1. Bundesliga
+3,Admir Mehmedi,73,71,14,32,34,8,315,3,Bayer Leverkusen,28,Germany - 1. Bundesliga
+4,Adnan Januzaj,6,4,1,7,3,0,37,1,Borussia Dortmund,6,Germany - 1. Bundesliga
+5,Albian Afrim Ajeti,2,2,1,2,0,0,2,0,Augsburg,1,Germany - 1. Bundesliga
+6,Albin Ekdal,58,52,14,31,24,32,230,20,Hamburger SV,14,Germany - 1. Bundesliga
+7,Alejandro Gálvez Jimena,52,54,14,25,20,61,225,32,Werder Bremen,21,Germany - 1. Bundesliga
+8,Aleksandar Ignjovski,76,71,22,20,31,39,322,24,Eintracht Frankfurt,18,Germany - 1. Bundesliga
+9,Alessandro Schöpf,27,27,6,8,9,9,113,4,Schalke 04,13,Germany - 1. Bundesliga
+10,Alexander Baumjohann,36,15,7,2,6,0,93,0,Hertha Berlin,24,Germany - 1. Bundesliga
+11,Alexander Esswein,71,69,17,37,38,9,406,17,Augsburg,29,Germany - 1. Bundesliga
+12,Alexander Hack,23,26,6,5,15,48,72,17,FSV Mainz 05,7,Germany - 1. Bundesliga
+13,Alexander Manninger,4,1,0,0,0,0,0,0,Augsburg,2,Germany - 1. Bundesliga
+14,Alexander Meier,38,68,5,17,17,35,232,9,Eintracht Frankfurt,19,Germany - 1. Bundesliga
+15,Alexander Milosevic,23,41,7,14,20,44,93,18,Hannover 96,10,Germany - 1. Bundesliga
+16,Alexandru Iulian Maxim,53,42,11,20,17,4,311,7,VfB Stuttgart,25,Germany - 1. Bundesliga
+17,Alfredo Morales,88,106,34,55,42,36,428,14,Ingolstadt,24,Germany - 1. Bundesliga
+18,Alfreð Finnbogason,39,63,8,25,22,11,287,8,Augsburg,14,Germany - 1. Bundesliga
+19,Allan Saint-Maximin,32,15,5,4,4,1,93,1,Hannover 96,16,Germany - 1. Bundesliga
+20,Almog Cohen,31,60,18,21,15,18,213,14,Ingolstadt,20,Germany - 1. Bundesliga
+21,Andre Hoffmann,34,26,11,9,11,20,131,8,Hannover 96,8,Germany - 1. Bundesliga
+22,Andreas Christensen,144,110,31,12,75,143,318,42,Borussia Mönchengladbach,31,Germany - 1. Bundesliga
+23,Andreas Hirzel,4,0,0,0,0,0,0,0,Hamburger SV,1,Germany - 1. Bundesliga
+24,Andrej Kramarić,33,29,3,9,11,2,187,3,Hoffenheim,15,Germany - 1. Bundesliga
+25,André Hahn,25,64,8,28,15,3,190,5,Borussia Mönchengladbach,15,Germany - 1. Bundesliga
+26,André Ramalho Silva,51,61,16,18,32,67,191,16,Bayer Leverkusen,19,Germany - 1. Bundesliga
+27,André Schürrle,85,54,14,27,25,11,338,12,Wolfsburg,29,Germany - 1. Bundesliga
+28,Anthony Modeste,53,161,7,49,30,38,369,5,FC Köln,34,Germany - 1. Bundesliga
+29,Anthony Ujah,70,183,10,46,26,48,307,2,Werder Bremen,32,Germany - 1. Bundesliga
+30,Arianit Ferati,3,7,3,2,1,0,20,0,VfB Stuttgart,3,Germany - 1. Bundesliga
+31,Arjen Robben,38,13,2,4,13,3,106,3,Bayern Munich,15,Germany - 1. Bundesliga
+32,Aron Jóhannsson,14,18,4,14,7,1,72,1,Werder Bremen,6,Germany - 1. Bundesliga
+33,Artem Kravets,17,46,2,15,8,6,176,0,VfB Stuttgart,15,Germany - 1. Bundesliga
+34,Artoms Rudņevs,15,71,1,13,10,9,129,1,Hamburger SV,11,Germany - 1. Bundesliga
+35,Artur Sobiech,45,131,8,43,24,8,362,0,Hannover 96,25,Germany - 1. Bundesliga
+36,Arturo Erasmo Vidal Pardo,106,130,56,67,55,34,448,19,Bayern Munich,30,Germany - 1. Bundesliga
+37,Assani Lukimya-Mulongoti,34,59,17,23,20,67,139,9,Werder Bremen,12,Germany - 1. Bundesliga
+38,Aytac Sulu,83,113,30,37,76,219,281,43,Darmstadt 98,33,Germany - 1. Bundesliga
+39,Bas Dost,16,52,1,17,9,13,155,2,Wolfsburg,22,Germany - 1. Bundesliga
+40,Bastian Oczipka,148,78,39,29,73,69,331,47,Eintracht Frankfurt,30,Germany - 1. Bundesliga
+41,Benedikt Höwedes,18,34,13,10,16,44,116,16,Schalke 04,15,Germany - 1. Bundesliga
+42,Benjamin Henrichs,33,39,14,9,17,23,118,19,Bayer Leverkusen,9,Germany - 1. Bundesliga
+43,Benjamin Hübner,61,128,35,53,64,177,335,35,Ingolstadt,30,Germany - 1. Bundesliga
+44,Bernd Leno,175,0,0,0,2,0,8,0,Bayer Leverkusen,33,Germany - 1. Bundesliga
+45,Borys Tashchy,8,15,0,5,2,2,40,1,VfB Stuttgart,9,Germany - 1. Bundesliga
+46,Branimir Hrgota,3,7,0,4,1,0,23,0,Borussia Mönchengladbach,9,Germany - 1. Bundesliga
+47,Bruno Henrique Pinto,8,10,2,11,6,0,70,0,Wolfsburg,7,Germany - 1. Bundesliga
+48,Caiuby Francisco da Silva,117,175,18,66,59,47,489,17,Augsburg,26,Germany - 1. Bundesliga
+49,Carlos Armando Gruezo Arboleda,6,3,0,1,1,0,23,1,VfB Stuttgart,2,Germany - 1. Bundesliga
+50,Carlos Augusto Zambrano Ochandarte,120,63,22,38,24,90,229,30,Eintracht Frankfurt,24,Germany - 1. Bundesliga
+51,Ceyhun Gülselam,38,58,24,33,26,34,229,9,Hannover 96,13,Germany - 1. Bundesliga
+52,Charles Mariano Aránguiz Sandoval,28,17,2,16,18,10,142,6,Bayer Leverkusen,7,Germany - 1. Bundesliga
+53,Charlison Benschop,7,11,0,7,4,2,81,1,Hannover 96,9,Germany - 1. Bundesliga
+54,Christian Clemens,78,56,15,28,35,13,484,12,FSV Mainz 05,28,Germany - 1. Bundesliga
+55,Christian Gentner,130,100,41,54,67,59,675,33,VfB Stuttgart,29,Germany - 1. Bundesliga
+56,Christian Mathenia,179,0,0,0,0,2,3,0,Darmstadt 98,33,Germany - 1. Bundesliga
+57,Christian Pulisic,35,14,5,4,16,0,113,3,Borussia Dortmund,9,Germany - 1. Bundesliga
+58,Christian Schulz,42,80,13,42,47,156,198,43,Hannover 96,25,Germany - 1. Bundesliga
+59,Christian Träsch,115,94,39,32,44,69,418,29,Wolfsburg,29,Germany - 1. Bundesliga
+60,Christoph Janker,14,13,4,10,6,15,63,5,Augsburg,11,Germany - 1. Bundesliga
+61,Christoph Kramer,177,127,49,42,61,37,635,16,Bayer Leverkusen,28,Germany - 1. Bundesliga
+62,Christoph Moritz,13,21,9,8,15,8,105,1,FSV Mainz 05,8,Germany - 1. Bundesliga
+63,Claudio Miguel Pizarro Bossio,86,118,16,33,44,10,299,11,Werder Bremen,28,Germany - 1. Bundesliga
+64,Cleber Janderson Pereira Reis,91,93,34,23,37,101,228,25,Hamburger SV,23,Germany - 1. Bundesliga
+65,Clemens Fritz,251,114,58,52,60,45,493,21,Werder Bremen,29,Germany - 1. Bundesliga
+66,Daniel Baier,151,90,29,34,42,64,378,42,Augsburg,28,Germany - 1. Bundesliga
+67,Daniel Brosinski,113,95,18,18,58,88,287,26,FSV Mainz 05,30,Germany - 1. Bundesliga
+68,Daniel Caligiuri,120,98,28,47,60,3,441,20,Wolfsburg,29,Germany - 1. Bundesliga
+69,Daniel Didavi,83,115,25,57,48,20,640,10,VfB Stuttgart,31,Germany - 1. Bundesliga
+70,Daniel Ginczek,15,41,0,14,11,7,163,1,VfB Stuttgart,7,Germany - 1. Bundesliga
+71,Daniel Schwaab,96,137,30,31,39,112,386,25,VfB Stuttgart,29,Germany - 1. Bundesliga
+72,Daniel Tawiah Opare,21,8,2,6,7,9,47,5,Augsburg,4,Germany - 1. Bundesliga
+73,Danilo Teodoro Soares,5,3,0,3,4,5,15,2,Ingolstadt,1,Germany - 1. Bundesliga
+74,Danny Latza,119,118,43,53,60,44,581,23,FSV Mainz 05,27,Germany - 1. Bundesliga
+75,Danny Vieira da Costa,59,82,29,16,44,47,347,24,Ingolstadt,19,Germany - 1. Bundesliga
+76,Dante Bonfim da Costa Santos,92,89,26,42,50,90,239,30,Wolfsburg,24,Germany - 1. Bundesliga
+77,Dario Lezcano,48,167,14,38,22,9,394,5,Ingolstadt,17,Germany - 1. Bundesliga
+78,David Kinsombi,1,4,2,0,8,10,22,4,Eintracht Frankfurt,1,Germany - 1. Bundesliga
+79,David Olatukunbo Alaba,158,55,11,11,40,59,206,22,Bayern Munich,30,Germany - 1. Bundesliga
+80,David Yelldell,4,0,0,0,0,0,0,0,Bayer Leverkusen,1,Germany - 1. Bundesliga
+81,David Ángel Abraham,104,106,38,46,57,160,329,42,Eintracht Frankfurt,31,Germany - 1. Bundesliga
+82,Dennis Aogo,78,51,9,27,46,62,189,16,Schalke 04,23,Germany - 1. Bundesliga
+83,Dennis Diekmeier,60,68,14,12,27,34,220,12,Hamburger SV,22,Germany - 1. Bundesliga
+84,Diego Orlando Benaglio,120,0,0,1,0,0,2,0,Wolfsburg,21,Germany - 1. Bundesliga
+85,Dominik Kohr,94,123,52,78,79,75,667,43,Augsburg,31,Germany - 1. Bundesliga
+86,Dominik Maroh,58,94,25,28,59,141,289,28,FC Köln,25,Germany - 1. Bundesliga
+87,Dominik Stroh-Engel,14,57,1,12,9,7,105,2,Darmstadt 98,15,Germany - 1. Bundesliga
+88,Dominique Heintz,139,104,33,32,72,164,371,36,FC Köln,33,Germany - 1. Bundesliga
+89,Dong-Won Ji,41,44,7,27,22,5,228,3,Augsburg,21,Germany - 1. Bundesliga
+90,Douglas Costa de Souza,98,34,8,26,34,3,285,11,Bayern Munich,27,Germany - 1. Bundesliga
+91,Dušan Švento,14,10,0,0,4,3,32,0,FC Köln,7,Germany - 1. Bundesliga
+92,Edgar Prib,81,50,22,56,31,25,376,11,Hannover 96,20,Germany - 1. Bundesliga
+93,Eduardo Jesús Vargas Rojas,74,96,13,28,19,2,300,5,Hoffenheim,24,Germany - 1. Bundesliga
+94,Elias Kachunga,7,27,1,9,3,3,88,1,Ingolstadt,10,Germany - 1. Bundesliga
+95,Emiliano Adrián Insúa Zapata,163,107,41,49,91,102,564,51,VfB Stuttgart,33,Germany - 1. Bundesliga
+96,Emir Spahić,103,109,24,32,60,180,282,43,Hamburger SV,26,Germany - 1. Bundesliga
+97,Erik Durm,63,35,12,13,26,27,133,11,Borussia Dortmund,14,Germany - 1. Bundesliga
+98,Ermin Bičakčić,50,62,16,13,54,130,160,23,Hoffenheim,21,Germany - 1. Bundesliga
+99,Eugen Polanski,109,99,30,44,49,34,554,24,Hoffenheim,27,Germany - 1. Bundesliga
+100,Fabian Frei,50,54,12,23,28,23,220,18,FSV Mainz 05,17,Germany - 1. Bundesliga
+101,Fabian Holland,64,73,29,36,31,50,335,24,Darmstadt 98,18,Germany - 1. Bundesliga
+102,Fabian Johnson,88,71,20,15,55,22,294,15,Borussia Mönchengladbach,26,Germany - 1. Bundesliga
+103,Fabian Lukas Schär,68,63,11,32,46,122,172,25,Hoffenheim,24,Germany - 1. Bundesliga
+104,Fabian Lustenberger,91,105,40,32,56,127,443,27,Hertha Berlin,30,Germany - 1. Bundesliga
+105,Federico Barba,8,5,1,3,5,7,19,4,VfB Stuttgart,2,Germany - 1. Bundesliga
+106,Felipe Trevizan Martins,1,6,1,4,2,10,8,4,Hannover 96,8,Germany - 1. Bundesliga
+107,Felix Klaus,34,47,12,14,18,7,176,9,Hannover 96,18,Germany - 1. Bundesliga
+108,Felix Kroos,16,12,6,7,6,9,71,5,Werder Bremen,8,Germany - 1. Bundesliga
+109,Felix Passlack,6,11,3,1,2,2,34,1,Borussia Dortmund,3,Germany - 1. Bundesliga
+110,Felix Platte,9,20,2,7,3,1,36,1,Darmstadt 98,12,Germany - 1. Bundesliga
+111,Felix Wiedwald,159,0,0,2,2,2,8,0,Werder Bremen,34,Germany - 1. Bundesliga
+112,Filip Kostić,153,85,22,41,73,11,545,28,VfB Stuttgart,30,Germany - 1. Bundesliga
+113,Filip Mladenović,47,31,9,13,23,23,157,10,FC Köln,14,Germany - 1. Bundesliga
+114,Fin Bartels,118,88,11,20,44,12,426,25,Werder Bremen,30,Germany - 1. Bundesliga
+115,Florian Grillitsch,121,93,32,27,51,28,574,52,Werder Bremen,25,Germany - 1. Bundesliga
+116,Florian Jungwirth,64,82,31,16,44,63,339,37,Darmstadt 98,19,Germany - 1. Bundesliga
+117,Florian Klein,73,84,15,21,41,43,328,26,VfB Stuttgart,22,Germany - 1. Bundesliga
+118,Florian Kohls,1,1,1,0,0,1,3,0,Hertha Berlin,1,Germany - 1. Bundesliga
+119,Florian Niederlechner,7,16,1,13,7,4,68,1,FSV Mainz 05,12,Germany - 1. Bundesliga
+120,Francisco José Rodriguez Araya,3,1,1,0,0,0,0,0,Wolfsburg,1,Germany - 1. Bundesliga
+121,Franck Bilal Ribéry,41,15,2,11,8,1,124,4,Bayern Munich,13,Germany - 1. Bundesliga
+122,Franco Matías Di Santo,25,69,12,34,25,14,313,4,Schalke 04,25,Germany - 1. Bundesliga
+123,Frederik Hillesborg Sørensen,47,83,25,25,51,115,215,25,FC Köln,22,Germany - 1. Bundesliga
+124,Fynn Arkenberg,10,10,6,3,8,6,50,1,Hannover 96,2,Germany - 1. Bundesliga
+125,Gaëtan Bussmann,35,60,21,19,47,49,248,21,FSV Mainz 05,13,Germany - 1. Bundesliga
+126,Genki Haraguchi,108,128,38,33,60,12,582,16,Hertha Berlin,32,Germany - 1. Bundesliga
+127,Georg Niedermeier,41,50,13,22,38,73,127,20,VfB Stuttgart,18,Germany - 1. Bundesliga
+128,Gian-Luca Waldschmidt,5,14,2,8,6,3,52,2,Eintracht Frankfurt,12,Germany - 1. Bundesliga
+129,Gideon Jung,74,60,16,27,27,28,295,9,Hamburger SV,18,Germany - 1. Bundesliga
+130,Giulio Donati,92,82,32,28,44,72,294,32,FSV Mainz 05,23,Germany - 1. Bundesliga
+131,Gojko Kačar,48,91,27,27,30,30,300,15,Hamburger SV,19,Germany - 1. Bundesliga
+132,Gonzalo Alejandro Jara Reyes,29,15,2,6,6,11,67,2,FSV Mainz 05,6,Germany - 1. Bundesliga
+133,Gonzalo Castro Randon,71,56,20,13,38,8,308,10,Borussia Dortmund,25,Germany - 1. Bundesliga
+134,Gotoku Sakai,78,96,39,20,41,65,314,42,Hamburger SV,22,Germany - 1. Bundesliga
+135,Granit Xhaka,158,129,42,74,67,72,449,31,Borussia Mönchengladbach,28,Germany - 1. Bundesliga
+136,Gustavo Adrián Ramos Vásquez,37,63,10,20,16,8,179,1,Borussia Dortmund,27,Germany - 1. Bundesliga
+137,György Garics,75,49,20,26,40,85,301,22,Darmstadt 98,21,Germany - 1. Bundesliga
+138,Hakan Çalhanoğlu,130,109,29,34,64,32,475,9,Bayer Leverkusen,31,Germany - 1. Bundesliga
+139,Halil Altıntop,43,49,10,13,9,9,263,3,Augsburg,19,Germany - 1. Bundesliga
+140,Haris Seferović,71,140,7,53,32,14,436,10,Eintracht Frankfurt,29,Germany - 1. Bundesliga
+141,Henrikh Mkhitaryan,151,108,37,58,68,17,602,25,Borussia Dortmund,31,Germany - 1. Bundesliga
+142,Heung-Min Son,5,1,1,1,1,1,12,1,Bayer Leverkusen,1,Germany - 1. Bundesliga
+143,Hiroki Sakai,96,128,35,27,62,98,385,44,Hannover 96,26,Germany - 1. Bundesliga
+144,Hiroshi Kiyotake,76,46,10,8,20,3,171,7,Hannover 96,21,Germany - 1. Bundesliga
+145,Holger Badstuber,15,13,4,3,2,14,38,2,Bayern Munich,7,Germany - 1. Bundesliga
+146,Hotaru Yamaguchi,13,18,7,3,17,10,112,8,Hannover 96,6,Germany - 1. Bundesliga
+147,Hugo Miguel Pereira de Almeida,13,31,1,4,2,8,45,0,Hannover 96,7,Germany - 1. Bundesliga
+148,Håvard Nordtveit,126,96,20,29,61,126,346,29,Borussia Mönchengladbach,31,Germany - 1. Bundesliga
+149,Ibrahima Traoré,78,64,26,18,31,6,356,6,Borussia Mönchengladbach,24,Germany - 1. Bundesliga
+150,Ivan Perišić,5,3,1,1,4,0,25,0,Wolfsburg,2,Germany - 1. Bundesliga
+151,Iver Tobias Rørvik Fossum,27,30,4,12,24,8,263,8,Hannover 96,9,Germany - 1. Bundesliga
+152,Ivica Olić,6,11,1,7,4,2,59,0,Hamburger SV,9,Germany - 1. Bundesliga
+153,Ivo Iličević,116,115,40,44,48,14,519,19,Hamburger SV,31,Germany - 1. Bundesliga
+154,Ja-Cheol Koo,132,102,29,39,51,24,474,20,Augsburg,29,Germany - 1. Bundesliga
+155,Jairo Samperio Bustara,131,114,14,44,58,12,511,28,FSV Mainz 05,31,Germany - 1. Bundesliga
+156,Jan Kliment,4,19,3,6,0,0,41,0,VfB Stuttgart,8,Germany - 1. Bundesliga
+157,Jan Morávek,21,24,8,10,9,4,164,3,Augsburg,11,Germany - 1. Bundesliga
+158,Jan Rosenthal,51,112,9,29,21,12,295,8,Darmstadt 98,23,Germany - 1. Bundesliga
+159,Jan-Ingwer Callsen-Bracker,27,27,9,14,26,63,81,7,Augsburg,10,Germany - 1. Bundesliga
+160,Janek Sternberg,19,15,4,11,14,15,96,9,Werder Bremen,9,Germany - 1. Bundesliga
+161,Jannik Vestergaard,128,152,41,25,72,217,343,41,Werder Bremen,33,Germany - 1. Bundesliga
+162,Jaroslav Drobný,46,0,0,0,0,0,0,0,Hamburger SV,10,Germany - 1. Bundesliga
+163,Javier Hernández Balcázar,53,85,8,26,16,4,261,6,Bayer Leverkusen,28,Germany - 1. Bundesliga
+164,Javier Martínez Aginaga,42,44,18,16,20,37,119,12,Bayern Munich,16,Germany - 1. Bundesliga
+165,Jean-Eric Maxim Choupo-Moting,104,97,16,47,43,24,315,19,Schalke 04,28,Germany - 1. Bundesliga
+166,Jeffrey Gouweleeuw,24,51,12,17,25,64,121,9,Augsburg,11,Germany - 1. Bundesliga
+167,Jens Grahl,1,0,0,0,0,0,1,0,Hoffenheim,1,Germany - 1. Bundesliga
+168,Jens Hegeler,15,42,9,16,11,12,122,6,Hertha Berlin,15,Germany - 1. Bundesliga
+169,Jeong-Ho Hong,60,67,15,24,44,129,156,16,Augsburg,23,Germany - 1. Bundesliga
+170,Jeremy Toljan,70,56,12,5,66,38,180,24,Hoffenheim,18,Germany - 1. Bundesliga
+171,Jhon Andrés Córdoba Copete,42,110,8,55,15,8,257,1,FSV Mainz 05,22,Germany - 1. Bundesliga
+172,Jiloan Hamad,26,13,2,8,6,3,84,2,Hoffenheim,7,Germany - 1. Bundesliga
+173,Jin-Su Kim,56,38,7,20,35,53,238,31,Hoffenheim,15,Germany - 1. Bundesliga
+174,Joel Gerezgiher,4,2,1,4,4,1,23,3,Eintracht Frankfurt,3,Germany - 1. Bundesliga
+175,Joelinton Cassio Apolinário de Lira,2,0,0,0,0,0,0,0,Hoffenheim,1,Germany - 1. Bundesliga
+176,Johan Danon Djourou-Gbadjere,79,75,18,42,50,119,226,20,Hamburger SV,26,Germany - 1. Bundesliga
+177,Johannes Flum,11,5,2,3,4,1,50,1,Eintracht Frankfurt,5,Germany - 1. Bundesliga
+178,Johannes Geis,110,87,31,52,44,45,456,20,Schalke 04,28,Germany - 1. Bundesliga
+179,Johannes van den Bergh,12,9,3,3,4,6,61,1,Hertha Berlin,13,Germany - 1. Bundesliga
+180,John Anthony Brooks,58,57,18,22,29,118,168,20,Hertha Berlin,22,Germany - 1. Bundesliga
+181,Jonas Hector,189,114,31,25,91,94,523,49,FC Köln,32,Germany - 1. Bundesliga
+182,Jonas Hofmann,31,18,4,3,5,2,137,3,Borussia Mönchengladbach,15,Germany - 1. Bundesliga
+183,Jonathan Schmid,58,52,14,13,44,14,262,17,Hoffenheim,23,Germany - 1. Bundesliga
+184,Jonathan Tah,194,86,22,25,57,136,312,49,Bayer Leverkusen,29,Germany - 1. Bundesliga
+185,Joo-Ho Park,11,19,9,12,17,8,84,4,Borussia Dortmund,6,Germany - 1. Bundesliga
+186,Joshua Kimmich,85,51,14,17,22,21,215,11,Bayern Munich,22,Germany - 1. Bundesliga
+187,Josip Drmic,26,61,9,18,16,8,157,9,Hamburger SV,19,Germany - 1. Bundesliga
+188,Josuha Guilavogui,132,108,44,63,53,51,535,44,Wolfsburg,30,Germany - 1. Bundesliga
+189,Joël Andre Job Matip,101,99,37,56,77,187,322,45,Schalke 04,34,Germany - 1. Bundesliga
+190,Juan Bernat Velasco,58,42,9,11,32,24,125,13,Bayern Munich,16,Germany - 1. Bundesliga
+191,Julian Baumgartlinger,171,154,56,66,63,77,983,40,FSV Mainz 05,31,Germany - 1. Bundesliga
+192,Julian Brandt,83,68,8,12,28,8,354,10,Bayer Leverkusen,29,Germany - 1. Bundesliga
+193,Julian Draxler,95,51,5,27,16,8,211,12,Wolfsburg,24,Germany - 1. Bundesliga
+194,Julian Korb,35,48,10,25,35,35,218,23,Borussia Mönchengladbach,17,Germany - 1. Bundesliga
+195,Julian Schieber,2,10,1,4,1,1,44,1,Hertha Berlin,6,Germany - 1. Bundesliga
+196,Julian Weigl,147,86,27,40,42,41,443,23,Borussia Dortmund,30,Germany - 1. Bundesliga
+197,Jérôme Boateng,64,28,9,12,18,48,75,13,Bayern Munich,19,Germany - 1. Bundesliga
+198,Jérôme Gondorf,185,173,45,67,87,57,852,40,Darmstadt 98,33,Germany - 1. Bundesliga
+199,Júnior Enrique Díaz Campbell,21,34,13,14,21,41,130,15,Darmstadt 98,12,Germany - 1. Bundesliga
+200,Kaan Ayhan,4,4,1,1,2,5,6,0,Eintracht Frankfurt,2,Germany - 1. Bundesliga
+201,Karim Bellarabi,163,82,32,70,60,8,637,22,Bayer Leverkusen,33,Germany - 1. Bundesliga
+202,Karim Onisiwo,25,30,6,11,11,2,104,1,FSV Mainz 05,9,Germany - 1. Bundesliga
+203,Kazuki Nagasawa,1,3,0,0,1,1,13,1,FC Köln,1,Germany - 1. Bundesliga
+204,Kenan Karaman,106,77,17,20,40,16,343,10,Hannover 96,23,Germany - 1. Bundesliga
+205,Kevin De Bruyne,8,2,1,4,3,0,29,0,Wolfsburg,2,Germany - 1. Bundesliga
+206,Kevin Großkreutz,43,39,10,13,32,25,143,8,VfB Stuttgart,10,Germany - 1. Bundesliga
+207,Kevin Kampl,152,63,25,37,53,16,406,26,Bayer Leverkusen,23,Germany - 1. Bundesliga
+208,Kevin Kuranyi,13,40,4,20,12,5,114,1,Hoffenheim,14,Germany - 1. Bundesliga
+209,Kevin Vogt,74,71,19,29,38,39,405,9,FC Köln,23,Germany - 1. Bundesliga
+210,Kevin Volland,132,148,29,73,50,15,695,13,Hoffenheim,33,Germany - 1. Bundesliga
+211,Kingsley Coman,76,41,8,13,24,6,292,5,Bayern Munich,23,Germany - 1. Bundesliga
+212,Klaas-Jan Huntelaar,39,100,5,58,21,20,491,3,Schalke 04,31,Germany - 1. Bundesliga
+213,Koen Casteels,67,0,0,1,0,0,3,0,Wolfsburg,13,Germany - 1. Bundesliga
+214,Konstantin Engel,12,4,0,3,4,7,24,8,Ingolstadt,4,Germany - 1. Bundesliga
+215,Konstantin Rausch,103,76,15,17,34,31,373,21,Darmstadt 98,31,Germany - 1. Bundesliga
+216,Konstantinos Stafylidis,40,32,9,10,27,41,97,15,Augsburg,11,Germany - 1. Bundesliga
+217,Kyriakos Papadopoulos,34,58,19,18,25,57,126,13,Bayer Leverkusen,16,Germany - 1. Bundesliga
+218,Lars Bender,50,62,21,21,29,23,244,12,Bayer Leverkusen,11,Germany - 1. Bundesliga
+219,Lars Edi Stindl,138,134,28,77,61,16,658,11,Borussia Mönchengladbach,30,Germany - 1. Bundesliga
+220,Leandro Putaro,1,1,0,1,1,0,6,0,Wolfsburg,4,Germany - 1. Bundesliga
+221,Leon Aderemi Balogun,69,91,30,24,42,107,224,41,FSV Mainz 05,21,Germany - 1. Bundesliga
+222,Leon Andreasen,45,67,9,28,19,28,218,7,Hannover 96,15,Germany - 1. Bundesliga
+223,Leon Goretzka,132,115,41,35,57,50,535,37,Schalke 04,25,Germany - 1. Bundesliga
+224,Leon Guwara,5,6,6,3,4,2,22,0,Werder Bremen,1,Germany - 1. Bundesliga
+225,Leonardo Bittencourt,81,133,46,59,44,9,781,26,FC Köln,29,Germany - 1. Bundesliga
+226,Leroy Sané,139,103,32,39,42,6,558,16,Schalke 04,33,Germany - 1. Bundesliga
+227,Levin Mete Öztunali,81,63,11,32,38,8,291,9,Werder Bremen,25,Germany - 1. Bundesliga
+228,Lewis Harry Holtby,214,171,68,83,88,50,951,31,Hamburger SV,34,Germany - 1. Bundesliga
+229,Loris Karius,185,0,0,0,1,0,6,0,FSV Mainz 05,34,Germany - 1. Bundesliga
+230,Luc Castaignos,16,57,5,32,16,1,249,3,Eintracht Frankfurt,19,Germany - 1. Bundesliga
+231,Luca Caldirola,67,111,37,45,73,173,484,32,Darmstadt 98,34,Germany - 1. Bundesliga
+232,Luca-Milan Zander,4,4,0,0,5,3,18,4,Werder Bremen,2,Germany - 1. Bundesliga
+233,Luiz Gustavo Dias,107,68,26,45,31,28,388,20,Wolfsburg,22,Germany - 1. Bundesliga
+234,Lukas Fröde,7,15,2,5,1,2,29,1,Werder Bremen,6,Germany - 1. Bundesliga
+235,Lukas Hinterseer,76,127,9,32,49,11,482,4,Ingolstadt,28,Germany - 1. Bundesliga
+236,Lukas Rupp,160,122,49,39,71,22,706,29,VfB Stuttgart,29,Germany - 1. Bundesliga
+237,Lukáš Hrádecký,200,0,0,0,1,1,4,0,Eintracht Frankfurt,34,Germany - 1. Bundesliga
+238,László Kleinheisler,15,8,2,6,4,0,45,1,Werder Bremen,6,Germany - 1. Bundesliga
+239,Mahmoud Dahoud,142,86,39,63,54,32,604,25,Borussia Mönchengladbach,32,Germany - 1. Bundesliga
+240,Makoto Hasebe,155,116,40,41,80,55,504,21,Eintracht Frankfurt,32,Germany - 1. Bundesliga
+241,Manuel Neuer,140,0,0,0,1,1,1,0,Bayern Munich,34,Germany - 1. Bundesliga
+242,Manuel Schmiedebach,133,90,31,48,53,19,542,37,Hannover 96,22,Germany - 1. Bundesliga
+243,Marc Stendera,146,129,57,54,61,16,746,26,Eintracht Frankfurt,26,Germany - 1. Bundesliga
+244,Marcel  Hilßner,1,0,0,0,2,0,7,0,Werder Bremen,1,Germany - 1. Bundesliga
+245,Marcel Hartel,10,1,0,1,2,2,23,0,FC Köln,6,Germany - 1. Bundesliga
+246,Marcel Heller,158,169,35,46,48,21,647,25,Darmstadt 98,33,Germany - 1. Bundesliga
+247,Marcel Risse,157,112,57,36,55,35,537,42,FC Köln,33,Germany - 1. Bundesliga
+248,Marcel Schmelzer,71,86,23,25,45,60,336,19,Borussia Dortmund,26,Germany - 1. Bundesliga
+249,Marcel Schäfer,54,41,12,11,19,24,156,4,Wolfsburg,21,Germany - 1. Bundesliga
+250,Marcelo Alfonso Díaz Rojas,34,15,3,8,6,6,103,4,Hamburger SV,11,Germany - 1. Bundesliga
+251,Marcelo Antônio Guedes Filho,82,57,16,25,34,131,164,26,Hannover 96,19,Germany - 1. Bundesliga
+252,Marco Höger,15,16,5,5,4,3,39,0,Schalke 04,5,Germany - 1. Bundesliga
+253,Marco Jhonfai Fabián De La Mora,45,61,9,22,23,2,214,6,Eintracht Frankfurt,11,Germany - 1. Bundesliga
+254,Marco Reus,68,51,16,22,32,5,343,3,Borussia Dortmund,26,Germany - 1. Bundesliga
+255,Marco Russ,98,109,21,24,51,109,228,27,Eintracht Frankfurt,28,Germany - 1. Bundesliga
+256,Marco Sailer,9,37,1,12,5,5,139,2,Darmstadt 98,14,Germany - 1. Bundesliga
+257,Mario Götze,30,33,13,24,15,2,246,4,Bayern Munich,14,Germany - 1. Bundesliga
+258,Mario Vrančić,44,66,14,31,24,7,269,5,Darmstadt 98,22,Germany - 1. Bundesliga
+259,Marius Wolf,1,7,1,1,6,7,51,3,Hannover 96,2,Germany - 1. Bundesliga
+260,Mark Uth,45,57,15,25,52,10,408,11,Hoffenheim,25,Germany - 1. Bundesliga
+261,Markus Feulner,57,56,23,30,20,29,259,9,Augsburg,19,Germany - 1. Bundesliga
+262,Markus Suttner,69,59,18,17,37,64,242,33,Ingolstadt,18,Germany - 1. Bundesliga
+263,Marlon Frey,16,10,1,6,6,6,48,4,Bayer Leverkusen,9,Germany - 1. Bundesliga
+264,Mart Ristl,7,1,0,4,2,0,23,0,VfB Stuttgart,3,Germany - 1. Bundesliga
+265,Martin Harnik,44,76,10,21,32,17,252,7,VfB Stuttgart,19,Germany - 1. Bundesliga
+266,Martin Hinteregger,24,43,17,3,25,37,102,8,Borussia Mönchengladbach,10,Germany - 1. Bundesliga
+267,Martin Stranzl,3,5,1,4,1,7,17,1,Borussia Mönchengladbach,3,Germany - 1. Bundesliga
+268,Marvin Matip,121,107,21,29,64,216,234,38,Ingolstadt,33,Germany - 1. Bundesliga
+269,Marvin Plattenhardt,128,78,22,40,52,76,321,31,Hertha Berlin,33,Germany - 1. Bundesliga
+270,Marvin Schulz,12,16,4,5,9,17,68,0,Borussia Mönchengladbach,8,Germany - 1. Bundesliga
+271,Marwin Hitz,157,1,0,0,2,1,5,0,Augsburg,33,Germany - 1. Bundesliga
+272,Mathew Leckie,169,211,22,53,65,15,572,30,Ingolstadt,32,Germany - 1. Bundesliga
+273,Mats Hummels,162,113,41,20,39,122,246,38,Borussia Dortmund,30,Germany - 1. Bundesliga
+274,Matthias Ginter,78,74,22,24,27,50,213,16,Borussia Dortmund,24,Germany - 1. Bundesliga
+275,Matthias Lehmann,111,75,25,61,28,43,581,29,FC Köln,32,Germany - 1. Bundesliga
+276,Matthias Ostrzolek,157,119,34,26,91,76,431,58,Hamburger SV,32,Germany - 1. Bundesliga
+277,Matthias Zimmermann,11,7,1,0,6,4,30,3,VfB Stuttgart,2,Germany - 1. Bundesliga
+278,Max Christiansen,93,53,17,30,25,16,276,8,Ingolstadt,18,Germany - 1. Bundesliga
+279,Max Kruse,73,65,7,20,18,2,325,2,Wolfsburg,32,Germany - 1. Bundesliga
+280,Max Meyer,132,43,6,20,20,3,284,13,Schalke 04,32,Germany - 1. Bundesliga
+281,Maximilian Arnold,112,75,22,53,28,15,477,18,Wolfsburg,31,Germany - 1. Bundesliga
+282,Maximilian Eggestein,12,14,3,3,6,0,34,1,Werder Bremen,7,Germany - 1. Bundesliga
+283,Maximilian Mittelstädt,10,2,1,1,8,2,48,7,Hertha Berlin,3,Germany - 1. Bundesliga
+284,Medhi Amine El Mouttaqi Benatia,62,28,7,16,13,42,88,23,Bayern Munich,14,Germany - 1. Bundesliga
+285,Melvyn Lorenzen,4,9,1,5,6,0,58,2,Werder Bremen,9,Germany - 1. Bundesliga
+286,Mevlüt Erdinç,6,18,0,6,5,6,34,0,Hannover 96,11,Germany - 1. Bundesliga
+287,Michael Gregoritsch,56,112,12,29,34,17,282,12,Hamburger SV,25,Germany - 1. Bundesliga
+288,Miiko Martín Albornoz Inola,108,103,29,26,59,63,357,30,Hannover 96,23,Germany - 1. Bundesliga
+289,Mijat Gaćinović,19,29,6,5,9,2,62,6,Eintracht Frankfurt,7,Germany - 1. Bundesliga
+290,Miloš Jojić,27,26,4,14,8,3,180,3,FC Köln,15,Germany - 1. Bundesliga
+291,Mitchell James Langerak,10,0,0,0,0,0,4,0,VfB Stuttgart,2,Germany - 1. Bundesliga
+292,Mitchell Weiser,139,129,37,32,54,38,556,30,Hertha Berlin,29,Germany - 1. Bundesliga
+293,Moritz Hartmann,74,137,13,29,42,13,419,13,Ingolstadt,30,Germany - 1. Bundesliga
+294,Moritz Leitner,14,9,4,4,8,1,71,2,Borussia Dortmund,9,Germany - 1. Bundesliga
+295,Mustafa Batuhan Altıntaş,4,0,0,3,0,0,15,0,Hamburger SV,1,Germany - 1. Bundesliga
+296,Márcio Rafael Ferreira de Souza,99,51,22,23,34,29,165,23,Bayern Munich,25,Germany - 1. Bundesliga
+297,Mërgim Mavraj,26,55,20,18,26,87,160,6,FC Köln,11,Germany - 1. Bundesliga
+298,Nabil Bahoui,6,9,5,9,6,2,65,0,Hamburger SV,6,Germany - 1. Bundesliga
+299,Nadiem Amiri,95,51,21,33,23,7,442,10,Hoffenheim,25,Germany - 1. Bundesliga
+300,Neven Subotić,21,17,2,5,11,24,55,4,Borussia Dortmund,6,Germany - 1. Bundesliga
+301,Nicklas Bendtner,11,27,3,8,3,5,67,0,Wolfsburg,13,Germany - 1. Bundesliga
+302,Nico Elvedi,81,81,20,19,45,70,220,36,Borussia Mönchengladbach,21,Germany - 1. Bundesliga
+303,Nico Schulz,2,2,0,1,1,0,14,0,Borussia Mönchengladbach,2,Germany - 1. Bundesliga
+304,Nicolai Müller,108,132,39,62,72,18,647,13,Hamburger SV,29,Germany - 1. Bundesliga
+305,Niklas Stark,54,55,12,26,28,74,202,17,Hertha Berlin,21,Germany - 1. Bundesliga
+306,Niklas Süle,109,97,22,20,78,201,252,35,Hoffenheim,33,Germany - 1. Bundesliga
+307,Niko Bungert,37,58,16,20,33,86,170,25,FSV Mainz 05,20,Germany - 1. Bundesliga
+308,Noah-Joel Sarenren-Bazee,21,18,0,14,5,0,57,0,Hannover 96,5,Germany - 1. Bundesliga
+309,Nuri Şahin,21,22,11,8,6,7,100,7,Borussia Dortmund,9,Germany - 1. Bundesliga
+310,Odisseas Vlachodimos,6,0,0,0,0,0,0,0,VfB Stuttgart,3,Germany - 1. Bundesliga
+311,Oliver Baumann,204,0,0,0,1,0,1,0,Hoffenheim,33,Germany - 1. Bundesliga
+312,Oliver Sorg,67,58,17,18,30,27,235,24,Hannover 96,20,Germany - 1. Bundesliga
+313,Oscar Wendt,116,95,31,21,67,78,328,30,Borussia Mönchengladbach,30,Germany - 1. Bundesliga
+314,Pablo Ezequiel De Blasis,68,132,37,35,37,15,442,19,FSV Mainz 05,26,Germany - 1. Bundesliga
+315,Papiss Mison Djilobodji,69,32,10,18,32,101,99,32,Werder Bremen,14,Germany - 1. Bundesliga
+316,Pascal Groß,158,128,37,42,79,25,832,25,Ingolstadt,32,Germany - 1. Bundesliga
+317,Patrick Herrmann,27,29,7,8,14,5,92,3,Borussia Mönchengladbach,18,Germany - 1. Bundesliga
+318,Paul Seguin,4,5,1,0,2,2,41,0,Wolfsburg,4,Germany - 1. Bundesliga
+319,Paul Verhaegh,86,69,18,13,52,67,247,23,Augsburg,25,Germany - 1. Bundesliga
+320,Pavel Kadeřábek,68,98,16,26,71,87,264,33,Hoffenheim,28,Germany - 1. Bundesliga
+321,Paweł Olkowski,55,39,10,12,28,43,167,15,FC Köln,19,Germany - 1. Bundesliga
+322,Per Ciljan Skjelbred,147,109,41,66,68,53,642,24,Hertha Berlin,31,Germany - 1. Bundesliga
+323,Peter Niemeyer,137,156,35,77,82,82,720,38,Darmstadt 98,31,Germany - 1. Bundesliga
+324,Peter Pekarík,46,37,14,13,28,33,176,13,Hertha Berlin,12,Germany - 1. Bundesliga
+325,Philip Heise,8,5,2,1,4,5,37,2,VfB Stuttgart,5,Germany - 1. Bundesliga
+326,Philipp Bargfrede,78,62,29,29,34,20,286,20,Werder Bremen,14,Germany - 1. Bundesliga
+327,Philipp Hosiner,12,38,5,8,5,3,107,0,FC Köln,15,Germany - 1. Bundesliga
+328,Philipp Lahm,104,55,15,11,27,40,207,19,Bayern Munich,26,Germany - 1. Bundesliga
+329,Philipp Max,78,91,19,36,44,62,368,26,Augsburg,26,Germany - 1. Bundesliga
+330,Philipp Ochs,23,35,14,10,11,8,165,6,Hoffenheim,13,Germany - 1. Bundesliga
+331,Phillipp Klement,3,0,0,0,1,0,6,0,FSV Mainz 05,2,Germany - 1. Bundesliga
+332,Pierre Bengtsson,51,54,11,14,35,46,215,13,FSV Mainz 05,16,Germany - 1. Bundesliga
+333,Pierre-Emerick Aubameyang,52,62,4,30,27,7,467,4,Borussia Dortmund,31,Germany - 1. Bundesliga
+334,Pierre-Emile Højbjerg,87,47,21,39,40,25,306,24,Schalke 04,23,Germany - 1. Bundesliga
+335,Pierre-Michel Lasogga,52,130,4,56,19,31,462,4,Hamburger SV,30,Germany - 1. Bundesliga
+336,Piotr Trochowski,12,3,1,5,0,0,40,1,Augsburg,5,Germany - 1. Bundesliga
+337,Pirmin Schwegler,60,79,25,36,29,34,313,16,Hoffenheim,21,Germany - 1. Bundesliga
+338,Przemysław Tytoń,161,0,0,3,0,0,8,0,VfB Stuttgart,30,Germany - 1. Bundesliga
+339,Raffael Caetano de Araújo,135,83,23,20,37,3,595,11,Borussia Mönchengladbach,31,Germany - 1. Bundesliga
+340,Ragnar Klavan,90,78,23,24,53,187,284,26,Augsburg,31,Germany - 1. Bundesliga
+341,Ralf Fährmann,175,0,0,0,6,1,4,0,Schalke 04,34,Germany - 1. Bundesliga
+342,Ramazan Özcan,149,0,0,0,0,1,2,0,Ingolstadt,28,Germany - 1. Bundesliga
+343,Raúl Marcelo Bobadilla,84,69,16,45,29,18,332,9,Augsburg,27,Germany - 1. Bundesliga
+344,René Adler,129,0,0,4,0,2,5,0,Hamburger SV,24,Germany - 1. Bundesliga
+345,Ricardo Iván Rodríguez Araya,121,83,27,26,60,59,280,15,Wolfsburg,24,Germany - 1. Bundesliga
+346,Robbie Kruse,23,24,1,4,10,2,137,4,VfB Stuttgart,12,Germany - 1. Bundesliga
+347,Robert Bauer,86,83,27,35,55,75,335,26,Ingolstadt,24,Germany - 1. Bundesliga
+348,Robert Lewandowski,95,97,4,36,20,19,366,4,Bayern Munich,32,Germany - 1. Bundesliga
+349,Roberto Hilbert,42,41,12,15,23,40,148,15,Bayer Leverkusen,12,Germany - 1. Bundesliga
+350,Robin Knoche,37,34,11,10,25,39,99,11,Wolfsburg,11,Germany - 1. Bundesliga
+351,Roel Brouwers,6,11,2,2,5,22,27,2,Borussia Mönchengladbach,8,Germany - 1. Bundesliga
+352,Roger de Oliveira Bernardo,174,122,32,46,51,80,455,33,Ingolstadt,29,Germany - 1. Bundesliga
+353,Romain Brégerie,39,63,10,7,33,53,192,18,Ingolstadt,21,Germany - 1. Bundesliga
+354,Roman Bürki,142,0,0,1,0,0,6,0,Borussia Dortmund,33,Germany - 1. Bundesliga
+355,Roman Neustädter,102,119,30,26,58,121,298,34,Schalke 04,30,Germany - 1. Bundesliga
+356,Roman Weidenfeller,8,0,0,0,0,0,0,0,Borussia Dortmund,1,Germany - 1. Bundesliga
+357,Ron-Robert Zieler,187,0,0,0,0,0,9,0,Hannover 96,34,Germany - 1. Bundesliga
+358,Ronaldo Aparecido Rodrigues,128,97,28,36,56,136,252,43,Wolfsburg,29,Germany - 1. Bundesliga
+359,Ronny Heberson Furtado de Araújo,1,3,0,1,1,0,4,0,Hertha Berlin,1,Germany - 1. Bundesliga
+360,Roy Beerens,2,0,0,2,0,0,17,1,Hertha Berlin,2,Germany - 1. Bundesliga
+361,Rune Almenning Jarstein,131,0,0,0,0,0,4,0,Hertha Berlin,29,Germany - 1. Bundesliga
+362,Russell Canouse,1,0,0,0,1,3,3,1,Hoffenheim,1,Germany - 1. Bundesliga
+363,Salif Sané,179,145,49,57,81,135,486,38,Hannover 96,31,Germany - 1. Bundesliga
+364,Salomon Armand Magloire Kalou,91,115,13,43,46,16,378,10,Hertha Berlin,32,Germany - 1. Bundesliga
+365,Sambou Yatabaré,31,29,6,20,11,8,143,0,Werder Bremen,8,Germany - 1. Bundesliga
+366,Sandro Sirigu,5,6,3,3,2,2,29,4,Darmstadt 98,5,Germany - 1. Bundesliga
+367,Sandro Wagner,104,309,21,99,56,44,494,4,Darmstadt 98,32,Germany - 1. Bundesliga
+368,Santiago García,106,122,39,52,70,81,385,58,Werder Bremen,29,Germany - 1. Bundesliga
+369,Sascha Mölders,1,5,0,4,1,0,8,0,Augsburg,4,Germany - 1. Bundesliga
+370,Sascha Riether,53,35,11,16,34,32,168,17,Schalke 04,17,Germany - 1. Bundesliga
+371,Sead Kolašinac,71,83,24,36,40,38,313,27,Schalke 04,23,Germany - 1. Bundesliga
+372,Sebastian Boenisch,32,31,10,8,22,18,81,14,Bayer Leverkusen,8,Germany - 1. Bundesliga
+373,Sebastian Jung,18,23,6,5,12,15,105,4,Wolfsburg,11,Germany - 1. Bundesliga
+374,Sebastian Langkamp,44,74,25,17,36,139,203,17,Hertha Berlin,22,Germany - 1. Bundesliga
+375,Sebastian Rode,21,17,8,11,6,4,91,2,Bayern Munich,15,Germany - 1. Bundesliga
+376,Sebastian Rudy,103,97,37,57,51,24,508,19,Hoffenheim,24,Germany - 1. Bundesliga
+377,Serdar Taşçı,8,7,2,4,4,2,22,5,Bayern Munich,3,Germany - 1. Bundesliga
+378,Sereso Geoffroy Gonzaroua Dié,170,75,41,43,33,29,415,25,VfB Stuttgart,23,Germany - 1. Bundesliga
+379,Shinji Kagawa,113,71,18,27,36,6,440,11,Borussia Dortmund,29,Germany - 1. Bundesliga
+380,Sidney Sam,5,0,0,0,1,0,7,0,Schalke 04,2,Germany - 1. Bundesliga
+381,Simon Zoller,42,53,6,24,22,10,243,4,FC Köln,24,Germany - 1. Bundesliga
+382,Slobodan Medojević,19,24,9,15,15,7,132,9,Eintracht Frankfurt,12,Germany - 1. Bundesliga
+383,Slobodan Rajković,34,30,12,23,33,83,146,12,Darmstadt 98,14,Germany - 1. Bundesliga
+384,Sokratis Papastathopoulos,94,88,32,36,37,93,267,16,Borussia Dortmund,25,Germany - 1. Bundesliga
+385,Sonny Kittel,20,14,5,5,11,0,78,1,Eintracht Frankfurt,8,Germany - 1. Bundesliga
+386,Stefan Aigner,84,122,29,51,48,14,483,13,Eintracht Frankfurt,31,Germany - 1. Bundesliga
+387,Stefan Bell,173,92,28,53,68,167,264,55,FSV Mainz 05,30,Germany - 1. Bundesliga
+388,Stefan Kießling,74,201,24,48,35,22,389,8,Bayer Leverkusen,30,Germany - 1. Bundesliga
+389,Stefan Lex,26,60,6,21,13,4,306,2,Ingolstadt,20,Germany - 1. Bundesliga
+390,Stefan Reinartz,70,53,15,26,37,19,246,21,Eintracht Frankfurt,15,Germany - 1. Bundesliga
+391,Steven Zuber,37,30,6,13,22,3,156,2,Hoffenheim,12,Germany - 1. Bundesliga
+392,Suat Serdar,19,14,3,7,5,5,76,2,FSV Mainz 05,12,Germany - 1. Bundesliga
+393,Sven Bender,79,64,15,13,34,69,174,21,Borussia Dortmund,19,Germany - 1. Bundesliga
+394,Sven Schipplock,33,79,7,36,23,14,316,6,Hamburger SV,20,Germany - 1. Bundesliga
+395,Sven Ulreich,2,0,0,0,0,0,0,0,Bayern Munich,1,Germany - 1. Bundesliga
+396,Szabolcs Huszti,71,67,25,43,21,9,348,11,Eintracht Frankfurt,15,Germany - 1. Bundesliga
+397,Takashi Inui,1,0,0,1,0,0,18,1,Eintracht Frankfurt,1,Germany - 1. Bundesliga
+398,Tarik Elyounoussi,19,20,4,5,9,8,97,4,Hoffenheim,6,Germany - 1. Bundesliga
+399,Theodor Gebre Selassie,101,168,45,46,70,120,548,42,Werder Bremen,33,Germany - 1. Bundesliga
+400,Thiago Alcântara do Nascimento,103,83,40,40,28,13,324,22,Bayern Munich,27,Germany - 1. Bundesliga
+401,Thomas Kessler,7,0,0,0,0,0,0,0,FC Köln,1,Germany - 1. Bundesliga
+402,Thomas Kraft,32,1,0,0,1,0,2,0,Hertha Berlin,6,Germany - 1. Bundesliga
+403,Thomas Müller,71,108,13,29,37,16,330,11,Bayern Munich,31,Germany - 1. Bundesliga
+404,Thorgan Hazard,69,94,23,50,35,9,490,13,Borussia Mönchengladbach,29,Germany - 1. Bundesliga
+405,Tim Matavž,12,40,5,4,6,1,105,1,Augsburg,11,Germany - 1. Bundesliga
+406,Timm Klose,26,23,5,6,11,28,73,11,Wolfsburg,8,Germany - 1. Bundesliga
+407,Timo Baumgartl,51,80,19,18,49,108,234,12,VfB Stuttgart,19,Germany - 1. Bundesliga
+408,Timo Horn,148,0,0,0,1,1,0,0,FC Köln,33,Germany - 1. Bundesliga
+409,Timo Werner,60,144,10,36,43,4,535,4,VfB Stuttgart,33,Germany - 1. Bundesliga
+410,Timothy Chandler,26,31,13,13,15,10,101,16,Eintracht Frankfurt,12,Germany - 1. Bundesliga
+411,Tin Jedvaj,39,50,10,17,31,35,177,18,Bayer Leverkusen,15,Germany - 1. Bundesliga
+412,Tobias Kempe,80,75,12,19,33,15,283,16,Darmstadt 98,31,Germany - 1. Bundesliga
+413,Tobias Levels,52,76,19,25,50,37,307,20,Ingolstadt,16,Germany - 1. Bundesliga
+414,Tobias Sippel,12,0,0,0,0,0,2,0,Borussia Mönchengladbach,2,Germany - 1. Bundesliga
+415,Tobias Strobl,89,114,37,46,70,65,500,26,Hoffenheim,26,Germany - 1. Bundesliga
+416,Tobias Werner,25,19,5,10,17,8,97,8,Augsburg,13,Germany - 1. Bundesliga
+417,Tohouri Zahoui Constant Djakpa,50,26,11,8,17,26,99,13,Eintracht Frankfurt,11,Germany - 1. Bundesliga
+418,Tolga Ciğerci,79,53,18,17,24,16,280,17,Hertha Berlin,18,Germany - 1. Bundesliga
+419,Tom Mickel,2,0,0,0,0,0,0,0,Hamburger SV,1,Germany - 1. Bundesliga
+420,Toni Šunjić,45,74,17,28,22,122,176,25,VfB Stuttgart,19,Germany - 1. Bundesliga
+421,Tony Jantschke,28,46,11,8,22,47,90,13,Borussia Mönchengladbach,12,Germany - 1. Bundesliga
+422,Uffe Manich Bech,27,42,3,15,21,6,185,2,Hannover 96,11,Germany - 1. Bundesliga
+423,Uilson de Souza Paula Júnior,129,108,29,41,70,71,358,29,Schalke 04,23,Germany - 1. Bundesliga
+424,Ulisses Alexandre Garcia Lopes,41,25,10,22,14,14,127,6,Werder Bremen,11,Germany - 1. Bundesliga
+425,Valentin Stocker,36,63,10,31,26,5,293,6,Hertha Berlin,20,Germany - 1. Bundesliga
+426,Valmir Sulejmani,13,5,1,1,1,0,56,1,Hannover 96,4,Germany - 1. Bundesliga
+427,Vedad Ibišević,58,158,11,48,24,14,412,5,Hertha Berlin,26,Germany - 1. Bundesliga
+428,Vladimír Darida,135,93,23,64,47,34,513,18,Hertha Berlin,31,Germany - 1. Bundesliga
+429,Vladlen Yurchenko,10,19,2,9,8,5,62,9,Bayer Leverkusen,7,Germany - 1. Bundesliga
+430,Václav Kadlec,6,7,2,5,0,0,33,1,Eintracht Frankfurt,5,Germany - 1. Bundesliga
+431,Waldemar Anton,41,20,7,10,15,39,105,11,Hannover 96,8,Germany - 1. Bundesliga
+432,Wendell Nascimento Borges,174,122,38,61,74,85,465,66,Bayer Leverkusen,28,Germany - 1. Bundesliga
+433,Xabier Alonso Olano,88,91,32,40,29,35,347,11,Bayern Munich,26,Germany - 1. Bundesliga
+434,Yann Sommer,162,1,0,1,0,1,4,0,Borussia Mönchengladbach,32,Germany - 1. Bundesliga
+435,Yanni Regäsel,58,36,14,14,27,24,213,7,Eintracht Frankfurt,16,Germany - 1. Bundesliga
+436,Yannick Gerhardt,113,98,33,34,48,25,554,25,FC Köln,29,Germany - 1. Bundesliga
+437,Yoshinori Muto,43,116,19,45,29,3,414,9,FSV Mainz 05,20,Germany - 1. Bundesliga
+438,Younès Belhanda,55,37,20,16,26,5,204,4,Schalke 04,15,Germany - 1. Bundesliga
+439,Yunus Mallı,108,66,9,21,49,6,485,7,FSV Mainz 05,34,Germany - 1. Bundesliga
+440,Yūya Ōsako,68,77,14,31,11,11,312,8,FC Köln,25,Germany - 1. Bundesliga
+441,Zlatko Junuzović,131,113,27,54,46,14,643,21,Werder Bremen,30,Germany - 1. Bundesliga
+442,Ádám Szalai,24,52,5,22,12,3,167,6,Hannover 96,16,Germany - 1. Bundesliga
+443,Álvaro Domínguez Soto,13,18,4,4,5,27,29,2,Borussia Mönchengladbach,6,Germany - 1. Bundesliga
+444,Änis Ben-Hatira,34,28,6,17,1,4,156,2,Eintracht Frankfurt,9,Germany - 1. Bundesliga
+445,Ömer Toprak,94,72,24,24,46,78,177,33,Bayer Leverkusen,19,Germany - 1. Bundesliga
+446,Ørjan Håskjold Nyland,36,0,0,0,0,0,1,0,Ingolstadt,6,Germany - 1. Bundesliga
+447,İlkay Gündoğan,161,47,22,31,46,15,394,39,Borussia Dortmund,25,Germany - 1. Bundesliga
+448,Łukasz Piszczek,58,45,13,12,45,53,215,17,Borussia Dortmund,20,Germany - 1. Bundesliga
+449,Łukasz Załuska,4,0,0,0,0,0,0,0,Darmstadt 98,1,Germany - 1. Bundesliga

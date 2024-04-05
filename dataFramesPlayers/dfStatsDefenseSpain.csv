@@ -1,0 +1,527 @@
+index,player,recoveries,duels,duels_won,fouls_committed,shot_blocked,clearances,pressure,interceptions,team,MP,competition
+0,Abdoul Karim Yoda,64,32,19,16,20,20,172,22,Getafe,18,Spain - La Liga
+1,Abdoulaye Doucouré,88,53,14,20,27,15,286,23,Granada,15,Spain - La Liga
+2,Abraham González Casanova,44,46,16,14,24,7,207,25,Espanyol,20,Spain - La Liga
+3,Adalberto Peñaranda Maestre,57,119,18,64,40,5,397,9,Granada,23,Spain - La Liga
+4,Aderllan Leandro de Jesus Santos,48,69,17,13,34,90,170,42,Valencia,17,Spain - La Liga
+5,Adil Rami,108,44,11,27,36,109,136,27,Sevilla,28,Spain - La Liga
+6,Adnane Tighadouini,20,14,2,5,3,0,48,0,Málaga,10,Spain - La Liga
+7,Adriano Correia Claro,24,11,4,9,7,6,58,4,Barcelona,8,Spain - La Liga
+8,Adrián Embarba Blázquez,97,121,25,31,32,24,353,27,Rayo Vallecano,28,Spain - La Liga
+9,Adrián González Morales,114,108,21,47,50,24,381,27,Eibar,32,Spain - La Liga
+10,Adrián López Álvarez,18,32,1,8,12,7,124,2,Villarreal,16,Spain - La Liga
+11,Adrián Marín Gómez,45,51,23,13,31,27,131,24,Villarreal,11,Spain - La Liga
+12,Ager Aketxe Barrutia,6,11,5,0,3,1,30,1,Athletic Club,3,Spain - La Liga
+13,Alberto De La Bella Madureño,34,55,13,21,35,47,150,30,Real Sociedad,15,Spain - La Liga
+14,Alberto García Cabrera,31,0,0,0,1,0,0,0,Sporting Gijón,6,Spain - La Liga
+15,Alberto Guitián Ceballos,4,3,1,1,2,5,10,3,Sporting Gijón,1,Spain - La Liga
+16,Alberto Lopo García,20,31,9,8,15,38,67,13,RC Deportivo La Coruña,10,Spain - La Liga
+17,Alberto Lora Ramos,106,114,36,33,62,79,362,63,Sporting Gijón,31,Spain - La Liga
+18,Alberto Mateus Contreiras Gonçalves,28,75,10,19,13,19,158,6,Rayo Vallecano,28,Spain - La Liga
+19,Aleix Vidal Parreu,25,9,4,8,10,11,73,8,Barcelona,9,Spain - La Liga
+20,Alejandro Arribas Garrido,93,117,40,35,51,179,293,76,RC Deportivo La Coruña,31,Spain - La Liga
+21,Alejandro Barrera García,2,8,3,1,1,0,29,0,Sporting Gijón,5,Spain - La Liga
+22,Alejandro Bergantiños García,115,107,36,23,36,38,357,30,RC Deportivo La Coruña,22,Spain - La Liga
+23,Alejandro Menéndez Díez,48,53,17,12,29,24,204,26,Sporting Gijón,21,Spain - La Liga
+24,Aleksandar Pantić,66,70,12,27,25,112,126,45,Eibar,20,Spain - La Liga
+25,Alen Halilović,122,44,8,12,22,6,277,11,Sporting Gijón,36,Spain - La Liga
+26,Alexis Ruano Delgado,48,26,9,11,22,71,55,45,Getafe,15,Spain - La Liga
+27,Alfonso Pedraza Sag,5,1,0,3,3,0,24,1,Villarreal,2,Spain - La Liga
+28,Alfred John Momar N''Diaye,163,208,59,62,93,67,660,63,Real Betis,34,Spain - La Liga
+29,Alhassane Bangoura,50,34,12,20,14,4,137,7,Rayo Vallecano,16,Spain - La Liga
+30,Alphonse Areola,160,0,0,1,2,1,2,0,Villarreal,32,Spain - La Liga
+31,Anaitz Arbilla Zabala,30,29,19,16,14,20,98,13,Espanyol,7,Spain - La Liga
+32,Ander Capa Rodríguez,190,131,60,59,63,89,466,107,Eibar,36,Spain - La Liga
+33,Ander Gayoso Reina,1,0,0,0,0,1,0,0,Eibar,1,Spain - La Liga
+34,Ander Iturraspe Derteano,42,40,20,22,23,17,176,17,Athletic Club,16,Spain - La Liga
+35,Andreu Fontàs Prat,30,23,11,2,10,30,71,17,Celta Vigo,7,Spain - La Liga
+36,André Filipe Tavares Gomes,161,136,25,64,47,15,576,23,Valencia,30,Spain - La Liga
+37,Andrés Eduardo Fernández Moreno,211,1,1,1,2,2,6,0,Granada,37,Spain - La Liga
+38,Andrés Iniesta Luján,127,63,34,24,30,13,377,12,Barcelona,28,Spain - La Liga
+39,Andrés Pascual Santoja,3,4,2,0,0,0,6,1,Valencia,1,Spain - La Liga
+40,Antoine Griezmann,151,184,36,35,48,31,619,42,Atlético Madrid,38,Spain - La Liga
+41,Antolín Alcáraz Viveros,17,33,15,8,12,27,56,16,Las Palmas,6,Spain - La Liga
+42,Antonio Adán Garrido,164,0,0,1,0,1,6,0,Real Betis,36,Spain - La Liga
+43,Antonio Amaya Carazo,26,41,8,21,26,60,120,29,Rayo Vallecano,17,Spain - La Liga
+44,Antonio Barragán Fernández,70,60,28,41,36,45,258,44,Valencia,24,Spain - La Liga
+45,Antonio García Aranda,136,87,26,53,55,63,299,61,Levante UD,27,Spain - La Liga
+46,Antonio Jesús Cotán Pérez,6,7,2,5,3,0,18,0,Sevilla,1,Spain - La Liga
+47,Antonio José Raillo Arenas,10,14,7,3,2,14,28,9,Espanyol,4,Spain - La Liga
+48,Antonio Manuel Luna Rodríguez,41,40,18,8,28,24,145,30,Eibar,15,Spain - La Liga
+49,Antonio Rodríguez Martínez,66,0,0,2,0,0,0,0,Rayo Vallecano,10,Spain - La Liga
+50,Antonio Rukavina,38,51,14,19,33,39,133,27,Villarreal,18,Spain - La Liga
+51,António Alberto Bastos Pimparel,14,0,0,0,0,0,0,0,Sevilla,4,Spain - La Liga
+52,Aras Özbiliz,1,5,2,3,0,0,23,1,Rayo Vallecano,3,Spain - La Liga
+53,Arda Turan,66,42,21,23,23,2,180,5,Barcelona,18,Spain - La Liga
+54,Aritz Aduriz Zubeldia,82,170,16,63,35,23,313,7,Athletic Club,34,Spain - La Liga
+55,Aritz Elustondo Irribaria,105,110,37,35,54,102,384,70,Real Sociedad,31,Spain - La Liga
+56,Armindo Tué Na Bangna,91,37,10,19,17,2,282,22,Real Sociedad,32,Spain - La Liga
+57,Arnaldo Antonio Sanabria Ayala,80,217,7,42,36,7,407,11,Sporting Gijón,29,Spain - La Liga
+58,Arthur Etienne Boka,65,48,9,17,25,18,116,23,Málaga,14,Spain - La Liga
+59,Asier Illarramendi Andonegi,189,176,64,52,78,61,725,103,Real Sociedad,33,Spain - La Liga
+60,Asier Riesgo Unamuno,210,0,0,1,0,6,3,0,Eibar,34,Spain - La Liga
+61,Augusto Matías Fernández,147,138,64,55,46,35,595,81,Atlético Madrid,28,Spain - La Liga
+62,Aymen Abdennour,65,73,23,24,44,92,200,52,Valencia,22,Spain - La Liga
+63,Aymeric Laporte,102,78,27,31,45,103,235,50,Athletic Club,26,Spain - La Liga
+64,Aythami Artiles Oliva,89,121,32,32,52,201,233,49,Las Palmas,31,Spain - La Liga
+65,Benoît Trémoulinas,80,62,18,12,40,52,171,26,Sevilla,24,Spain - La Liga
+66,Bernard Mensah,3,3,3,6,1,0,21,0,Getafe,8,Spain - La Liga
+67,Bernardo José Espinosa Zúñiga,57,53,16,36,40,107,141,40,Sporting Gijón,16,Spain - La Liga
+68,Beñat Etxebarria Urkiaga,218,108,52,52,57,12,641,58,Athletic Club,36,Spain - La Liga
+69,Bojan Jokić,6,5,1,3,8,10,16,4,Villarreal,2,Spain - La Liga
+70,Borja Ekiza Imaz,11,6,0,7,8,5,21,2,Eibar,4,Spain - La Liga
+71,Borja Fernández Fernández,11,5,2,3,4,3,26,2,Celta Vigo,4,Spain - La Liga
+72,Borja González Tomás,73,186,12,41,38,11,551,8,Eibar,36,Spain - La Liga
+73,Borja Mayoral Moya,6,16,2,3,5,0,78,3,Real Madrid,6,Spain - La Liga
+74,Borja Viguera Manzanares,12,15,0,3,7,5,57,2,Athletic Club,9,Spain - La Liga
+75,Bruno González Cabrera,92,130,39,39,52,224,343,77,Real Betis,32,Spain - La Liga
+76,Bruno Soriano Llido,163,110,35,29,53,66,326,72,Villarreal,31,Spain - La Liga
+77,Carl Medjani,22,34,10,9,19,76,82,16,Levante UD,14,Spain - La Liga
+78,Carles Planas Antolínez,50,108,33,20,43,69,348,45,Celta Vigo,24,Spain - La Liga
+79,Carlos Alberto Vela Garrido,137,93,22,42,39,3,428,16,Real Sociedad,35,Spain - La Liga
+80,Carlos Carbonell Gil,1,0,0,0,1,0,3,0,Valencia,1,Spain - La Liga
+81,Carlos Carmona Bonet,69,86,28,36,50,8,372,29,Sporting Gijón,20,Spain - La Liga
+82,Carlos Castro García,31,75,3,10,10,6,139,4,Sporting Gijón,25,Spain - La Liga
+83,Carlos Fernández Luna,1,1,0,0,0,0,3,1,Sevilla,1,Spain - La Liga
+84,Carlos Gurpegi Nausia,39,44,10,16,17,72,102,28,Athletic Club,15,Spain - La Liga
+85,Carlos Henrique Casimiro,89,94,57,49,67,31,406,46,Real Madrid,23,Spain - La Liga
+86,Carlos Martín Vigaray,43,66,26,23,31,36,203,25,Getafe,14,Spain - La Liga
+87,Carlos Martínez Díez,26,27,10,5,12,15,65,15,Real Sociedad,9,Spain - La Liga
+88,Celso Borges Mora,78,107,27,26,34,29,307,40,RC Deportivo La Coruña,24,Spain - La Liga
+89,Charles Días Barbosa de Oliveira,75,176,17,70,35,37,415,20,Málaga,35,Spain - La Liga
+90,Charly Musonda Junior,60,46,9,20,17,5,243,15,Real Betis,16,Spain - La Liga
+91,Christian Atsu Twasam,16,24,4,3,9,1,65,3,Málaga,11,Spain - La Liga
+92,Ciro Immobile,10,12,2,11,6,6,78,0,Sevilla,8,Spain - La Liga
+93,Claudio Andrés Bravo Muñoz,119,0,0,0,1,2,3,0,Barcelona,32,Spain - La Liga
+94,Claudio Beauvue,21,45,5,13,11,7,86,3,Celta Vigo,10,Spain - La Liga
+95,Claudio Matías Kranevitter,15,15,8,10,8,13,64,6,Atlético Madrid,8,Spain - La Liga
+96,Cristiano Biraghi,95,114,34,47,68,96,320,45,Granada,32,Spain - La Liga
+97,Cristiano Piccini,85,64,31,30,33,45,191,32,Real Betis,16,Spain - La Liga
+98,Cristiano Ronaldo dos Santos Aveiro,69,58,8,24,20,14,171,8,Real Madrid,36,Spain - La Liga
+99,Cédric Bakambu,54,104,10,61,26,5,380,8,Villarreal,34,Spain - La Liga
+100,Damián Nicolás Suárez Suárez,127,119,45,50,69,55,487,54,Getafe,31,Spain - La Liga
+101,Dani Castellano Betancor,96,112,32,29,62,70,289,75,Las Palmas,27,Spain - La Liga
+102,Daniel Alves da Silva,157,95,42,43,63,33,381,29,Barcelona,29,Spain - La Liga
+103,Daniel Arnaud N''Di	,33,65,9,17,10,2,127,6,Sporting Gijón,15,Spain - La Liga
+104,Daniel Carvajal Ramos,75,55,17,35,50,34,281,42,Real Madrid,22,Spain - La Liga
+105,Daniel Ceballos Fernández,156,112,41,47,40,22,515,41,Real Betis,34,Spain - La Liga
+106,Daniel Filipe Martins Carriço,39,47,11,13,23,70,132,22,Sevilla,14,Spain - La Liga
+107,Daniel García Carrillo,213,145,60,65,67,54,559,63,Eibar,35,Spain - La Liga
+108,Daniel Giménez Hernández,12,0,0,0,0,0,0,0,Real Betis,3,Spain - La Liga
+109,Daniel Parejo Muñoz,171,121,51,49,54,28,819,43,Valencia,33,Spain - La Liga
+110,Daniel Wass,119,106,37,35,43,44,391,41,Celta Vigo,36,Spain - La Liga
+111,Daniele Bonera,19,24,5,16,18,34,84,15,Villarreal,14,Spain - La Liga
+112,Danilo Barbosa da Silva,73,68,27,27,32,22,342,21,Valencia,19,Spain - La Liga
+113,Danilo Luiz da Silva,89,85,43,41,42,50,267,54,Real Madrid,24,Spain - La Liga
+114,David Barral Torres,17,18,4,17,8,4,84,4,Granada,14,Spain - La Liga
+115,David Carmona Sierra,6,7,4,2,1,3,23,2,Sevilla,1,Spain - La Liga
+116,David García Santana,50,57,20,13,37,66,147,43,Las Palmas,19,Spain - La Liga
+117,David Goldar Gómez,3,3,0,3,3,4,12,1,Celta Vigo,1,Spain - La Liga
+118,David Juncà Reñé,91,103,41,43,51,53,357,53,Eibar,31,Spain - La Liga
+119,David Navarro Pedrós,48,42,13,19,25,108,105,38,Levante UD,20,Spain - La Liga
+120,David Rodríguez Lombán,67,55,12,21,63,146,239,58,Granada,30,Spain - La Liga
+121,David Simón Rodríguez Santana,106,90,36,49,51,46,381,33,Las Palmas,27,Spain - La Liga
+122,David Zurutuza Veillet,81,70,24,24,33,15,259,34,Real Sociedad,16,Spain - La Liga
+123,Dejan Dražić,5,3,1,2,2,1,18,0,Celta Vigo,6,Spain - La Liga
+124,Denis Cheryshev,25,31,10,16,19,1,121,15,Valencia,9,Spain - La Liga
+125,Denis Suárez Fernández,113,81,33,29,81,17,490,38,Villarreal,33,Spain - La Liga
+126,Deyverson Brum Silva Acosta,90,165,20,53,34,28,476,22,Levante UD,33,Spain - La Liga
+127,Didier Digard,16,16,7,8,7,12,64,1,Real Betis,8,Spain - La Liga
+128,Diego Alves Carreira,47,0,0,0,0,0,1,0,Valencia,13,Spain - La Liga
+129,Diego Antonio Reyes Rosales,88,116,37,23,48,115,241,72,Real Sociedad,27,Spain - La Liga
+130,Diego González Polanco,4,7,1,1,3,4,16,2,Sevilla,2,Spain - La Liga
+131,Diego Javier Llorente Ríos,152,159,31,61,63,135,436,76,Rayo Vallecano,33,Spain - La Liga
+132,Diego Mainz García,8,14,2,3,5,23,33,9,Granada,5,Spain - La Liga
+133,Diego Mariño Villar,131,0,0,0,2,0,2,0,Levante UD,23,Spain - La Liga
+134,Diego Roberto Godín Leal,105,127,36,38,43,155,241,75,Atlético Madrid,31,Spain - La Liga
+135,Dimitri Foulquier,69,60,23,28,38,38,248,44,Granada,21,Spain - La Liga
+136,Diogo José Rosário Gomes Figueiras,23,14,5,5,5,7,48,2,Sevilla,4,Spain - La Liga
+137,Duje Čop,67,112,13,35,29,6,394,15,Málaga,31,Spain - La Liga
+138,Eddy Silvestre Pascual İsrafilov,12,14,5,11,10,4,56,6,Eibar,6,Spain - La Liga
+139,Edgar Antonio Méndez Ortega,33,46,17,30,6,14,175,13,Granada,15,Spain - La Liga
+140,Egor Filipenko,19,20,8,3,16,36,56,22,Málaga,8,Spain - La Liga
+141,Emiliano Buendía,65,50,18,22,15,9,204,21,Getafe,17,Spain - La Liga
+142,Emiliano Daniel Velázquez Maldonado,39,50,17,15,16,52,119,32,Getafe,11,Spain - La Liga
+143,Eneko Bóveda Altube,71,73,20,22,36,70,253,47,Athletic Club,23,Spain - La Liga
+144,Eneko Capilla González,1,0,0,0,0,0,1,0,Real Sociedad,1,Spain - La Liga
+145,Enrique Sola Clemente,1,11,0,1,1,2,15,0,Athletic Club,5,Spain - La Liga
+146,Enzo Nicolás Pérez,66,60,21,36,32,30,277,24,Valencia,20,Spain - La Liga
+147,Enzo Pablo Roco Roco,70,62,16,39,48,147,241,51,Espanyol,33,Spain - La Liga
+148,Eric Bertrand Bailly,89,81,27,36,39,128,188,46,Villarreal,25,Spain - La Liga
+149,Esteban Félix Granero Molina,38,50,22,24,22,12,249,18,Real Sociedad,15,Spain - La Liga
+150,Fabián Ariel Orellana Valenzuela,194,106,23,32,39,43,374,39,Celta Vigo,34,Spain - La Liga
+151,Fabián Ruiz Peña,29,25,3,9,10,3,107,7,Real Betis,12,Spain - La Liga
+152,Fayçal Fajr,144,109,29,34,52,20,531,45,RC Deportivo La Coruña,38,Spain - La Liga
+153,Federico Julián Fazio,6,9,3,5,8,16,21,3,Sevilla,4,Spain - La Liga
+154,Federico Nicolás Cartabia,87,80,30,22,44,9,374,28,RC Deportivo La Coruña,26,Spain - La Liga
+155,Federico Ricca Rostagnol,33,42,14,11,21,24,92,17,Málaga,8,Spain - La Liga
+156,Felipe Salvador Caicedo Corozo,43,170,16,55,30,14,315,6,Espanyol,31,Spain - La Liga
+157,Fernando Damián Tissone,61,36,14,35,13,18,162,27,Málaga,12,Spain - La Liga
+158,Fernando José Torres Sanz,58,109,10,32,27,16,292,4,Atlético Madrid,30,Spain - La Liga
+159,Fernando Llorente Torres,26,89,9,38,13,12,204,9,Sevilla,23,Spain - La Liga
+160,Fernando Navarro i Corbacho,114,151,55,42,87,69,391,75,RC Deportivo La Coruña,35,Spain - La Liga
+161,Filipe Luís Kasmirski,157,166,83,37,65,55,501,88,Atlético Madrid,32,Spain - La Liga
+162,Foued Kadir,35,24,7,7,17,6,91,9,Real Betis,8,Spain - La Liga
+163,Francisco Alcácer García,43,103,13,20,25,18,389,14,Valencia,34,Spain - La Liga
+164,Francisco Casilla Cortés,14,0,0,0,0,0,0,0,Real Madrid,4,Spain - La Liga
+165,Francisco Guillermo Ochoa Magaña,53,0,0,0,1,0,2,0,Málaga,11,Spain - La Liga
+166,Francisco Javier García Noblejas Hernanz,3,6,2,3,3,3,17,0,Getafe,1,Spain - La Liga
+167,Francisco José Molinero Calderón,41,65,23,28,26,55,170,26,Real Betis,20,Spain - La Liga
+168,Francisco José Perdomo Borges,20,10,4,4,6,5,75,13,Las Palmas,8,Spain - La Liga
+169,Francisco José Sánchez Rodríguez,20,7,2,9,5,2,60,2,Sevilla,4,Spain - La Liga
+170,Francisco José Villalba Rodrigo,1,0,0,2,0,0,1,0,Valencia,1,Spain - La Liga
+171,Francisco Manuel Rico Castro,68,79,23,47,32,22,283,30,Granada,28,Spain - La Liga
+172,Francisco Medina Luna,41,38,10,20,18,1,113,8,Rayo Vallecano,16,Spain - La Liga
+173,Francisco Miguel Varela Martín,27,30,7,6,25,19,93,17,Real Betis,14,Spain - La Liga
+174,Francisco Montañés Claverías,6,13,5,6,2,4,65,5,Espanyol,7,Spain - La Liga
+175,Francisco Portillo Soler,60,35,10,19,15,9,180,11,Real Betis,19,Spain - La Liga
+176,Francisco Román Alarcón Suárez,103,55,23,35,21,3,343,24,Real Madrid,31,Spain - La Liga
+177,Gabriel Fernández Arenas,216,174,68,76,81,45,725,58,Atlético Madrid,35,Spain - La Liga
+178,Gareth Frank Bale,62,39,5,14,18,5,198,24,Real Madrid,23,Spain - La Liga
+179,Gaël Kakuta,2,4,2,3,1,0,25,1,Sevilla,2,Spain - La Liga
+180,Gerard Gumbau Garriga,1,1,0,0,3,2,19,1,Barcelona,3,Spain - La Liga
+181,Gerard Moreno Balaguero,67,148,18,46,31,17,350,19,Espanyol,32,Spain - La Liga
+182,Gerard Piqué Bernabéu,141,74,19,17,49,156,184,32,Barcelona,30,Spain - La Liga
+183,Germán Alejandro Pezzella,70,110,31,25,56,150,222,60,Real Betis,25,Spain - La Liga
+184,Germán Darío Lux,132,0,0,1,0,3,3,0,RC Deportivo La Coruña,29,Spain - La Liga
+185,Gerónimo Rulli,155,0,0,2,1,2,9,0,Real Sociedad,36,Spain - La Liga
+186,Giedrius Arlauskis,12,2,1,0,0,0,3,0,Espanyol,3,Spain - La Liga
+187,Giuseppe Rossi,50,51,7,13,20,8,221,7,Levante UD,17,Spain - La Liga
+188,Gonzalo Castro Irizábal,90,55,12,18,34,2,213,18,Málaga,24,Spain - La Liga
+189,Gonzalo Escalante,193,201,80,106,86,50,794,74,Eibar,34,Spain - La Liga
+190,Gorka Elustondo Urkola,21,24,8,10,10,19,105,18,Athletic Club,11,Spain - La Liga
+191,Gorka Iraizoz Moreno,197,0,0,1,0,3,1,0,Athletic Club,37,Spain - La Liga
+192,Grzegorz Krychowiak,120,107,45,52,48,84,362,74,Sevilla,26,Spain - La Liga
+193,Guilherme Magdalena Siqueira,48,43,20,20,22,31,154,31,Valencia,15,Spain - La Liga
+194,Gustavo Daniel Cabral Cáceres,154,145,52,40,53,151,371,79,Celta Vigo,31,Spain - La Liga
+195,Heiko Westermann,52,76,27,22,33,148,168,39,Real Betis,20,Spain - La Liga
+196,Henok Goitom,2,13,1,3,2,0,13,1,Getafe,2,Spain - La Liga
+197,Hernán Arsenio Pérez González,147,109,29,101,53,19,560,37,Espanyol,32,Spain - La Liga
+198,Hernán Daniel Santana Trujillo,63,38,18,21,9,11,170,25,Las Palmas,18,Spain - La Liga
+199,Hugo Fraile Martín,4,7,0,3,1,3,24,0,Sporting Gijón,3,Spain - La Liga
+200,Hugo Mallo Novegil,113,144,47,60,67,116,532,78,Celta Vigo,34,Spain - La Liga
+201,Hugo Miguel Almeida Costa Lopes,81,106,48,31,45,77,314,51,Granada,26,Spain - La Liga
+202,Héctor Hernández Ortega,17,20,4,2,11,10,63,11,Real Sociedad,13,Spain - La Liga
+203,Iago Aspas Juncal,95,126,14,43,33,8,442,19,Celta Vigo,35,Spain - La Liga
+204,Iago Herrerín Buisán,11,0,0,0,0,0,1,0,Athletic Club,2,Spain - La Liga
+205,Ibai Gómez Pérez,5,7,3,6,2,2,37,0,Athletic Club,5,Spain - La Liga
+206,Idriss Carlos Kameni,138,0,0,0,1,1,2,0,Málaga,28,Spain - La Liga
+207,Ignacio Camacho Barnola,134,138,47,57,40,63,442,64,Málaga,23,Spain - La Liga
+208,Ignacio Cases Mora,121,96,35,52,36,25,454,31,Sporting Gijón,24,Spain - La Liga
+209,Igor Lichnovsky Osorio,2,7,4,0,5,9,18,5,Sporting Gijón,2,Spain - La Liga
+210,Igor Zubeldia Elorza,1,0,0,0,1,0,4,1,Real Sociedad,1,Spain - La Liga
+211,Iker Muniain Goñi,72,33,11,6,10,7,142,14,Athletic Club,20,Spain - La Liga
+212,Imanol Agirretxe Arruti,28,78,2,10,10,9,157,5,Real Sociedad,16,Spain - La Liga
+213,Isaac Ajayi Success,100,101,16,57,36,16,332,21,Granada,30,Spain - La Liga
+214,Ismael López Blanco,131,98,48,28,57,61,415,55,Sporting Gijón,31,Spain - La Liga
+215,Ivan Rakitić,140,81,36,44,39,28,480,31,Barcelona,36,Spain - La Liga
+216,Iván Cuéllar Sacristán,161,0,0,1,1,1,3,0,Sporting Gijón,32,Spain - La Liga
+217,Iván López Mendoza,41,48,22,19,26,29,130,17,Levante UD,13,Spain - La Liga
+218,Iván Ramis Barrios,75,63,10,18,24,114,124,38,Eibar,23,Spain - La Liga
+219,Izet Hajrović,8,4,2,4,5,1,47,1,Eibar,7,Spain - La Liga
+220,Iñaki Williams Arthuer,85,60,15,22,36,3,287,16,Athletic Club,25,Spain - La Liga
+221,Iñigo Barrenetxea García,1,2,0,0,0,0,3,0,Eibar,2,Spain - La Liga
+222,Jackson Arley Martínez Valencia,20,46,3,23,14,6,112,6,Atlético Madrid,15,Spain - La Liga
+223,James David Rodríguez Rubio,81,53,21,16,25,6,307,23,Real Madrid,26,Spain - La Liga
+224,Jan Oblak,133,0,0,0,1,2,0,0,Atlético Madrid,38,Spain - La Liga
+225,Jaume Doménech Sánchez,66,0,0,0,0,1,1,0,Valencia,17,Spain - La Liga
+226,Jaume Vicent Costa Jordá,55,79,26,25,57,34,195,47,Villarreal,18,Spain - La Liga
+227,Javi Castellano Betancor,5,5,2,2,2,5,18,4,Las Palmas,1,Spain - La Liga
+228,Javier Alejandro Mascherano,103,105,44,31,69,106,354,38,Barcelona,32,Spain - La Liga
+229,Javier Eraso Goñi,33,18,0,8,13,7,225,8,Athletic Club,16,Spain - La Liga
+230,Javier Fuego Martínez,121,104,39,63,51,34,581,48,Valencia,26,Spain - La Liga
+231,Javier Garrido Behovide,51,39,13,16,41,57,146,24,Las Palmas,18,Spain - La Liga
+232,Javier Guerra Rodríguez,54,181,18,47,35,9,374,10,Rayo Vallecano,30,Spain - La Liga
+233,Javier López Rodríguez,128,131,53,57,50,80,440,66,Espanyol,31,Spain - La Liga
+234,Javier Márquez Moreno,64,71,28,37,30,26,326,18,Granada,19,Spain - La Liga
+235,Javier Ontiveros Parra,9,5,3,5,1,0,17,1,Málaga,4,Spain - La Liga
+236,Javier Varas Herrera,173,0,0,2,0,2,7,0,Las Palmas,31,Spain - La Liga
+237,Jean-Sylvain Claude Babin,41,93,12,15,36,151,147,38,Granada,25,Spain - La Liga
+238,Jefferson Andrés Lerma Solís,152,112,35,55,42,59,474,53,Levante UD,33,Spain - La Liga
+239,Jerónimo Figueroa Cabrera,77,38,17,13,20,7,211,28,Las Palmas,23,Spain - La Liga
+240,Jesé Rodríguez Ruiz,42,30,15,14,11,3,121,10,Real Madrid,28,Spain - La Liga
+241,Jesús Fernández Collado,3,0,0,0,0,0,0,0,Granada,1,Spain - La Liga
+242,Jesús Gámez Duarte,13,29,14,7,24,28,117,20,Atlético Madrid,10,Spain - La Liga
+243,Joan Jordán Moreno,26,31,12,19,15,11,160,10,Espanyol,9,Spain - La Liga
+244,Joan Verdú Fernández,55,23,9,8,17,5,138,11,Levante UD,13,Spain - La Liga
+245,Joaquín José Marín Ruiz,95,150,62,45,49,57,426,50,Rayo Vallecano,27,Spain - La Liga
+246,Joaquín Sánchez Rodríguez,116,90,20,13,36,20,251,22,Real Betis,30,Spain - La Liga
+247,John Guidetti,42,85,9,32,17,3,263,6,Celta Vigo,35,Spain - La Liga
+248,Jon Ansotegi Gorostola,3,18,5,5,4,39,50,11,Eibar,8,Spain - La Liga
+249,Jon Bautista Orgilles,1,7,3,5,0,2,35,1,Real Sociedad,4,Spain - La Liga
+250,Jonathan Castro Otto,139,133,43,49,81,74,560,93,Celta Vigo,36,Spain - La Liga
+251,Jonathan Javier Rodríguez Portillo,18,38,6,16,6,3,106,4,RC Deportivo La Coruña,13,Spain - La Liga
+252,Jonathan Rodríguez Menéndez,139,78,26,38,58,7,463,47,Sporting Gijón,36,Spain - La Liga
+253,Jonathan Viera Ramos,157,116,39,32,49,15,654,30,Las Palmas,36,Spain - La Liga
+254,Jonathan dos Santos Ramírez,106,97,35,38,46,21,447,35,Villarreal,26,Spain - La Liga
+255,Jonathas Cristian de Jesus,36,107,15,43,31,15,308,8,Real Sociedad,27,Spain - La Liga
+256,Jonhatan Montiel Caballero,19,5,1,5,1,2,47,1,Rayo Vallecano,8,Spain - La Liga
+257,Jonás Manuel Gutiérrez,27,28,11,8,13,5,107,11,RC Deportivo La Coruña,15,Spain - La Liga
+258,Jordi Alba Ramos,136,69,31,22,64,77,304,41,Barcelona,31,Spain - La Liga
+259,Jordi Figueras Montel,2,9,1,2,5,13,22,4,Real Betis,3,Spain - La Liga
+260,Jordi Xumetra Feliu,24,22,2,13,11,1,95,0,Levante UD,13,Spain - La Liga
+261,Jorge Andújar Moreno,60,80,23,35,40,35,274,33,Sevilla,22,Spain - La Liga
+262,Jorge Franco Alviz,39,29,12,8,22,2,139,8,Espanyol,26,Spain - La Liga
+263,Jorge Meré Pérez,71,112,31,22,35,122,219,47,Sporting Gijón,25,Spain - La Liga
+264,Jorge Molina Vidal,31,87,8,15,12,5,129,2,Real Betis,23,Spain - La Liga
+265,Jorge Resurrección Merodio,177,143,58,43,56,30,667,47,Atlético Madrid,35,Spain - La Liga
+266,Joseba Zaldúa Bengoetxea,34,45,13,25,15,37,159,19,Real Sociedad,13,Spain - La Liga
+267,Josep Señé Escudero,16,13,3,8,11,1,68,2,Celta Vigo,9,Spain - La Liga
+268,Josip Radošević,30,24,11,20,11,7,145,10,Eibar,8,Spain - La Liga
+269,José Alberto Cañas Ruiz Herrera,43,27,8,15,20,12,135,15,Espanyol,13,Spain - La Liga
+270,José Antonio Dorado Ramírez,10,18,7,8,12,13,40,6,Rayo Vallecano,10,Spain - La Liga
+271,José Antonio García Rabasco,117,68,36,43,33,31,449,34,Levante UD,29,Spain - La Liga
+272,José Antonio Reyes Calderón,70,45,10,27,35,8,308,13,Sevilla,24,Spain - La Liga
+273,José Eduardo Rosa Vale de Castro,97,101,20,23,32,100,183,40,Rayo Vallecano,22,Spain - La Liga
+274,José Ignacio Fernández Iglesias,35,35,11,18,30,50,110,26,Real Madrid,16,Spain - La Liga
+275,José Ignacio Martínez García,67,95,30,34,52,47,314,37,Rayo Vallecano,22,Spain - La Liga
+276,José Ignacio Peleteiro Ramallo,51,31,8,23,22,0,153,6,Eibar,13,Spain - La Liga
+277,José Joaquín Matos García,2,5,3,0,1,3,15,0,Sevilla,1,Spain - La Liga
+278,José Luis García del Pozo,184,144,56,80,61,31,590,43,Málaga,33,Spain - La Liga
+279,José Luis Gayà Peña,54,72,29,14,22,36,222,19,Valencia,20,Spain - La Liga
+280,José Luis Morales Nogales,146,86,17,23,60,13,509,43,Levante UD,35,Spain - La Liga
+281,José María Giménez de Vargas,79,93,34,28,46,143,252,43,Atlético Madrid,27,Spain - La Liga
+282,José María Martín-Bejarano Serrano,50,57,13,23,12,20,143,17,Levante UD,12,Spain - La Liga
+283,José Raúl Baena Urdiales,90,88,26,48,40,39,398,33,Rayo Vallecano,24,Spain - La Liga
+284,José Vicente Gómez Umpiérrez,75,87,23,29,22,30,249,20,Las Palmas,21,Spain - La Liga
+285,José Ángel Crespo Rincón,17,47,14,15,13,33,119,22,Rayo Vallecano,9,Spain - La Liga
+286,Jozabed Sánchez Ruiz,114,67,21,22,30,20,408,25,Rayo Vallecano,27,Spain - La Liga
+287,João Pedro Cavaco Cancelo,119,98,37,46,46,50,340,62,Valencia,28,Spain - La Liga
+288,Juan Antonio Rodríguez Villamuela,104,127,34,59,52,64,456,67,Getafe,32,Spain - La Liga
+289,Juan Carlos Martín Corral,105,0,0,1,0,1,2,0,Rayo Vallecano,21,Spain - La Liga
+290,Juan Carlos Pérez López,46,61,14,22,37,20,156,23,Málaga,19,Spain - La Liga
+291,Juan Carlos Valerón Santana,18,11,0,1,4,4,33,3,Las Palmas,13,Spain - La Liga
+292,Juan Domínguez Lamas,5,16,5,5,8,2,71,2,RC Deportivo La Coruña,5,Spain - La Liga
+293,Juan Emmanuel Culio,47,33,14,16,15,3,124,11,Las Palmas,12,Spain - La Liga
+294,Juan Francisco García García,72,50,23,19,28,54,143,35,Levante UD,21,Spain - La Liga
+295,Juan Francisco Moreno Fuertes,164,104,36,13,66,69,326,83,RC Deportivo La Coruña,35,Spain - La Liga
+296,Juan Francisco Torres Belén,172,83,33,45,73,58,315,69,Atlético Madrid,35,Spain - La Liga
+297,Juan Isaac Cuenca López,41,25,7,9,18,1,132,12,Granada,12,Spain - La Liga
+298,Juan Manuel Vargas Risco,101,43,10,28,43,67,130,39,Real Betis,20,Spain - La Liga
+299,Juan Muñiz Gallego,2,6,0,4,2,1,25,1,Sporting Gijón,4,Spain - La Liga
+300,Juan Muñoz Muñoz,5,12,4,4,4,1,60,0,Sevilla,8,Spain - La Liga
+301,Juan Pablo Añor Acosta,113,61,14,27,45,12,391,26,Málaga,29,Spain - La Liga
+302,Juan Rafael Fuentes Hernández,25,33,7,9,19,33,92,11,Espanyol,10,Spain - La Liga
+303,Juan Torres Ruiz,81,79,33,36,37,109,223,52,Getafe,22,Spain - La Liga
+304,Jérémy Mathieu,36,33,10,8,27,62,90,19,Barcelona,21,Spain - La Liga
+305,Karim Benzema,57,51,7,17,15,13,226,6,Real Madrid,27,Spain - La Liga
+306,Kevin Gameiro,70,96,12,15,19,11,328,13,Sevilla,31,Spain - La Liga
+307,Keylor Navas Gamboa,145,0,0,2,0,2,4,0,Real Madrid,34,Spain - La Liga
+308,Kléper Laveran Lima Ferreira,85,61,21,20,44,80,178,42,Real Madrid,21,Spain - La Liga
+309,Laureano Sanabria Ruiz,77,75,33,27,44,57,222,42,RC Deportivo La Coruña,23,Spain - La Liga
+310,Leandro Damião da Silva dos Santos,4,10,0,5,3,4,26,0,Real Betis,3,Spain - La Liga
+311,Leonardo Carrilho Baptistão,45,88,10,23,23,15,280,5,Villarreal,26,Spain - La Liga
+312,Lionel Andrés Messi Cuccittini,85,22,9,14,11,0,191,7,Barcelona,33,Spain - La Liga
+313,Lucas Alfonso Orbán Alegre,37,47,13,22,15,32,133,20,Levante UD,10,Spain - La Liga
+314,Lucas Hernández Pi,21,40,10,10,22,46,98,15,Atlético Madrid,10,Spain - La Liga
+315,Lucas Pérez Martínez,105,96,8,36,20,2,550,13,RC Deportivo La Coruña,36,Spain - La Liga
+316,Lucas Vázquez Iglesias,62,68,33,20,20,7,292,21,Real Madrid,25,Spain - La Liga
+317,Luciano Vietto,39,50,8,13,13,2,206,5,Atlético Madrid,19,Spain - La Liga
+318,Luis Alberto Romero Alconchel,104,96,30,14,35,12,379,14,RC Deportivo La Coruña,29,Spain - La Liga
+319,Luis Alberto Suárez Díaz,101,61,15,43,25,19,335,9,Barcelona,35,Spain - La Liga
+320,Luis Carlos Correia Pinto,41,49,19,24,27,12,197,20,RC Deportivo La Coruña,20,Spain - La Liga
+321,Luis Carlos Fariña Olivera,6,1,1,0,0,1,13,3,Rayo Vallecano,3,Spain - La Liga
+322,Luis Hernández Rodríguez,135,85,24,25,44,203,204,131,Sporting Gijón,36,Spain - La Liga
+323,Luka Modrić,176,74,33,33,30,5,420,63,Real Madrid,32,Spain - La Liga
+324,Mamadou Sylla Diallo,10,25,4,16,2,3,84,0,Espanyol,13,Spain - La Liga
+325,Manuel Agudo Durán,145,97,37,46,44,10,384,29,Celta Vigo,29,Spain - La Liga
+326,Manuel Castellano Castro,15,15,3,16,14,12,55,14,Eibar,10,Spain - La Liga
+327,Manuel Fernández Muñíz,28,0,0,0,0,2,0,0,RC Deportivo La Coruña,9,Spain - La Liga
+328,Manuel Pablo García Díaz,1,3,0,0,4,4,17,6,RC Deportivo La Coruña,3,Spain - La Liga
+329,Manuel Rolando Iturra Urrutia,12,19,7,13,7,7,98,12,Rayo Vallecano,6,Spain - La Liga
+330,Manuel Trigueros Muñoz,124,97,32,41,41,36,411,27,Villarreal,31,Spain - La Liga
+331,Marc Bartra Aregall,29,19,8,3,10,25,42,12,Barcelona,13,Spain - La Liga
+332,Marc-André ter Stegen,23,0,0,0,0,0,0,0,Barcelona,7,Spain - La Liga
+333,Marcelo Alfonso Díaz Rojas,72,28,8,13,18,14,188,19,Celta Vigo,14,Spain - La Liga
+334,Marcelo Vieira da Silva Júnior,150,87,50,21,60,23,283,69,Real Madrid,30,Spain - La Liga
+335,Marco Andreolli,16,12,3,5,14,18,41,7,Sevilla,7,Spain - La Liga
+336,Marco Asensio Willemsen,180,100,32,48,55,7,567,22,Espanyol,34,Spain - La Liga
+337,Marcos Alberto Angeleri,35,47,10,15,15,65,119,23,Málaga,13,Spain - La Liga
+338,Mariano Damián Barbosa,9,0,0,0,0,0,0,0,Villarreal,2,Spain - La Liga
+339,Mariano Ferreira Filho,79,67,31,29,39,28,202,38,Sevilla,23,Spain - La Liga
+340,Mario Gaspar Pérez Martínez,125,141,37,33,97,105,326,58,Villarreal,33,Spain - La Liga
+341,Markel Bergara Larrañaga,72,57,30,38,20,17,289,34,Real Sociedad,20,Spain - La Liga
+342,Markel Susaeta Laskurain,109,88,26,26,44,8,476,25,Athletic Club,28,Spain - La Liga
+343,Martín Montoya Torralbo,50,65,17,13,27,40,242,34,Real Betis,13,Spain - La Liga
+344,Mateo Kovačić,53,39,25,19,20,6,233,12,Real Madrid,25,Spain - La Liga
+345,Mateo Pablo Musacchio,40,42,15,14,21,53,90,16,Villarreal,13,Spain - La Liga
+346,Matheus Dória Macedo,16,19,4,8,8,31,59,16,Granada,8,Spain - La Liga
+347,Mathew Ryan,38,0,0,0,0,0,1,0,Valencia,8,Spain - La Liga
+348,Matías Nahuel Leiva Esquivel,51,50,14,24,22,7,216,14,Villarreal,20,Spain - La Liga
+349,Mauricio Andrés Cuero Castillo,23,15,5,8,7,3,78,4,Levante UD,13,Spain - La Liga
+350,Mauricio Lemos Merladet,30,28,8,12,19,32,59,20,Las Palmas,10,Spain - La Liga
+351,Mauro Javier Dos Santos,108,108,34,36,41,163,275,57,Eibar,31,Spain - La Liga
+352,Mehdi Lacen,197,119,55,67,46,46,664,53,Getafe,31,Spain - La Liga
+353,Michael Krohn-Dehli,72,52,19,30,27,9,267,20,Sevilla,27,Spain - La Liga
+354,Mickaël Ciani,4,6,3,1,1,6,16,3,Espanyol,2,Spain - La Liga
+355,Miguel Filipe Nunes Cardoso,2,2,1,1,0,1,12,1,RC Deportivo La Coruña,3,Spain - La Liga
+356,Miguel Torres Gómez,43,91,31,25,67,62,241,33,Málaga,23,Spain - La Liga
+357,Miguel Ángel Guerrero Martín,23,87,13,49,12,7,294,9,Sporting Gijón,23,Spain - La Liga
+358,Miguel Ángel Muñoz Alonso,5,9,7,1,4,9,41,8,Getafe,3,Spain - La Liga
+359,Mikel Arruabarrena Aranbide,1,3,3,1,0,1,21,0,Eibar,6,Spain - La Liga
+360,Mikel Balenziaga Oruesagasti,151,116,39,43,87,66,488,76,Athletic Club,34,Spain - La Liga
+361,Mikel González de Martín Martínez,47,58,15,21,33,104,139,32,Real Sociedad,19,Spain - La Liga
+362,Mikel Oyarzabal Ugarte,73,82,11,18,33,8,381,15,Real Sociedad,22,Spain - La Liga
+363,Mikel Rico Moreno,56,39,9,12,15,7,180,15,Athletic Club,17,Spain - La Liga
+364,Mikel San José Domínguez,143,141,50,61,64,58,596,69,Athletic Club,34,Spain - La Liga
+365,Moisés Gómez Bordonado,63,30,11,21,16,2,210,12,Getafe,22,Spain - La Liga
+366,Mubarak Wakaso,70,45,19,33,24,13,200,16,Las Palmas,19,Spain - La Liga
+367,Munir El Haddadi Mohamed,27,17,4,11,16,5,128,12,Barcelona,15,Spain - La Liga
+368,Nabil El Zhar,78,68,14,29,28,8,242,22,Las Palmas,30,Spain - La Liga
+369,Nabil Ghilas,22,62,4,24,14,9,168,8,Levante UD,20,Spain - La Liga
+370,Nauzet Alemán Viera,11,8,3,9,3,0,42,5,Las Palmas,10,Spain - La Liga
+371,Nemanja Radoja,93,100,48,33,37,40,353,39,Celta Vigo,30,Spain - La Liga
+372,Neymar da Silva Santos Junior,124,54,10,55,29,3,392,13,Barcelona,34,Spain - La Liga
+373,Nicolás Federico López Alonso,17,11,3,4,8,1,31,1,Granada,8,Spain - La Liga
+374,Nicolás Ladislao Fedor Flores,60,131,15,42,36,9,352,10,Rayo Vallecano,22,Spain - La Liga
+375,Nicolás Martín Pareja,4,9,1,4,1,6,12,2,Sevilla,2,Spain - La Liga
+376,Nikolaos Karabelas,4,3,1,5,2,2,20,2,Levante UD,1,Spain - La Liga
+377,Nordin Amrabat,55,49,9,39,9,3,174,4,Málaga,13,Spain - La Liga
+378,Ognjen Vranješ,25,51,20,32,19,54,177,27,Sporting Gijón,11,Spain - La Liga
+379,Oier Olazábal Paredes,14,0,0,1,0,0,1,0,Real Sociedad,3,Spain - La Liga
+380,Omar Mascarell González,94,96,23,48,62,41,444,50,Sporting Gijón,26,Spain - La Liga
+381,Oriol Riera Magem,20,69,4,22,13,6,171,2,RC Deportivo La Coruña,22,Spain - La Liga
+382,Pablo Daniel Piatti,49,51,15,16,31,2,258,17,Valencia,21,Spain - La Liga
+383,Pablo Fornals Malla,94,58,18,16,16,14,229,24,Málaga,27,Spain - La Liga
+384,Pablo Hernández Domínguez,106,75,22,17,38,16,339,28,Rayo Vallecano,27,Spain - La Liga
+385,Pablo Pérez Rodríguez,27,72,13,26,9,10,169,12,Sporting Gijón,18,Spain - La Liga
+386,Pablo Sarabia García,161,91,34,48,72,12,630,36,Getafe,31,Spain - La Liga
+387,Papa Kouly Diop,149,170,50,89,57,63,497,74,Espanyol,30,Spain - La Liga
+388,Pape Cheikh Diop Gueye,4,6,2,2,1,0,10,0,Celta Vigo,4,Spain - La Liga
+389,Patrick Ebert,24,14,1,12,5,6,108,3,Rayo Vallecano,9,Spain - La Liga
+390,Pau López Sabata,170,0,0,0,2,1,7,0,Espanyol,36,Spain - La Liga
+391,Pedro Bigas Rigo,70,92,31,25,51,164,243,73,Las Palmas,27,Spain - La Liga
+392,Pedro León Sánchez Gil,79,71,15,49,35,9,367,27,Getafe,31,Spain - La Liga
+393,Pedro López Muñoz,60,45,14,26,43,36,212,33,Levante UD,17,Spain - La Liga
+394,Pedro Mosquera Parada,186,189,92,87,79,72,887,69,RC Deportivo La Coruña,37,Spain - La Liga
+395,Pedro Pablo Hernández,145,199,57,85,56,56,536,47,Celta Vigo,33,Spain - La Liga
+396,Pedro Taunausú Domínguez Placeres,113,85,31,31,39,5,517,23,Las Palmas,27,Spain - La Liga
+397,Petros Matheus dos Santos Araújo,159,132,67,64,64,37,745,45,Real Betis,30,Spain - La Liga
+398,Rachid Aït-Atmane,100,61,26,29,23,8,246,26,Sporting Gijón,18,Spain - La Liga
+399,Rafael Alcântara do Nascimento,12,9,4,3,7,2,48,3,Barcelona,6,Spain - La Liga
+400,Rafael van der Vaart,9,11,1,4,5,0,46,3,Real Betis,7,Spain - La Liga
+401,Raphaël Varane,68,64,15,24,52,127,162,47,Real Madrid,26,Spain - La Liga
+402,Raúl Albentosa Redal,106,92,24,33,41,141,213,61,Málaga,29,Spain - La Liga
+403,Raúl García Escudero,108,186,55,80,61,29,639,37,Athletic Club,31,Spain - La Liga
+404,Raúl Lizoáin Cruz,45,0,0,0,0,0,1,0,Las Palmas,8,Spain - La Liga
+405,Rene Krhin,61,69,22,27,29,55,273,38,Granada,23,Spain - La Liga
+406,Ricardo Jorge Luz Horta,33,46,10,20,20,8,172,12,Málaga,17,Spain - La Liga
+407,Ricardo Miguel Moreira da Costa,33,42,11,16,24,71,97,12,Granada,14,Spain - La Liga
+408,Ricky van Wolfswinkel,17,61,4,21,16,7,120,8,Real Betis,17,Spain - La Liga
+409,Robert Ibáñez Castro,48,25,10,8,16,5,133,6,Granada,18,Spain - La Liga
+410,Roberto Antonio Correa Silva,32,20,6,11,11,9,68,7,Espanyol,7,Spain - La Liga
+411,Roberto Canella Suárez,21,32,9,12,14,18,118,18,Sporting Gijón,9,Spain - La Liga
+412,Roberto José Rosales Altuve,188,151,60,39,88,77,440,68,Málaga,35,Spain - La Liga
+413,Roberto Lago Soto,40,53,27,26,24,35,212,35,Getafe,17,Spain - La Liga
+414,Roberto Román Triguero,88,108,25,40,63,94,351,46,Rayo Vallecano,29,Spain - La Liga
+415,Roberto Soldado Rillo,66,109,14,53,32,31,354,17,Villarreal,28,Spain - La Liga
+416,Roberto Suárez Pier,1,1,1,0,0,0,7,2,RC Deportivo La Coruña,2,Spain - La Liga
+417,Roberto Trashorras Gayoso,206,113,48,53,43,41,464,45,Rayo Vallecano,36,Spain - La Liga
+418,Rodrigo Hernández Cascante,10,7,6,1,5,4,23,3,Villarreal,3,Spain - La Liga
+419,Rodrigo Javier De Paul,29,17,7,9,11,3,142,8,Valencia,9,Spain - La Liga
+420,Rodrigo Moreno Machado,55,56,8,17,23,6,248,20,Valencia,25,Spain - La Liga
+421,Roger Martí Salvador,20,39,8,24,5,4,152,1,Levante UD,16,Spain - La Liga
+422,Roque Luis Santa Cruz Cantero,9,43,3,4,4,5,64,4,Málaga,17,Spain - La Liga
+423,Roque Mesa Quevedo,222,87,41,49,38,31,482,50,Las Palmas,34,Spain - La Liga
+424,Rubén Blanco Veiga,33,0,0,2,0,2,1,0,Celta Vigo,8,Spain - La Liga
+425,Rubén Castro Martín,105,88,3,25,21,3,240,15,Real Betis,38,Spain - La Liga
+426,Rubén Duarte Sánchez,68,100,36,37,48,46,306,61,Espanyol,22,Spain - La Liga
+427,Rubén García Santos,58,55,15,27,32,10,272,13,Levante UD,22,Spain - La Liga
+428,Rubén Gracia Calmache,44,36,14,12,26,4,166,21,RC Deportivo La Coruña,18,Spain - La Liga
+429,Rubén Iván Martínez Andrade,66,0,0,1,0,1,0,0,Levante UD,15,Spain - La Liga
+430,Rubén Pardo Gutiérrez,113,60,24,28,33,13,358,36,Real Sociedad,28,Spain - La Liga
+431,Rubén Rochina Naixes,198,109,38,53,42,23,495,45,Granada,35,Spain - La Liga
+432,Rubén Salvador Pérez Del Mármol,157,147,69,63,78,50,658,60,Granada,31,Spain - La Liga
+433,Rúben Miguel Nunes Vezo,42,54,15,21,32,56,159,37,Valencia,15,Spain - La Liga
+434,Răzvan Dincă Raț,27,25,3,11,13,27,70,21,Rayo Vallecano,10,Spain - La Liga
+435,Sabin Merino Zuloaga,45,61,10,12,27,6,192,8,Athletic Club,22,Spain - La Liga
+436,Salvador Ruiz Rodríguez,4,2,0,2,0,2,8,2,Granada,2,Spain - La Liga
+437,Salvador Sevilla López,22,17,3,5,6,2,93,4,Espanyol,15,Spain - La Liga
+438,Samuel Castillejo Azuaga,108,64,18,28,64,14,447,28,Villarreal,28,Spain - La Liga
+439,Samuel García Sánchez,37,55,10,28,16,3,198,4,Villarreal,16,Spain - La Liga
+440,Sandro Ramírez Castillo,11,8,0,4,6,1,54,3,Barcelona,10,Spain - La Liga
+441,Santiago Mina Lorenzo,57,103,16,36,38,12,408,10,Valencia,26,Spain - La Liga
+442,Santiago Vergini,115,66,24,26,30,101,198,73,Getafe,26,Spain - La Liga
+443,Saúl Berjón Pérez,74,68,14,29,36,8,219,18,Eibar,29,Spain - La Liga
+444,Saúl Ñíguez Esclapez,129,193,58,55,80,66,629,48,Atlético Madrid,31,Spain - La Liga
+445,Sebastián Carlos Cristóforo Pepe,88,97,48,53,43,17,442,31,Sevilla,21,Spain - La Liga
+446,Sergi Darder Moll,3,5,1,1,0,0,14,1,Málaga,1,Spain - La Liga
+447,Sergi Gómez Solà,122,118,31,33,55,144,340,83,Celta Vigo,31,Spain - La Liga
+448,Sergi Roberto Carnicer,87,72,25,20,27,21,338,23,Barcelona,31,Spain - La Liga
+449,Sergi Samper Montaña,2,2,0,0,0,0,11,0,Barcelona,1,Spain - La Liga
+450,Sergio Asenjo Andrés,11,0,0,1,0,0,0,0,Villarreal,4,Spain - La Liga
+451,Sergio Busquets i Burgos,142,149,71,40,64,67,582,38,Barcelona,35,Spain - La Liga
+452,Sergio Canales Madrazo,39,39,13,17,20,1,185,7,Real Sociedad,16,Spain - La Liga
+453,Sergio Enrich Ametller,95,277,32,62,41,18,573,9,Eibar,38,Spain - La Liga
+454,Sergio Escudero Palomo,56,61,16,26,36,22,200,26,Sevilla,15,Spain - La Liga
+455,Sergio Ezequiel Araújo,73,136,17,43,35,18,280,7,Las Palmas,30,Spain - La Liga
+456,Sergio Gontán Gallardo,166,151,57,50,55,8,699,26,Eibar,29,Spain - La Liga
+457,Sergio Ramos García,92,59,24,42,47,93,199,57,Real Madrid,23,Spain - La Liga
+458,Sergio Rico González,159,0,0,0,3,1,4,2,Sevilla,34,Spain - La Liga
+459,Sergio Álvarez Conde,136,0,0,0,0,0,3,0,Celta Vigo,31,Spain - La Liga
+460,Sergio Álvarez Díaz,129,186,69,67,61,46,637,42,Sporting Gijón,27,Spain - La Liga
+461,Shkodran Mustafi,141,148,53,42,70,177,358,82,Valencia,30,Spain - La Liga
+462,Sidnei Rechel da Silva Júnior,156,107,39,15,39,176,221,85,RC Deportivo La Coruña,33,Spain - La Liga
+463,Simone Verdi,13,7,3,15,12,0,92,4,Eibar,9,Spain - La Liga
+464,Simão Mate,120,97,31,58,48,100,337,59,Levante UD,30,Spain - La Liga
+465,Sofiane Feghouli,62,41,9,20,29,8,184,11,Valencia,21,Spain - La Liga
+466,Stefan Savić,28,40,14,6,10,52,78,20,Atlético Madrid,12,Spain - La Liga
+467,Stefan Šćepović,31,109,6,17,23,20,205,8,Getafe,34,Spain - La Liga
+468,Steven N''Kemboanza Mike Christopher Nzonzi,77,76,30,37,46,51,339,22,Sevilla,28,Spain - La Liga
+469,Stipe Pletikosa,8,0,0,0,0,1,0,0,RC Deportivo La Coruña,2,Spain - La Liga
+470,Sérgio Paulo Barbosa Valente,71,51,18,20,23,5,178,26,Málaga,27,Spain - La Liga
+471,Takashi Inui,57,67,17,24,18,2,330,20,Eibar,27,Spain - La Liga
+472,Thievy Guivane Bifouma Koulossa,10,13,4,5,4,0,25,0,Granada,7,Spain - La Liga
+473,Thomas Teye Partey,28,32,14,12,11,4,109,3,Atlético Madrid,13,Spain - La Liga
+474,Thomas Vermaelen,19,16,4,4,8,46,31,5,Barcelona,10,Spain - La Liga
+475,Théo Bongonda Mbul''Ofeko Batombo,54,38,14,23,21,9,142,8,Celta Vigo,22,Spain - La Liga
+476,Tiago Cardoso Mendes,59,53,19,21,18,26,188,26,Atlético Madrid,14,Spain - La Liga
+477,Tiago Manuel Dias Correia,123,91,20,37,53,38,320,25,Rayo Vallecano,34,Spain - La Liga
+478,Timothée Kolodziejczak,91,75,20,32,28,89,198,46,Sevilla,29,Spain - La Liga
+479,Tomás Pina Isla,99,88,33,49,35,36,312,33,Villarreal,27,Spain - La Liga
+480,Toni Kroos,151,81,55,39,40,9,672,53,Real Madrid,32,Spain - La Liga
+481,Uche Henry Agbo,13,13,7,12,9,8,57,10,Granada,6,Spain - La Liga
+482,Vicente Guaita Panadero,174,0,0,0,1,0,2,0,Getafe,38,Spain - La Liga
+483,Vicente Iborra De La Fuente,48,118,17,50,42,28,272,18,Sevilla,29,Spain - La Liga
+484,Vincenzo Renato Rennella,20,25,4,8,2,2,32,0,Real Betis,6,Spain - La Liga
+485,Víctor Camarasa Ferrando,130,99,30,43,30,31,462,32,Levante UD,34,Spain - La Liga
+486,Víctor Casadesús Castaño,40,73,4,24,13,7,128,8,Levante UD,23,Spain - La Liga
+487,Víctor Guillermo Álvarez Delgado,82,87,32,39,50,36,340,38,Espanyol,27,Spain - La Liga
+488,Víctor Machín Pérez,121,102,35,60,51,14,494,20,Sevilla,28,Spain - La Liga
+489,Víctor Rodríguez Romero,135,84,24,25,40,5,549,34,Getafe,33,Spain - La Liga
+490,Víctor Ruíz Torre,130,87,19,37,59,163,174,84,Villarreal,35,Spain - La Liga
+491,Víctor Sánchez Mata,111,156,67,75,47,24,714,46,Espanyol,29,Spain - La Liga
+492,Wanderson Maciel Sousa Campos,54,33,11,22,20,7,191,10,Getafe,20,Spain - La Liga
+493,Weligton Róbson Pena de Oliveira,128,94,35,35,54,159,258,64,Málaga,30,Spain - La Liga
+494,Wilfried Aimeric Zahibo,13,8,1,6,4,2,24,1,Valencia,2,Spain - La Liga
+495,Willian José da Silva,43,98,12,30,15,19,261,3,Las Palmas,30,Spain - La Liga
+496,Xabier Etxeita Gorritxategi,69,92,24,29,58,124,264,60,Athletic Club,30,Spain - La Liga
+497,Xabier Iruretagoiena Aranzamendi,22,0,0,0,0,0,2,0,Eibar,4,Spain - La Liga
+498,Xabier Prieto Argarate,109,134,24,17,39,36,372,14,Real Sociedad,36,Spain - La Liga
+499,Xavier Torres Buigues,32,24,5,18,13,15,111,10,Real Betis,12,Spain - La Liga
+500,Yannick Ferreira Carrasco,123,64,15,36,47,10,290,25,Atlético Madrid,29,Spain - La Liga
+501,Yevhen Konoplyanka,68,41,9,22,22,4,196,23,Sevilla,32,Spain - La Liga
+502,Yoel Rodríguez Oterino,58,0,0,0,1,0,1,0,Rayo Vallecano,10,Spain - La Liga
+503,Youssef El-Arabi,91,185,26,48,33,22,523,14,Granada,35,Spain - La Liga
+504,Yuri Berchiche Izeta,90,79,29,32,52,54,294,51,Real Sociedad,21,Spain - La Liga
+505,Zakaria Bakkali,21,20,6,10,8,3,100,5,Valencia,16,Spain - La Liga
+506,Zouhair Feddal,100,81,22,40,46,199,210,85,Levante UD,28,Spain - La Liga
+507,Álvaro Arbeloa Coca,8,16,4,7,8,11,49,6,Real Madrid,6,Spain - La Liga
+508,Álvaro Cejudo Carmona,119,89,29,58,68,21,427,46,Real Betis,30,Spain - La Liga
+509,Álvaro Daniel Pereira Barragán,7,26,8,8,13,20,80,12,Getafe,6,Spain - La Liga
+510,Álvaro González Soberón,115,104,32,33,58,205,249,53,Espanyol,36,Spain - La Liga
+511,Álvaro Medrán Just,94,72,23,36,18,22,303,26,Getafe,20,Spain - La Liga
+512,Álvaro Negredo Sánchez,30,70,4,19,14,17,132,3,Valencia,25,Spain - La Liga
+513,Álvaro Vadillo Cifuentes,5,4,1,0,1,0,17,0,Real Betis,3,Spain - La Liga
+514,Álvaro Vázquez García,49,131,5,29,23,14,360,16,Getafe,34,Spain - La Liga
+515,Ángel Domingo López Ruano,2,0,0,2,2,3,9,0,Las Palmas,3,Spain - La Liga
+516,Ángel Lafita Castillo,49,52,8,35,20,13,200,13,Getafe,14,Spain - La Liga
+517,Ángel Martín Correa,71,57,16,29,29,3,288,11,Atlético Madrid,26,Spain - La Liga
+518,Ángel Montoro Sánchez,18,15,6,13,10,14,84,20,Las Palmas,9,Spain - La Liga
+519,Ángel Trujillo Canorea,12,22,2,6,21,31,50,10,Levante UD,8,Spain - La Liga
+520,Éver Maximiliano David Banega,120,71,31,31,17,7,358,21,Sevilla,25,Spain - La Liga
+521,Íñigo Lekue Martínez,64,68,28,13,33,13,211,25,Athletic Club,20,Spain - La Liga
+522,Íñigo Martínez Berridi,157,111,35,37,47,130,213,77,Real Sociedad,30,Spain - La Liga
+523,Óliver Torres Muñoz,54,41,12,13,31,2,248,7,Atlético Madrid,21,Spain - La Liga
+524,Óscar Esau Duarte Gaitán,52,43,8,23,24,82,133,29,Espanyol,14,Spain - La Liga
+525,Óscar de Marcos Arana,169,141,53,40,73,64,579,81,Athletic Club,34,Spain - La Liga

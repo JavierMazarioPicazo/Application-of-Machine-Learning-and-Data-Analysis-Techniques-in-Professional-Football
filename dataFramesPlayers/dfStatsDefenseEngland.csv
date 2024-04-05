@@ -1,0 +1,526 @@
+index,player,recoveries,duels,duels_won,fouls_committed,shot_blocked,clearances,pressure,interceptions,team,MP,competition
+0,Aaron Cresswell,156,92,24,26,77,107,337,38,West Ham United,37,England - Premier League
+1,Aaron Lennon,61,47,15,16,32,12,327,14,Everton,25,England - Premier League
+2,Aaron Ramsey,212,125,57,61,57,31,696,32,Arsenal,31,England - Premier League
+3,Abdul Rahman Baba,57,62,28,18,28,35,235,25,Chelsea,15,England - Premier League
+4,Adam David Lallana,123,116,40,33,55,34,607,17,Liverpool,30,England - Premier League
+5,Adam Federici,27,0,0,0,0,0,0,0,AFC Bournemouth,6,England - Premier League
+6,Adam Johnson,72,22,8,8,23,7,137,10,Sunderland,19,England - Premier League
+7,Adam Matthews,2,2,0,0,0,1,5,0,Sunderland,1,England - Premier League
+8,Adam Smith,101,112,44,38,50,49,538,27,AFC Bournemouth,31,England - Premier League
+9,Adama Traoré Diarra,15,5,1,4,5,0,28,0,Aston Villa,10,England - Premier League
+10,Adlène Guédioura,40,34,9,14,10,8,85,16,Watford,15,England - Premier League
+11,Adnan Januzaj,6,4,0,4,1,1,28,0,Manchester United,5,England - Premier League
+12,Adrian Mariappa,13,12,2,4,3,16,30,4,Crystal Palace,3,England - Premier League
+13,Adrián San Miguel del Castillo,169,0,0,1,1,4,2,0,West Ham United,32,England - Premier League
+14,Alan Hutton,91,83,34,30,77,69,330,25,Aston Villa,28,England - Premier League
+15,Alberto Moreno Pérez,115,110,47,35,60,72,432,43,Liverpool,32,England - Premier League
+16,Alberto Paloschi,16,32,4,17,12,4,124,4,Swansea City,10,England - Premier League
+17,Aleksandar Kolarov,141,65,18,24,53,87,232,25,Manchester City,29,England - Premier League
+18,Aleksandar Mitrović,64,236,14,53,50,30,391,9,Newcastle United,34,England - Premier League
+19,Alessandro Diamanti,3,5,2,1,1,3,12,1,Watford,3,England - Premier League
+20,Alex Iwobi,24,18,8,2,11,2,101,10,Arsenal,12,England - Premier League
+21,Alex McCarthy,28,0,0,0,0,2,1,0,Crystal Palace,7,England - Premier League
+22,Alex Oxlade-Chamberlain,57,31,18,10,28,5,188,11,Arsenal,22,England - Premier League
+23,Alex Pritchard,9,4,0,2,1,0,18,2,West Bromwich Albion,3,England - Premier League
+24,Alexander Banor Tettey,128,77,31,47,33,67,355,16,Norwich City,23,England - Premier League
+25,Alexandre Dimitri Song-Billong,79,45,23,19,9,6,200,4,West Ham United,12,England - Premier League
+26,Alexandre Rodrigues da Silva,8,6,2,2,0,1,17,0,Chelsea,2,England - Premier League
+27,Alexis Alejandro Sánchez Sánchez,184,105,25,37,43,6,400,14,Arsenal,30,England - Premier League
+28,Allan Romeo Nyom,128,122,57,38,63,92,342,31,Watford,32,England - Premier League
+29,Almen Abdi,124,122,54,42,70,25,504,20,Watford,32,England - Premier League
+30,Aly Cissokho,55,43,14,16,54,84,207,28,Aston Villa,18,England - Premier League
+31,Ander Herrera Agüera,85,76,43,31,31,27,364,25,Manchester United,27,England - Premier League
+32,Andre Green,8,2,1,0,1,0,16,2,Aston Villa,2,England - Premier League
+33,Andre Wisdom,41,31,11,3,17,19,60,10,Norwich City,10,England - Premier League
+34,Andreas Hoelgebaum Pereira,7,1,0,2,2,0,24,0,Manchester United,4,England - Premier League
+35,Andrew Philip King,56,61,11,8,25,35,189,9,Leicester City,25,England - Premier League
+36,Andrew Surman,193,121,30,32,65,82,539,56,AFC Bournemouth,38,England - Premier League
+37,Andros Townsend,67,52,12,10,29,12,277,23,Tottenham Hotspur,16,England - Premier League
+38,André Ayew Pelé,104,164,43,38,67,16,599,16,Swansea City,34,England - Premier League
+39,Andy Carroll,47,133,6,43,24,31,164,5,West Ham United,27,England - Premier League
+40,Angelo Obinze Ogbonna,90,86,31,23,44,172,238,46,West Ham United,27,England - Premier League
+41,Anthony Martial,127,152,27,39,52,22,372,14,Manchester United,31,England - Premier League
+42,Arouna Koné,74,76,22,19,25,10,180,10,Everton,25,England - Premier League
+43,Artur Boruc,158,0,0,1,0,2,4,1,AFC Bournemouth,32,England - Premier League
+44,Ashley Westwood,143,87,37,40,47,46,654,36,Aston Villa,32,England - Premier League
+45,Ashley Williams,110,142,45,34,88,324,269,69,Swansea City,36,England - Premier League
+46,Ashley Young,73,37,9,18,17,26,139,15,Manchester United,18,England - Premier League
+47,Asmir Begović,55,0,0,0,0,0,6,0,Chelsea,17,England - Premier League
+48,Ayoze Pérez Gutiérrez,124,107,35,41,64,17,580,34,Newcastle United,34,England - Premier League
+49,Bacary Sagna,95,112,30,20,54,118,285,24,Manchester City,28,England - Premier League
+50,Bafétimbi Gomis,48,86,5,23,18,17,207,4,Swansea City,33,England - Premier League
+51,Bakary Sako,58,45,13,16,15,13,180,9,Crystal Palace,19,England - Premier League
+52,Bamidele Alli,180,130,43,55,60,35,689,32,Tottenham Hotspur,33,England - Premier League
+53,Bastian Schweinsteiger,80,79,23,25,30,23,243,10,Manchester United,18,England - Premier League
+54,Ben Davies,60,64,11,19,30,69,194,11,Tottenham Hotspur,17,England - Premier League
+55,Ben Foster,72,0,0,0,1,3,4,0,West Bromwich Albion,15,England - Premier League
+56,Ben Watson,121,127,46,47,74,90,608,42,Watford,35,England - Premier League
+57,Benik Afobe,23,56,4,16,12,9,197,3,AFC Bournemouth,15,England - Premier League
+58,Bersant Celina,3,1,1,0,1,0,7,0,Manchester City,1,England - Premier League
+59,Bertrand Isidore Traoré,10,17,9,4,8,4,92,3,Chelsea,10,England - Premier League
+60,Billy Jones,86,115,45,39,67,59,522,19,Sunderland,24,England - Premier League
+61,Bojan Krkíc Pérez,87,26,5,10,22,4,285,12,Stoke City,27,England - Premier League
+62,Bradley Guzan,139,0,0,0,1,0,2,0,Aston Villa,28,England - Premier League
+63,Bradley Johnson,12,10,1,3,3,1,30,1,Norwich City,4,England - Premier League
+64,Bradley Shaun Smith,14,16,4,7,14,11,74,8,Liverpool,4,England - Premier League
+65,Branislav Ivanović,117,127,49,39,72,131,388,44,Chelsea,33,England - Premier League
+66,Brede Hangeland,18,26,6,13,7,46,43,4,Crystal Palace,7,England - Premier League
+67,Brendan Joel Zibusiso Galloway,57,63,30,12,33,29,243,11,Everton,15,England - Premier League
+68,Bryan Oviedo,42,55,25,17,28,29,160,31,Everton,14,England - Premier League
+69,Callum McManaman,15,10,5,3,7,1,48,1,West Bromwich Albion,12,England - Premier League
+70,Callum Wilson,28,37,3,12,14,1,146,2,AFC Bournemouth,13,England - Premier League
+71,Calum Chambers,18,19,8,6,14,25,66,6,Arsenal,12,England - Premier League
+72,Cameron Borthwick-Jackson,29,40,7,9,18,14,107,15,Manchester United,10,England - Premier League
+73,Cameron Brannagan,10,8,1,0,6,1,50,2,Liverpool,3,England - Premier League
+74,Cameron Jerome,38,116,8,37,22,12,225,4,Norwich City,34,England - Premier League
+75,Carl Jenkinson,64,47,14,15,24,56,141,8,West Ham United,20,England - Premier League
+76,Carles Gil de Pareja Vicent,79,39,15,8,27,8,290,7,Aston Villa,23,England - Premier League
+77,Carlos Alberto Sánchez Moreno,106,81,34,28,36,49,287,17,Aston Villa,20,England - Premier League
+78,Chancel Mbemba Mangulu,108,138,46,22,66,285,315,63,Newcastle United,33,England - Premier League
+79,"Charles N""Zogbia",2,1,0,1,0,0,6,0,Aston Villa,2,England - Premier League
+80,Charlie Adam,80,31,12,35,20,16,205,7,Stoke City,22,England - Premier League
+81,Charlie Austin,5,24,2,4,1,5,40,2,Southampton,7,England - Premier League
+82,Charlie Daniels,176,117,35,11,54,86,427,24,AFC Bournemouth,37,England - Premier League
+83,Cheik Ismaël Tioté,86,82,36,39,36,46,297,39,Newcastle United,20,England - Premier League
+84,Cheikhou Kouyaté,177,160,48,40,78,95,542,47,West Ham United,34,England - Premier League
+85,Chris Brunt,69,49,14,23,44,81,205,15,West Bromwich Albion,22,England - Premier League
+86,Chris Smalling,122,155,46,47,58,242,413,48,Manchester United,35,England - Premier League
+87,Christian Benteke Liolo,41,130,9,32,6,14,162,3,Liverpool,29,England - Premier League
+88,Christian Dannemann Eriksen,213,90,33,17,70,28,564,30,Tottenham Hotspur,35,England - Premier League
+89,Christian Fuchs,113,144,71,38,115,152,497,73,Leicester City,32,England - Premier League
+90,Chung-Yong Lee,21,24,8,4,5,5,102,7,Crystal Palace,13,England - Premier League
+91,Ciaran Clark,52,60,9,17,37,123,174,32,Aston Villa,17,England - Premier League
+92,Claudio Ariel Yacob,190,157,76,69,89,92,770,60,West Bromwich Albion,34,England - Premier League
+93,Clinton Mua N''Jie,8,13,6,4,5,0,51,1,Tottenham Hotspur,8,England - Premier League
+94,Connor Steven Randall,5,9,0,1,4,2,39,4,Liverpool,3,England - Premier League
+95,Connor Wickham,35,143,10,32,17,21,258,1,Crystal Palace,21,England - Premier League
+96,Costel Fane Pantilimon,88,0,0,2,0,0,6,0,Sunderland,17,England - Premier League
+97,Craig Cathcart,89,111,23,12,49,217,173,23,Watford,35,England - Premier League
+98,Craig Dawson,112,170,39,37,105,189,443,44,West Bromwich Albion,38,England - Premier League
+99,Craig Gardner,90,122,33,48,63,32,511,20,West Bromwich Albion,34,England - Premier League
+100,Cristian Gamboa Luna,3,3,1,1,0,0,9,1,West Bromwich Albion,1,England - Premier League
+101,Cédric Ricardo Alves Soares,106,108,42,23,63,73,351,21,Southampton,24,England - Premier League
+102,César Azpilicueta Tanco,118,185,67,48,102,123,631,56,Chelsea,37,England - Premier League
+103,Daley Blind,146,167,45,33,73,150,541,67,Manchester United,35,England - Premier League
+104,Dame N''Doye,31,63,9,22,10,8,105,6,Sunderland,11,England - Premier League
+105,Damien Delaney,81,122,20,23,71,219,238,38,Crystal Palace,32,England - Premier League
+106,Dan Gosling,123,125,44,46,71,29,646,26,AFC Bournemouth,34,England - Premier League
+107,Daniel Amartey,6,4,1,0,2,4,16,3,Leicester City,4,England - Premier League
+108,Daniel Andre Sturridge,28,34,1,1,9,4,99,4,Liverpool,14,England - Premier League
+109,Daniel Nii Tackie Mensah Welbeck,20,45,9,5,14,7,111,3,Arsenal,11,England - Premier League
+110,Daniel William John Ings,13,10,1,6,8,3,40,2,Liverpool,6,England - Premier League
+111,Danny Drinkwater,256,160,75,54,74,72,779,37,Leicester City,35,England - Premier League
+112,Danny Graham,6,22,2,8,9,8,48,4,Sunderland,10,England - Premier League
+113,Danny Rose,116,99,43,42,48,78,299,32,Tottenham Hotspur,24,England - Premier League
+114,Danny Simpson,114,117,26,32,88,149,343,61,Leicester City,30,England - Premier League
+115,Danny Ward,6,0,0,0,0,0,0,0,Liverpool,2,England - Premier League
+116,Darren Fletcher,253,99,26,22,54,39,547,29,West Bromwich Albion,38,England - Premier League
+117,Darren Randolph,29,0,0,0,0,1,0,0,West Ham United,6,England - Premier League
+118,Darron Gibson,16,5,0,5,6,18,37,11,Everton,6,England - Premier League
+119,Daryl Janmaat,124,128,48,34,64,111,412,31,Newcastle United,32,England - Premier League
+120,David Josué Jiménez Silva,119,63,23,22,24,5,326,18,Manchester City,24,England - Premier League
+121,David Ospina Ramírez,26,0,0,0,0,0,0,0,Arsenal,4,England - Premier League
+122,David de Gea Quintana,132,1,0,0,0,1,1,0,Manchester United,34,England - Premier League
+123,DeAndre Yedlin,68,77,22,30,74,75,370,26,Sunderland,23,England - Premier League
+124,Declan Rudd,54,0,0,2,2,0,4,0,Norwich City,11,England - Premier League
+125,Dejan Lovren,64,65,21,24,43,169,211,26,Liverpool,24,England - Premier League
+126,Demarai Gray,14,6,2,2,8,3,53,6,Leicester City,12,England - Premier League
+127,Diafra Sakho,66,160,13,20,24,21,255,6,West Ham United,21,England - Premier League
+128,Diego da Silva Costa,67,163,18,50,35,22,334,5,Chelsea,28,England - Premier League
+129,Dieumerci Mbokani Bezua,67,205,12,18,15,23,158,5,Norwich City,29,England - Premier League
+130,Dimitri Payet,160,47,13,15,33,4,303,18,West Ham United,30,England - Premier League
+131,Dionatan do Nascimento Teixeira,1,1,1,0,2,2,3,1,Stoke City,1,England - Premier League
+132,Divock Okoth Origi,30,49,2,11,8,3,143,0,Liverpool,16,England - Premier League
+133,Donald Love,5,5,2,1,2,0,10,3,Manchester United,1,England - Premier League
+134,Duncan Watmore,61,39,4,8,18,7,156,4,Sunderland,23,England - Premier League
+135,Dušan Tadić,122,67,21,31,49,13,384,14,Southampton,34,England - Premier League
+136,Dwight Gayle,31,70,6,19,6,6,158,3,Crystal Palace,16,England - Premier League
+137,Eden Hazard,127,49,14,17,33,4,231,13,Chelsea,31,England - Premier League
+138,El-Hadji Baye Oumar Niasse,3,12,2,2,2,0,30,3,Everton,5,England - Premier League
+139,Eliaquim Mangala,88,66,24,41,29,129,238,33,Manchester City,23,England - Premier League
+140,Emmanuel Adebayor,21,48,0,13,7,5,121,4,Crystal Palace,12,England - Premier League
+141,Emmanuel Emenike,29,42,2,5,4,7,83,5,West Ham United,13,England - Premier League
+142,Emmanuel Rivière,4,12,1,3,1,0,37,0,Newcastle United,3,England - Premier League
+143,Emre Can,159,146,68,50,43,51,570,45,Liverpool,30,England - Premier League
+144,Enner Remberto Valencia Lastra,48,83,11,14,25,16,206,8,West Ham United,19,England - Premier League
+145,Eric Dier,116,180,47,59,71,96,602,43,Tottenham Hotspur,37,England - Premier League
+146,Erik Lamela,127,122,48,71,68,12,647,18,Tottenham Hotspur,34,England - Premier League
+147,Erik Pieters,156,173,60,66,96,124,599,74,Stoke City,35,England - Premier League
+148,Etienne Capoue,211,124,64,64,62,56,629,61,Watford,33,England - Premier League
+149,Eunan O''Kane,26,18,3,8,13,11,132,7,AFC Bournemouth,16,England - Premier League
+150,Fabian Delph,55,34,7,10,19,18,161,22,Manchester City,17,England - Premier League
+151,Fabio Borini,92,103,19,32,43,30,380,26,Sunderland,26,England - Premier League
+152,Fabricio Coloccini,63,94,32,13,63,124,295,30,Newcastle United,26,England - Premier League
+153,Faustino Marcos Alberto Rojo,48,74,28,22,24,55,225,19,Manchester United,16,England - Premier League
+154,Federico Fernández,106,146,48,39,64,222,312,49,Swansea City,32,England - Premier League
+155,Fernando Francisco Reges,92,95,45,33,39,36,416,46,Manchester City,24,England - Premier League
+156,Fernando Luiz Rosa,169,162,75,71,61,43,705,47,Manchester City,33,England - Premier League
+157,Fikayo Tomori,2,1,0,0,3,2,4,1,Chelsea,1,England - Premier League
+158,Florian Thauvin,29,18,3,6,8,3,70,5,Newcastle United,13,England - Premier League
+159,Fraizer Campbell,10,25,2,8,7,3,85,4,Crystal Palace,11,England - Premier League
+160,Francesc Fàbregas i Soler,176,157,68,43,73,23,776,33,Chelsea,37,England - Premier League
+161,Francis Joseph Coquelin,131,93,57,33,42,29,365,52,Arsenal,26,England - Premier League
+162,Fraser Forster,54,0,0,0,0,0,1,0,Southampton,18,England - Premier League
+163,Gabriel Antoine Obertan,15,11,6,3,5,5,35,3,Newcastle United,5,England - Premier League
+164,Gabriel Armando de Abreu,69,82,24,10,34,136,133,45,Arsenal,21,England - Premier League
+165,Gabriel Imuetinyan Agbonlahor,25,77,6,24,13,8,182,3,Aston Villa,15,England - Premier League
+166,Gareth Barry,173,148,67,57,79,88,659,39,Everton,33,England - Premier League
+167,Gareth McAuley,120,124,27,33,71,262,352,39,West Bromwich Albion,34,England - Premier League
+168,Gary Cahill,75,84,21,24,57,150,192,17,Chelsea,23,England - Premier League
+169,Gary Hooper,1,0,0,0,0,0,1,0,Norwich City,2,England - Premier League
+170,Gary O''Neil,123,90,37,43,49,53,385,31,Norwich City,27,England - Premier League
+171,Gastón Exequiel Ramírez Pereyra,1,4,1,0,4,0,7,1,Southampton,3,England - Premier League
+172,Gaël Clichy,49,40,18,10,22,44,158,42,Manchester City,14,England - Premier League
+173,Geoff Cameron,136,107,33,29,47,126,399,53,Stoke City,30,England - Premier League
+174,Georginio Wijnaldum,204,100,31,19,41,28,413,23,Newcastle United,38,England - Premier League
+175,Gerard Deulofeu Lázaro,75,26,13,4,18,3,204,14,Everton,26,England - Premier League
+176,Giedrius Arlauskis,4,0,0,0,0,1,0,0,Watford,1,England - Premier League
+177,Gilbert Gianelli Imbula Wanga,86,31,13,24,16,7,242,12,Stoke City,14,England - Premier League
+178,Glen Johnson,122,59,31,14,59,41,215,30,Stoke City,25,England - Premier League
+179,Glenn Murray,15,55,5,26,14,10,181,0,AFC Bournemouth,21,England - Premier League
+180,Glenn Whelan,228,112,49,30,87,105,568,60,Stoke City,37,England - Premier League
+181,Glyn Oliver Myhill,111,0,0,0,3,0,0,0,West Bromwich Albion,23,England - Premier League
+182,Gnégnéri Yaya Touré,137,83,29,38,27,42,333,15,Manchester City,32,England - Premier League
+183,Graham Dorrans,88,38,15,23,21,15,237,15,Norwich City,21,England - Premier League
+184,Graziano Pellè,58,135,8,44,25,28,259,6,Southampton,30,England - Premier League
+185,Guangtai Jiang,12,11,4,4,2,10,42,0,Everton,5,England - Premier League
+186,Guillermo Varela Olivera,18,21,7,5,12,14,70,12,Manchester United,4,England - Premier League
+187,Gylfi Þór Sigurðsson,106,87,28,38,71,20,743,27,Swansea City,36,England - Premier League
+188,Gökhan İnler,20,17,5,3,7,8,49,2,Leicester City,5,England - Premier League
+189,Harry Arter,112,73,38,26,32,14,468,17,AFC Bournemouth,21,England - Premier League
+190,Harry Kane,152,244,16,44,62,31,491,12,Tottenham Hotspur,38,England - Premier League
+191,Henri Saivet,13,19,8,1,1,6,59,8,Newcastle United,4,England - Premier League
+192,Heung-Min Son,55,51,22,14,30,6,298,8,Tottenham Hotspur,28,England - Premier League
+193,Heurelho da Silva Gomes,220,0,0,2,1,2,7,0,Watford,38,England - Premier League
+194,Hiram Boateng,2,1,1,2,1,0,9,0,Crystal Palace,1,England - Premier League
+195,Hugo Lloris,176,0,0,0,0,2,1,0,Tottenham Hotspur,37,England - Premier League
+196,Héctor Bellerín Moruno,141,112,34,24,68,86,366,40,Arsenal,36,England - Premier League
+197,Ibrahim Afellay,147,46,21,25,32,13,346,11,Stoke City,31,England - Premier League
+198,Idrissa Gana Gueye,265,196,100,79,83,50,1001,80,Aston Villa,35,England - Premier League
+199,Ignacio Monreal Eraso,124,148,50,30,86,123,428,66,Arsenal,37,England - Premier League
+200,Ikechi Anya,92,44,9,3,46,41,201,17,Watford,28,England - Premier League
+201,Ivo Daniel Ferreira Mendonca Pinto,46,34,11,10,17,26,146,17,Norwich City,10,England - Premier League
+202,Jack Butland,188,1,0,1,0,0,6,0,Stoke City,31,England - Premier League
+203,Jack Colback,130,124,58,64,49,59,591,43,Newcastle United,29,England - Premier League
+204,Jack Frank Porteous Cork,178,165,55,45,73,73,615,64,Swansea City,35,England - Premier League
+205,Jack Grealish,61,22,2,6,11,3,123,3,Aston Villa,16,England - Premier League
+206,Jack Rodwell,46,49,15,23,17,19,194,8,Sunderland,22,England - Premier League
+207,Jack Wilshere,9,5,1,2,1,4,33,0,Arsenal,3,England - Premier League
+208,Jakob Haugaard,25,0,0,0,0,0,0,0,Stoke City,5,England - Premier League
+209,Jamaal Lascelles,43,29,4,12,25,103,99,31,Newcastle United,18,England - Premier League
+210,James Collins,36,51,9,13,41,172,105,24,West Ham United,19,England - Premier League
+211,James Grant Chester,32,61,15,12,30,65,159,15,West Bromwich Albion,13,England - Premier League
+212,James McArthur,175,110,38,45,74,29,516,38,Crystal Palace,28,England - Premier League
+213,James McCarthy,121,107,52,48,72,55,573,34,Everton,29,England - Premier League
+214,James McClean,109,144,36,42,53,63,551,19,West Bromwich Albion,35,England - Premier League
+215,James Morrison,93,55,18,10,30,16,252,16,West Bromwich Albion,18,England - Premier League
+216,James Philip Milner,149,107,32,53,78,33,636,26,Liverpool,28,England - Premier League
+217,James Tomkins,75,93,33,18,49,129,271,21,West Ham United,25,England - Premier League
+218,James Ward-Prowse,94,49,8,29,38,33,305,10,Southampton,33,England - Premier League
+219,Jamie Vardy,87,226,21,44,48,9,493,9,Leicester City,36,England - Premier League
+220,Jan Kirchhoff,87,112,39,27,28,46,258,36,Sunderland,15,England - Premier League
+221,Jan Vertonghen,98,90,36,21,53,161,188,28,Tottenham Hotspur,29,England - Premier League
+222,Jason Puncheon,211,106,38,43,41,23,576,19,Crystal Palace,31,England - Premier League
+223,Javier Hernández Balcázar,1,1,0,0,0,0,0,0,Manchester United,1,England - Premier League
+224,Jay Fulton,1,4,3,1,2,1,5,1,Swansea City,2,England - Premier League
+225,Jay Rodriguez,13,14,2,4,12,2,82,3,Southampton,12,England - Premier League
+226,Jefferson Antonio Montero Vite,62,39,12,13,22,5,193,5,Swansea City,23,England - Premier League
+227,Jeffrey Schlupp,71,74,16,18,42,29,195,13,Leicester City,24,England - Premier League
+228,Jeremain Lens,59,66,24,30,22,9,320,4,Sunderland,20,England - Premier League
+229,Jermain Defoe,72,102,13,19,31,1,348,5,Sunderland,33,England - Premier League
+230,Jesse Lingard,74,76,21,27,34,13,395,20,Manchester United,25,England - Premier League
+231,Jesús Navas González,147,63,19,21,52,19,390,13,Manchester City,34,England - Premier League
+232,Joe Allen,56,51,18,14,14,10,213,19,Liverpool,19,England - Premier League
+233,Joe Gomez,33,23,10,10,11,21,52,8,Liverpool,5,England - Premier League
+234,Joe Hart,141,0,0,0,2,1,4,0,Manchester City,35,England - Premier League
+235,Joe Ledley,32,34,13,16,28,39,209,19,Crystal Palace,19,England - Premier League
+236,Joel Nathaniel Campbell Samuels,43,44,16,9,23,4,226,9,Arsenal,19,England - Premier League
+237,Joel Robles Blázquez,69,0,0,0,1,1,2,0,Everton,13,England - Premier League
+238,Joel Ward,155,118,38,45,62,120,430,47,Crystal Palace,30,England - Premier League
+239,John Michael Nchekwube Obinna,111,91,33,41,45,43,394,35,Chelsea,25,England - Premier League
+240,John O''Shea,54,71,19,23,31,175,185,31,Sunderland,28,England - Premier League
+241,John Ruddy,159,0,0,0,0,1,6,0,Norwich City,27,England - Premier League
+242,John Stones,158,86,33,13,74,118,296,36,Everton,33,England - Premier League
+243,John Terry,41,65,17,10,38,120,116,27,Chelsea,24,England - Premier League
+244,Joleon Lescott,98,90,29,23,56,232,277,36,Aston Villa,32,England - Premier League
+245,Jon Flanagan,22,26,5,8,8,18,84,8,Liverpool,5,England - Premier League
+246,Jonas Olsson,43,40,11,23,58,165,159,18,West Bromwich Albion,28,England - Premier League
+247,Jonathan Grant Evans,152,128,38,33,69,155,357,53,West Bromwich Albion,30,England - Premier League
+248,Jonathan Howson,162,162,55,34,71,72,651,38,Norwich City,36,England - Premier League
+249,Jonathan Leko,21,16,5,7,10,1,69,4,West Bromwich Albion,5,England - Premier League
+250,Jonathan Walters,58,149,5,14,31,19,222,10,Stoke City,27,England - Premier League
+251,Jonjo Shelvey,143,63,28,30,34,24,332,38,Swansea City,30,England - Premier League
+252,Jonjoe Kenny,1,2,0,0,7,2,8,2,Everton,1,England - Premier League
+253,Jordan Amavi,56,57,22,18,22,39,154,14,Aston Villa,10,England - Premier League
+254,Jordan Ayew,122,170,30,53,65,11,699,18,Aston Villa,30,England - Premier League
+255,Jordan Brian Henderson,85,54,22,11,26,29,304,18,Liverpool,17,England - Premier League
+256,Jordan Lyden,10,5,1,1,1,6,33,4,Aston Villa,4,England - Premier League
+257,Jordan Pickford,9,0,0,0,0,0,0,0,Sunderland,2,England - Premier League
+258,Jordan Rossiter,1,1,0,0,1,1,13,1,Liverpool,1,England - Premier League
+259,Jordan Veretout,105,67,19,26,34,26,424,14,Aston Villa,25,England - Premier League
+260,Jordi Amat Maas,14,19,4,4,12,26,46,14,Swansea City,8,England - Premier League
+261,Jordi Gómez García-Penche,15,11,5,7,9,9,46,2,Sunderland,5,England - Premier League
+262,Jordon Ibe,81,30,5,13,12,2,203,5,Liverpool,27,England - Premier League
+263,Jordon Mutch,38,55,15,12,10,8,207,11,Crystal Palace,20,England - Premier League
+264,Jordy Clasie,71,72,29,24,36,31,433,29,Southampton,22,England - Premier League
+265,Josh Onomah,4,5,4,1,3,0,27,0,Tottenham Hotspur,8,England - Premier League
+266,Joshua King,89,107,24,36,28,19,593,10,AFC Bournemouth,31,England - Premier League
+267,José Holebas,58,37,15,11,18,42,119,18,Watford,11,England - Premier League
+268,José Leonardo Ulloa,57,145,21,21,30,22,254,2,Leicester City,29,England - Premier League
+269,José Luis Sanmartín Mato,36,68,7,22,23,9,265,4,Stoke City,22,England - Premier League
+270,José Manuel Jurado Marín,146,69,19,15,37,9,343,17,Watford,27,England - Premier League
+271,José Miguel da Rocha Fonte,117,118,33,24,67,229,274,58,Southampton,37,England - Premier League
+272,José Ramiro Funes Mori,124,95,21,11,42,201,214,53,Everton,28,England - Premier League
+273,José Salomón Rondón Giménez,90,239,8,37,51,45,517,13,West Bromwich Albion,34,England - Premier League
+274,José Ángel Crespo Rincón,3,1,0,1,1,2,9,0,Aston Villa,1,England - Premier League
+275,João Carlos Vilaça Teixeira,1,1,0,0,1,0,3,0,Liverpool,1,England - Premier League
+276,Juan Carlos Paredes Reasco,49,23,9,10,19,25,145,8,Watford,17,England - Premier League
+277,Juan Guillermo Cuadrado Bello,1,1,0,0,2,1,2,0,Chelsea,1,England - Premier League
+278,Juan Manuel Iturbe Arévalo,5,0,0,0,2,0,15,4,AFC Bournemouth,2,England - Premier League
+279,Juan Manuel Mata García,149,59,15,27,34,17,396,23,Manchester United,38,England - Premier League
+280,Juan Miguel Jiménez López,8,6,2,4,3,0,53,0,Southampton,12,England - Premier League
+281,Julián Speroni,5,0,0,0,0,0,0,0,Crystal Palace,2,England - Premier League
+282,Junior Stanislas,75,56,12,16,33,16,265,15,AFC Bournemouth,21,England - Premier League
+283,Karl Darlow,36,1,0,0,0,0,2,0,Newcastle United,9,England - Premier League
+284,Kasper Schmeichel,211,0,0,0,1,8,6,0,Leicester City,38,England - Premier League
+285,Kelechi Promise Iheanacho,39,61,10,20,10,6,162,4,Manchester City,26,England - Premier League
+286,Kelvin Davis,4,0,0,0,0,0,0,0,Southampton,1,England - Premier League
+287,Kevin De Bruyne,114,72,18,20,35,15,450,18,Manchester City,25,England - Premier League
+288,Kevin Linford Stewart,33,26,17,11,13,16,153,24,Liverpool,7,England - Premier League
+289,Kevin Mbabu,7,13,6,3,7,5,42,2,Newcastle United,3,England - Premier League
+290,Kevin Mirallas,55,34,6,15,10,6,151,17,Everton,23,England - Premier League
+291,Kevin Nolan,2,3,0,0,1,1,5,0,West Ham United,2,England - Premier League
+292,Kevin Toner,6,17,8,2,8,17,52,4,Aston Villa,4,England - Premier League
+293,Kevin Wimmer,21,21,3,11,15,43,51,18,Tottenham Hotspur,10,England - Premier League
+294,Kieran Gibbs,19,28,7,3,17,16,104,7,Arsenal,15,England - Premier League
+295,Kieran O''Neill Dowell,4,3,1,1,1,0,22,2,Everton,2,England - Premier League
+296,Kieran Richardson,31,32,8,18,12,20,127,9,Aston Villa,11,England - Premier League
+297,Kieran Trippier,34,32,10,3,12,23,69,6,Tottenham Hotspur,6,England - Premier League
+298,Kolo Habib Touré,37,42,13,3,14,67,79,24,Liverpool,14,England - Premier League
+299,Kristoffer Nordfeldt,2,0,0,0,0,0,0,0,Swansea City,1,England - Premier League
+300,Kurt Happy Zouma,49,66,15,10,35,169,153,24,Chelsea,23,England - Premier League
+301,Kyle Bartley,11,17,7,4,11,21,44,1,Swansea City,5,England - Premier League
+302,Kyle Naughton,85,89,22,24,37,66,291,19,Swansea City,27,England - Premier League
+303,Kyle Walker,171,133,50,33,51,112,487,65,Tottenham Hotspur,33,England - Premier League
+304,Lamine Koné,54,63,14,6,34,115,135,42,Sunderland,15,England - Premier League
+305,Laurent Koscielny,143,128,31,34,71,218,269,61,Arsenal,33,England - Premier League
+306,Leandro Bacuna,123,91,32,40,55,66,416,29,Aston Villa,31,England - Premier League
+307,Lee Cattermole,114,86,45,47,47,38,440,36,Sunderland,31,England - Premier League
+308,Lee Tomlin,15,14,2,2,7,0,80,0,AFC Bournemouth,6,England - Premier League
+309,Leighton Baines,51,50,18,6,41,59,287,24,Everton,18,England - Premier League
+310,Leon Britton,102,59,24,15,31,23,327,42,Swansea City,25,England - Premier League
+311,Leon Osman,17,10,0,2,5,2,49,2,Everton,9,England - Premier League
+312,Leroy Fer,45,40,18,21,14,20,165,19,Swansea City,11,England - Premier League
+313,Lewis Grabban,33,35,5,12,13,2,219,4,AFC Bournemouth,21,England - Premier League
+314,Libor Kozák,6,27,1,6,3,3,36,1,Aston Villa,4,England - Premier League
+315,Loïc Rémy,8,13,0,2,1,4,28,0,Chelsea,13,England - Premier League
+316,Lucas Pezzini Leiva,121,147,68,60,68,65,528,32,Liverpool,27,England - Premier League
+317,Luis Antonio Valencia Mosquera,52,42,14,19,18,20,145,12,Manchester United,14,England - Premier League
+318,Luke Shaw,19,25,7,8,10,18,68,1,Manchester United,5,England - Premier League
+319,Maarten Stekelenburg,78,0,0,0,1,0,3,0,Southampton,17,England - Premier League
+320,Mamadou Sakho,127,84,17,10,45,150,125,32,Liverpool,22,England - Premier League
+321,Mame Biram Diouf,46,79,12,23,20,17,212,8,Stoke City,26,England - Premier League
+322,Manuel Lanzini,140,63,23,13,25,5,278,25,West Ham United,26,England - Premier League
+323,Marc Albrighton,163,108,44,27,77,32,610,23,Leicester City,38,England - Premier League
+324,Marc Muniesa Martínez,45,45,18,11,34,45,184,26,Stoke City,15,England - Premier League
+325,Marc Pugh,66,62,16,12,25,16,225,12,AFC Bournemouth,26,England - Premier League
+326,Marc Wilson,6,21,5,3,1,18,32,4,Stoke City,4,England - Premier League
+327,Marcin Ryszard Wasilewski,5,17,5,5,7,20,39,3,Leicester City,4,England - Premier League
+328,Marco van Ginkel,28,44,20,19,18,24,218,13,Stoke City,17,England - Premier League
+329,Marcus Rashford,26,36,2,5,10,9,128,3,Manchester United,11,England - Premier League
+330,Mario Suárez Mata,50,27,10,17,17,21,137,20,Watford,15,England - Premier League
+331,Mark Bunn,49,0,0,1,1,0,2,1,Aston Villa,10,England - Premier League
+332,Mark Noble,214,126,48,47,68,26,603,46,West Ham United,37,England - Premier League
+333,Marko Arnautović,141,79,42,49,41,17,490,32,Stoke City,34,England - Premier League
+334,Marouane Chamakh,5,23,5,7,8,0,63,1,Crystal Palace,10,England - Premier League
+335,Marouane Fellaini-Bakkioui,81,87,17,38,26,21,224,10,Manchester United,18,England - Premier League
+336,Martin Kelly,40,54,18,11,11,50,143,12,Crystal Palace,13,England - Premier League
+337,Martin Olsson,83,66,17,28,43,78,202,28,Norwich City,24,England - Premier League
+338,Martin Škrtel,82,61,13,21,38,193,136,24,Liverpool,22,England - Premier League
+339,Martín Gastón Demichelis,42,43,12,13,19,75,119,26,Manchester City,20,England - Premier League
+340,Marvin Emnes,3,3,1,0,2,0,16,1,Swansea City,2,England - Premier League
+341,Massadio Haïdara,28,17,8,11,11,19,79,11,Newcastle United,7,England - Premier League
+342,Mathieu Debuchy,10,9,4,3,5,6,25,1,Arsenal,2,England - Premier League
+343,Mathieu Flamini,39,43,16,19,37,26,191,13,Arsenal,16,England - Premier League
+344,Matt Grimes,1,6,1,3,2,0,18,0,Swansea City,1,England - Premier League
+345,Matt Jarvis,31,37,9,4,18,8,167,9,Norwich City,22,England - Premier League
+346,Matt Miazga,4,8,2,1,5,6,13,3,Chelsea,2,England - Premier League
+347,Matt Ritchie,194,104,32,49,85,41,621,42,AFC Bournemouth,37,England - Premier League
+348,Matt Targett,56,30,8,4,26,39,123,17,Southampton,14,England - Premier League
+349,Matteo Darmian,62,115,52,31,36,74,347,37,Manchester United,28,England - Premier League
+350,Matthew Pennington,20,7,3,2,10,22,22,5,Everton,4,England - Premier League
+351,Mauro Matías Zárate,51,33,15,15,14,6,140,1,West Ham United,15,England - Premier League
+352,Max-Alain Gradel,66,41,14,12,20,9,214,12,AFC Bournemouth,14,England - Premier League
+353,Maya Yoshida,34,31,9,8,28,62,100,19,Southampton,20,England - Premier League
+354,Memphis Depay,80,37,9,22,20,10,187,8,Manchester United,29,England - Premier League
+355,Mesut Özil,146,57,24,24,25,6,467,19,Arsenal,35,England - Premier League
+356,Micah Richards,72,74,31,17,45,131,198,28,Aston Villa,24,England - Premier League
+357,Michael Carrick,96,64,25,16,38,46,269,37,Manchester United,27,England - Premier League
+358,Michail Antonio,108,105,32,27,56,60,341,51,West Ham United,26,England - Premier League
+359,Michel Vorm,4,0,0,0,0,0,0,0,Tottenham Hotspur,1,England - Premier League
+360,Miguel Arturo Layún Prado,5,5,1,1,1,3,31,1,Watford,3,England - Premier League
+361,Miguel Ángel Britos Cabrera,64,71,14,21,35,178,171,27,Watford,24,England - Premier League
+362,Mikel Arteta Amatriain,5,11,3,8,4,7,38,3,Arsenal,9,England - Premier League
+363,Mile Jedinak,85,115,31,43,35,81,394,41,Crystal Palace,27,England - Premier League
+364,Modou Barrow,38,46,7,3,30,5,199,8,Swansea City,22,England - Premier League
+365,Mohamed Naser Elsayed Elneny,44,19,6,10,15,22,167,15,Arsenal,11,England - Premier League
+366,Morgan Schneiderlin,137,108,41,60,35,51,510,63,Manchester United,29,England - Premier League
+367,Mousa Sidi Yaya Dembélé,184,147,80,57,60,36,578,39,Tottenham Hotspur,29,England - Premier League
+368,Moussa Sissoko,208,137,35,58,63,48,603,28,Newcastle United,37,England - Premier League
+369,Muhamed Bešić,53,31,15,9,19,18,138,9,Everton,12,England - Premier League
+370,N''Golo Kanté,270,246,102,54,114,77,906,110,Leicester City,37,England - Premier League
+371,Nabil Bentaleb,5,4,2,3,3,1,31,0,Tottenham Hotspur,5,England - Premier League
+372,Nacer Chadli,42,43,5,17,23,12,172,7,Tottenham Hotspur,28,England - Premier League
+373,Nathan Aké,71,102,39,31,73,112,302,24,Watford,24,England - Premier League
+374,Nathan Dyer,11,8,3,10,9,0,53,0,Leicester City,13,England - Premier League
+375,Nathan Redmond,120,102,31,28,57,16,430,17,Norwich City,35,England - Premier League
+376,Nathaniel Edwin Clyne,138,120,42,21,53,94,443,35,Liverpool,33,England - Premier League
+377,Neil Taylor,101,92,23,39,81,92,347,33,Swansea City,34,England - Premier League
+378,Nemanja Matić,176,131,60,38,52,58,486,47,Chelsea,33,England - Premier League
+379,Nicolás Hernán Otamendi,129,152,53,35,50,225,358,83,Manchester City,30,England - Premier League
+380,Nikica Jelavić,12,34,4,10,4,4,62,2,West Ham United,13,England - Premier League
+381,Nordin Amrabat,29,25,3,17,10,2,108,9,Watford,12,England - Premier League
+382,Odion Jude Ighalo,109,174,19,46,36,27,498,18,Watford,37,England - Premier League
+383,Ola Toivonen,20,50,8,13,10,9,114,0,Sunderland,12,England - Premier League
+384,Olivier Giroud,44,180,29,45,40,24,426,4,Arsenal,38,England - Premier League
+385,Oluwaseyi Babajide Ojo,15,14,7,2,5,2,118,4,Liverpool,8,England - Premier League
+386,Oriol Romeu Vidal,91,122,47,33,52,31,428,26,Southampton,29,England - Premier League
+387,Osazemwinde Peter Odemwingie,3,7,1,3,2,1,36,3,Stoke City,5,England - Premier League
+388,Oscar dos Santos Emboaba Júnior,96,97,40,22,34,20,397,15,Chelsea,27,England - Premier League
+389,Pablo Javier Zabaleta Girod,40,54,27,16,28,40,171,16,Manchester City,13,England - Premier League
+390,Paddy McNair,23,30,9,4,4,18,52,3,Manchester United,8,England - Premier League
+391,Pape N''Diaye Souaré,151,73,11,32,59,133,276,60,Crystal Palace,34,England - Premier League
+392,Papiss Demba Cissé,37,92,6,12,10,9,192,3,Newcastle United,21,England - Premier League
+393,Patrick Bamford,15,31,1,10,5,3,78,3,Norwich City,13,England - Premier League
+394,Patrick van Aanholt,177,103,55,18,69,72,442,52,Sunderland,33,England - Premier League
+395,Paul Dummett,38,97,24,17,60,123,320,27,Newcastle United,23,England - Premier League
+396,Paulo Dino Gazzaniga,10,0,0,0,0,0,0,0,Southampton,2,England - Premier League
+397,Pedro Chirivella Burgos,4,0,0,0,1,2,21,0,Liverpool,1,England - Premier League
+398,Pedro Eliezer Rodríguez Ledesma,161,77,26,26,57,6,382,14,Chelsea,29,England - Premier League
+399,Pedro Mba Obiang Avomo,62,63,26,23,34,31,286,17,West Ham United,23,England - Premier League
+400,Per Mertesacker,57,43,14,8,25,136,87,16,Arsenal,24,England - Premier League
+401,Peter Crouch,5,44,2,13,8,8,68,2,Stoke City,11,England - Premier League
+402,Petr Čech,172,0,0,0,2,2,3,0,Arsenal,34,England - Premier League
+403,Phil Bardsley,21,36,17,13,19,41,124,14,Stoke City,11,England - Premier League
+404,Phil Jagielka,87,85,17,10,45,174,193,29,Everton,21,England - Premier League
+405,Phil Jones,25,16,4,4,8,30,58,7,Manchester United,10,England - Premier League
+406,Philipp Wollscheid,103,142,47,21,53,198,353,66,Stoke City,31,England - Premier League
+407,Philippe Coutinho Correia,122,69,19,14,49,8,383,24,Liverpool,26,England - Premier League
+408,Radamel Falcao García Zárate,8,14,1,7,6,1,46,3,Chelsea,10,England - Premier League
+409,Raheem Sterling,115,64,20,27,31,7,311,28,Manchester City,31,England - Premier League
+410,Ramires Santos do Nascimento,37,41,13,23,19,9,151,3,Chelsea,12,England - Premier League
+411,Reece Oxford,5,9,4,2,7,7,31,6,West Ham United,7,England - Premier League
+412,Rees Greenwood,5,5,2,1,0,0,17,2,Sunderland,1,England - Premier League
+413,Rhu-endly Martina,45,49,18,15,29,40,175,31,Southampton,15,England - Premier League
+414,Rickie Lambert,22,65,0,7,3,5,89,1,West Bromwich Albion,19,England - Premier League
+415,Ritchie De Laet,26,48,12,7,33,24,110,7,Leicester City,12,England - Premier League
+416,Riyad Mahrez,199,132,35,29,85,25,587,33,Leicester City,37,England - Premier League
+417,Rob Elliot,93,0,0,0,1,0,2,0,Newcastle United,21,England - Premier League
+418,Robert Brady,156,141,54,51,66,84,530,45,Norwich City,36,England - Premier League
+419,Robert Huth,77,123,24,36,64,312,252,46,Leicester City,35,England - Premier League
+420,Robert Kenedy Nunes do Nascimento,45,26,9,7,13,8,102,12,Chelsea,14,England - Premier League
+421,Roberto Firmino Barbosa de Oliveira,114,149,50,32,57,11,614,13,Liverpool,31,England - Premier League
+422,Rolando Aarons,26,25,12,9,8,7,97,8,Newcastle United,10,England - Premier League
+423,Romelu Lukaku Menama,87,178,12,35,34,5,305,3,Everton,37,England - Premier League
+424,Ross Barkley,226,85,23,34,36,22,421,11,Everton,38,England - Premier League
+425,Ruben Loftus-Cheek,27,21,5,4,11,3,128,5,Chelsea,13,England - Premier League
+426,Rudy Gestede,33,152,4,25,28,24,190,3,Aston Villa,32,England - Premier League
+427,Rushian Hepburn-Murphy,1,0,0,0,1,0,2,0,Aston Villa,1,England - Premier League
+428,Russell Martin,111,88,16,32,61,195,209,35,Norwich City,30,England - Premier League
+429,Ryan Allsop,2,0,0,0,0,0,0,0,AFC Bournemouth,1,England - Premier League
+430,Ryan Bennett,27,65,10,16,32,154,120,22,Norwich City,22,England - Premier League
+431,Ryan Bertrand,105,102,25,36,57,99,374,47,Southampton,32,England - Premier League
+432,Ryan Mason,41,38,10,9,23,9,168,4,Tottenham Hotspur,22,England - Premier League
+433,Ryan Shawcross,39,86,24,20,32,132,181,26,Stoke City,20,England - Premier League
+434,Sadio Mané,205,118,34,53,61,12,505,21,Southampton,37,England - Premier League
+435,Saido Berahino,70,70,10,20,35,7,265,8,West Bromwich Albion,31,England - Premier League
+436,Sam Field,1,1,0,0,1,0,0,0,West Bromwich Albion,1,England - Premier League
+437,Samir Nasri,27,21,8,6,8,0,101,6,Manchester City,12,England - Premier League
+438,Samuel Mark Byram,15,9,2,7,6,12,38,12,West Ham United,4,England - Premier League
+439,Sandro Ranieri Guimarães Cordeiro,18,21,4,7,10,16,67,12,West Bromwich Albion,10,England - Premier League
+440,Santiago Cazorla González,112,34,23,18,29,17,185,11,Arsenal,15,England - Premier League
+441,Scott Dann,121,117,19,30,75,210,213,38,Crystal Palace,35,England - Premier League
+442,Scott Sinclair,59,47,8,5,27,2,205,7,Aston Villa,26,England - Premier League
+443,Sebastian Larsson,26,26,9,9,21,11,171,4,Sunderland,18,England - Premier League
+444,Sebastian Prödl,31,73,20,23,32,107,125,23,Watford,21,England - Premier League
+445,Sebastián Coates Nión,51,74,27,20,27,79,179,25,Sunderland,16,England - Premier League
+446,Segundo Víctor Ibarbo Guerrero,6,5,2,2,3,1,17,0,Watford,4,England - Premier League
+447,Serge Gnabry,3,1,0,2,0,0,13,0,West Bromwich Albion,1,England - Premier League
+448,Sergio Germán Romero,26,0,0,0,0,0,1,0,Manchester United,4,England - Premier League
+449,Sergio Leonel Agüero del Castillo,120,54,20,22,22,1,278,9,Manchester City,30,England - Premier League
+450,Shane Long,61,166,18,42,34,18,359,15,Southampton,28,England - Premier League
+451,Shaun MacDonald,2,1,1,0,0,0,7,0,AFC Bournemouth,3,England - Premier League
+452,Shay Given,12,0,0,0,0,0,0,0,Stoke City,3,England - Premier League
+453,Shinji Okazaki,71,218,20,32,43,17,515,11,Leicester City,36,England - Premier League
+454,Siem Stefan de Jong,22,36,8,9,12,4,108,2,Newcastle United,18,England - Premier League
+455,Simon Francis,146,190,64,38,58,213,403,60,AFC Bournemouth,38,England - Premier League
+456,Simon Mignolet,161,0,0,0,4,1,3,0,Liverpool,34,England - Premier League
+457,Stephen Ireland,11,15,9,4,8,1,82,5,Stoke City,13,England - Premier League
+458,Stephen Kingsley,18,14,2,2,9,18,44,2,Swansea City,4,England - Premier League
+459,Steve Cook,131,106,20,20,62,253,189,60,AFC Bournemouth,36,England - Premier League
+460,Steven Berghuis,17,11,1,11,5,1,60,2,Watford,9,England - Premier League
+461,Steven Caulker,7,10,2,0,5,18,11,1,Southampton,6,England - Premier League
+462,Steven Davis,168,118,39,22,58,41,555,21,Southampton,34,England - Premier League
+463,Steven Fletcher,25,118,6,18,10,4,143,1,Sunderland,16,England - Premier League
+464,Steven Naismith,49,90,16,31,33,9,296,14,Norwich City,23,England - Premier League
+465,Steven Pienaar,4,6,0,2,5,2,24,4,Everton,4,England - Premier League
+466,Steven Taylor,26,11,1,3,22,55,31,11,Newcastle United,10,England - Premier League
+467,Steven Whittaker,29,29,13,10,26,26,95,1,Norwich City,8,England - Premier League
+468,Stéphane Sessègnon,133,60,13,22,29,15,220,18,West Bromwich Albion,25,England - Premier League
+469,Sullay Kaikai,1,2,2,1,0,0,10,0,Crystal Palace,1,England - Premier League
+470,Sung-Yeung Ki,113,58,15,23,23,23,332,18,Swansea City,28,England - Premier League
+471,Sylvain Distin,37,36,6,5,14,46,76,4,AFC Bournemouth,11,England - Premier League
+472,Séamus Coleman,145,93,41,23,58,67,333,36,Everton,28,England - Premier League
+473,Sébastien Aymar Bassong Nguena,99,85,18,27,40,233,250,24,Norwich City,32,England - Premier League
+474,Tetchi Jores Charlemagne Ulrich Okore,33,59,20,10,25,82,132,17,Aston Villa,12,England - Premier League
+475,Theo Walcott,54,37,7,3,20,9,152,9,Arsenal,28,England - Premier League
+476,Thibaut Courtois,110,0,0,2,1,2,4,0,Chelsea,23,England - Premier League
+477,Thomas Robson,1,6,1,0,2,5,10,3,Sunderland,1,England - Premier League
+478,Tim Howard,142,0,0,2,3,2,6,0,Everton,25,England - Premier League
+479,Timm Klose,19,45,10,7,25,86,79,26,Norwich City,10,England - Premier League
+480,Timothy Evans Fosu-Mensah,8,25,13,3,4,24,45,12,Manchester United,8,England - Premier League
+481,Timothy Michael Krul,36,0,0,0,1,1,5,0,Newcastle United,8,England - Premier League
+482,Toby Alderweireld,139,105,25,9,73,258,237,46,Tottenham Hotspur,38,England - Premier League
+483,Tokelo Anthony Rantie,1,3,2,3,0,0,14,0,AFC Bournemouth,3,England - Premier League
+484,Tom Carroll,24,33,11,9,21,6,161,6,Tottenham Hotspur,19,England - Premier League
+485,Tom Cleverley,92,84,34,14,30,21,436,16,Everton,22,England - Premier League
+486,Tom Davies,5,3,1,3,3,2,25,3,Everton,2,England - Premier League
+487,Tommy Elphick,25,34,8,10,6,53,63,16,AFC Bournemouth,12,England - Premier League
+488,Tony Hibbert,3,0,0,0,1,2,7,3,Everton,1,England - Premier League
+489,Troy Deeney,144,349,27,58,65,51,609,8,Watford,38,England - Premier League
+490,Tyler Roberts,6,0,0,1,1,0,6,0,West Bromwich Albion,1,England - Premier League
+491,Vadis Odjidja-Ofoe,22,19,6,5,11,5,95,2,Norwich City,10,England - Premier League
+492,Valon Behrami,74,96,39,40,39,18,434,24,Watford,21,England - Premier League
+493,Victor Chinedu Anichebe,10,31,2,4,1,9,54,2,West Bromwich Albion,10,England - Premier League
+494,Victor Moses,49,45,10,19,19,2,134,6,West Ham United,21,England - Premier League
+495,Victor Wanyama,195,171,58,69,50,82,618,43,Southampton,30,England - Premier League
+496,Vincent Kompany,57,27,14,15,18,90,96,21,Manchester City,14,England - Premier League
+497,Virgil van Dijk,123,133,41,31,51,292,272,69,Southampton,34,England - Premier League
+498,Vito Mannone,111,0,0,0,0,0,2,0,Sunderland,19,England - Premier League
+499,Vurnon Anita,128,106,46,34,66,59,534,39,Newcastle United,28,England - Premier League
+500,Wahbi Khazri,56,53,19,21,19,9,288,18,Sunderland,14,England - Premier League
+501,Wayne Hennessey,132,0,0,0,0,0,3,0,Crystal Palace,29,England - Premier League
+502,Wayne Mark Rooney,107,101,14,34,24,15,287,9,Manchester United,28,England - Premier League
+503,Wayne Routledge,72,86,19,30,30,12,331,11,Swansea City,28,England - Premier League
+504,Wes Brown,15,21,6,6,9,57,51,8,Sunderland,6,England - Premier League
+505,Wes Hoolahan,146,66,15,22,41,6,469,15,Norwich City,30,England - Premier League
+506,Wes Morgan,86,124,33,32,87,244,273,46,Leicester City,38,England - Premier League
+507,Wilfredo Daniel Caballero,11,0,0,0,0,0,1,0,Manchester City,4,England - Premier League
+508,Wilfried Guemiand Bony,44,72,7,18,14,8,98,2,Manchester City,26,England - Premier League
+509,Wilfried Zaha,193,98,34,43,50,14,518,37,Crystal Palace,34,England - Premier League
+510,Willian Borges da Silva,166,83,32,29,22,13,484,22,Chelsea,35,England - Premier League
+511,Winston Reid,56,94,37,24,51,177,248,41,West Ham United,24,England - Premier League
+512,Xherdan Shaqiri,107,41,6,30,12,5,253,11,Stoke City,27,England - Premier League
+513,Yann Gérard M''Vila,218,143,72,20,73,102,630,65,Sunderland,37,England - Premier League
+514,Yann Kermorgant,5,6,0,0,4,1,17,1,AFC Bournemouth,7,England - Premier League
+515,Yannick Bolasie Yala,123,81,19,32,34,28,281,10,Crystal Palace,26,England - Premier League
+516,Yoan Gouffran,15,14,2,5,7,10,54,8,Newcastle United,8,England - Premier League
+517,Yohan Benalouane,2,1,0,3,2,5,8,3,Leicester City,4,England - Premier League
+518,Yohan Cabaye,179,124,56,49,60,21,681,89,Crystal Palace,33,England - Premier League
+519,Younes Kaboul,72,117,25,17,57,191,286,39,Sunderland,23,England - Premier League
+520,Youssouf Chafiq Mulumbu Ngangu,27,29,17,7,7,8,106,5,Norwich City,7,England - Premier League
+521,Àngel Rangel Zaragoza,86,81,31,18,50,91,216,36,Swansea City,23,England - Premier League
+522,Ádám Bogdán,8,0,0,0,0,0,0,0,Liverpool,2,England - Premier League
+523,Éderzito António Macedo Lopes,6,27,3,12,4,6,51,2,Swansea City,13,England - Premier League
+524,Łukasz Fabiański,165,0,0,1,1,2,5,0,Swansea City,37,England - Premier League
